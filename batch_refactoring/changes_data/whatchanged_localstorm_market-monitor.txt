@@ -1,0 +1,683 @@
+commit=6440e68cbb02aa47bfdca14bac8a9e3a8978ea33:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/SanityUtils.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVIX.java
+commit=01293f57430b6199a7c645f10a391bb4419859a3:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=0bc2e8ed458dd7ffba130a9a55463ad55f855183:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/google/GFSourceRUT.java
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=9e73c198232649541c8dbad55e84887bd6d31d3f:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/google/GFSourceNDX.java
+M	src/co/kuznetsov/market/feeds/google/GFUtil.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFUtil.java
+commit=a6218a600c298fae42f7a6fa4c6aca5da045d28b:alexey@kuznetsov.co
+
+D	src/co/kuznetsov/market/feeds/google/GFSourceOEX.java
+D	src/co/kuznetsov/market/feeds/google/GFSourceVXO.java
+D	src/co/kuznetsov/market/feeds/yahoo/YFSourceOEX.java
+D	src/co/kuznetsov/market/feeds/yahoo/YFSourceVXO.java
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+M	src/co/kuznetsov/market/monitor/Ticker.java
+commit=8b459e9afad1403fa4752874f0c63845bd4658ad:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=783483b3b67c7fe7c944375d34db74a9c17bb5ed:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/Source.java
+commit=84db508f1f08a5adc29442ad5dc401cc4f6a26fa:alexey@kuznetsov.co
+
+R079	src/co/kuznetsov/market/feeds/google/GFSourceNDQ.java	src/co/kuznetsov/market/feeds/google/GFSourceNDX.java
+R080	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDX.java
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+M	src/co/kuznetsov/market/monitor/Ticker.java
+commit=3144c76446460d1146c53bb70f0a89eeeb2e48ff:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/Main.java
+A	src/co/kuznetsov/market/feeds/HiLo.java
+M	src/co/kuznetsov/market/feeds/Source.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVXO.java
+M	src/co/kuznetsov/market/feeds/google/GFUtil.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVXO.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFUtil.java
+M	src/co/kuznetsov/market/monitor/DeviationMonitor.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=c28c3039d5a7a47725a7eeda58797d473e3c2945:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/Source.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVXO.java
+A	src/co/kuznetsov/market/feeds/google/GFUtil.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVXO.java
+A	src/co/kuznetsov/market/feeds/yahoo/YFUtil.java
+commit=3bc5d313b132df8163a7bfe8aa884285989d4965:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=d9f70fcb2e6cbea0a01bd7e41520f9c13dfeaaeb:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=794eb163197d5c55d104388707939c6b277fabc2:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=a9a6246b5abfd5d091559202dbd54b6558757fe5:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=2e7bc3ac88a0f9d515edf5adc1f9139a24788eda:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/Source.java
+commit=d90e487affe64fa7e1f9dc5cdd5eefeab61c7c02:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/google/GFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceQQV.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceRVX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/google/GFSourceVXO.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceOEX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRUT.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceSNP.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVIX.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceVXO.java
+commit=10e728b0d9e91bd18ccef68e468220118160e848:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Deviation.java
+M	src/co/kuznetsov/market/monitor/DeviationMonitor.java
+A	src/co/kuznetsov/market/util/DecimalUtil.java
+commit=cabfd1c1f66ff92692576a6299a298cc2dfa1a54:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Deviation.java
+commit=e960c21d71d94fb899644bea81d676b423166f76:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java
+M	src/co/kuznetsov/market/feeds/yahoo/YFSourceRUT.java
+M	src/co/kuznetsov/market/monitor/Deviation.java
+commit=74b68f734e4034df6daeb292e719e5d150618281:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=92f6dd9a49e85e08be5fd75cb2270cfa2a3bb52f:alexey@kuznetsov.co
+
+M	.idea/copyright/profiles_settings.xml
+M	.idea/workspace.xml
+A	src/co/kuznetsov/market/feeds/google/GFSourceNDQ.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceOEX.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceQQV.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceRUT.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceRVX.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceSNP.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceVIX.java
+A	src/co/kuznetsov/market/feeds/google/GFSourceVXO.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceNDQ.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceNDQ.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceOEX.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceOEX.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceQQV.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceQQV.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceRUT.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceRUT.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceRVX.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceRVX.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceSNP.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceSNP.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceVIX.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceVIX.java
+R096	src/co/kuznetsov/market/feeds/yahoo/SourceVXO.java	src/co/kuznetsov/market/feeds/yahoo/YFSourceVXO.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+A	src/co/kuznetsov/market/monitor/SourceChain.java
+commit=59c22b8129384ad1cf004013f5a875932e0cb5fc:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/DeviationMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=948a696f2f765ecbe85d64de0e3daac8fff22a7e:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Fixing.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=788b5b3361ff1f122f5daeab323598b25f58633b:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Expiration.java
+commit=947da54626e95229fce7a8ca8ab8f369ed5f9da9:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=081678e0addda687a9e7d23b30cad4b2f4677d42:alexey@kuznetsov.co
+
+D	config.json
+D	src/co/kuznetsov/market/monitor/TickerDeviations.java
+commit=7bb392ecf2c7d54fb7dc3eb03f01a09239a02bdc:alexey@kuznetsov.co
+
+M	bin/market-monitor-win64.cmd
+M	market-monitor.iml
+M	src/co/kuznetsov/market/monitor/Deviation.java
+M	src/co/kuznetsov/market/monitor/DeviationMonitor.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=59900fa98e8416a9e4c953543fe063947593fc29:alexey@kuznetsov.co
+
+A	sounds/danger.wav
+M	src/co/kuznetsov/market/Main.java
+commit=960ea66932e5cdcac0a73299158fe29a7356dc07:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=7c9ede24ab6d6767bfcdca9ca9eb22f7b1704180:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=21751363ec49ca4065b416931de83b240107d655:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=fddd10c4c19cb073f863b59a06c1f0d4d7a3e0f9:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=5f8077cf486b38b29edc8db9ed4fde1c81aca2d5:alexey@kuznetsov.co
+
+M	bin/market-monitor-macos.sh
+A	config.json
+A	src/co/kuznetsov/market/monitor/Deviation.java
+A	src/co/kuznetsov/market/monitor/DeviationMonitor.java
+M	src/co/kuznetsov/market/monitor/Expiration.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/Ticker.java
+A	src/co/kuznetsov/market/monitor/TickerDeviations.java
+commit=0db4da83a1dbd0eff28c0a3178eb8b96a41f35f4:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Expiration.java
+commit=562a95dc6e8d0c272e10d50d31c4e777930efca6:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=24c160515e2b2891b095b4383430378d7f63ffbc:alexey@kuznetsov.co
+
+M	docs/images/spreads-config.png
+commit=9ddf8c61b47fe6435ecdce24f5de5acd434ea9d1:alexey@kuznetsov.co
+
+M	docs/images/console.png
+commit=3000accc4b88db3742bc42a2a55784dcaaf75d12:alexey@kuznetsov.co
+
+A	docs/images/risk-down.png
+commit=88496a62cec01d30a46758714bfcec6fb223ae8d:alexey@kuznetsov.co
+
+M	docs/images/console.png
+A	docs/images/flat.png
+commit=068a83d909431e6510bf472da47c912c89f9747e:alexey@kuznetsov.co
+
+M	lib/linux64/swt.jar
+M	lib/win64/swt.jar
+commit=91b8eb406d86bd67e0873a11e6ab0970e09162ba:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/Main.java
+commit=75efdf46c5d1473feb3686e4943f6f14e41b23a0:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=4511e3b1b3a4870ae4980373e5a11e606006f7b0:alexey@kuznetsov.co
+
+M	bin/market-monitor-win64.cmd
+commit=0647c02dba888217c7bcb6bf7a7d20c29c1c5317:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	bin/market-monitor-linux.sh
+M	bin/market-monitor-macos.sh
+M	bin/market-monitor-win64.cmd
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadsParser.java
+commit=32df67b785ca1cff87cc30d17e74be64ff88576d:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadsParser.java
+commit=d3d7e5189e11108b375d7b2f904a80804559a4a3:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=748a95bc843ebb610ac90fcb7a1d0ea7bbcacff0:alexey@kuznetsov.co
+
+M	.idea/copyright/profiles_settings.xml
+D	.idea/libraries/lib.xml
+D	.idea/libraries/swt.xml
+M	.idea/libraries/swt1.xml
+M	.idea/workspace.xml
+M	lib/macos64/swt.jar
+M	market-monitor.iml
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=10eaed7cc0eddca3976802f1a011b8d2e1981d1d:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=f0829525eaeed319a5993cff8c4de60e61f15bb1:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=abdc9f4eb99688ff63d5688f88d8370ae125f96a:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=e2955750994ab3da83fa8080eb3ea7124243ede1:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Expiration.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+commit=ead80420c9df8e4d86166e75b59e9e89e7ffc475:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+commit=8d5bf997dd8a4417c70ce56a594fd25c9184e4a9:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+commit=92123a9ccc022724b9f35f24f9eb7d72d4a5d925:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Expiration.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+commit=cd2f70971ab0b191d1dac3a79cede1615ded4262:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Expiration.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/sound/Player.java
+commit=865e30faecc9e8fefe8b685ef7881182acef15f2:alexey@kuznetsov.co
+
+A	src/co/kuznetsov/market/Test.java
+A	src/co/kuznetsov/market/monitor/Expiration.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadsParser.java
+commit=525f7ba767271eba4e0d84a01b6d2d5fafb126bc:alexey@kuznetsov.co
+
+M	bin/market-monitor-linux.sh
+M	bin/market-monitor-macos.sh
+M	bin/market-monitor-win64.cmd
+M	src/co/kuznetsov/market/Main.java
+commit=f26d00f18b10f01887fc453bd1f53831df2dbf77:alexey@kuznetsov.co
+
+M	.idea/copyright/profiles_settings.xml
+A	sounds/critical.wav
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/sound/Player.java
+commit=3b8b7aa7e017b1d2e934102751db8c2e66d5d9e0:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+commit=854a41616bade65e618f5d501242dbdfd14e1db7:alexey@kuznetsov.co
+
+M	.idea/copyright/profiles_settings.xml
+M	.idea/workspace.xml
+M	bin/market-monitor-macos.sh
+M	src/co/kuznetsov/market/Main.java
+commit=5d51d5cb15dcde3b716ace0d93b498c70c289b6c:alexey@kuznetsov.co
+
+M	bin/market-monitor-linux.sh
+M	bin/market-monitor-macos.sh
+M	bin/market-monitor-win64.cmd
+commit=0db75d4d7bb36884750c1e38d74425276882b4b0:alexey@kuznetsov.co
+
+M	bin/market-monitor-linux.sh
+M	bin/market-monitor-macos.sh
+M	bin/market-monitor-win64.cmd
+A	sounds/bell.wav
+M	src/co/kuznetsov/market/Main.java
+A	src/co/kuznetsov/market/sound/Player.java
+commit=109d3ed5f491f045d913b306bdc0ce32e6bac06b:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+M	src/co/kuznetsov/market/monitor/SpreadsParser.java
+commit=6fa636b6549d817a3e182f90f688882dd37cdba8:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=f38a6e1304c0d9c0be743e6d2fe4e33cd656c40a:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=30d3f92399008a9bf439fa346bb3da9160008646:alexey@kuznetsov.co
+
+A	src/co/kuznetsov/market/feeds/yahoo/SourceOEX.java
+M	src/co/kuznetsov/market/feeds/yahoo/SourceSNP.java
+A	src/co/kuznetsov/market/feeds/yahoo/SourceVXO.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/Ticker.java
+commit=cafc634c9dc571af3053c5f5e813fc61d11f2a0b:alexey@kuznetsov.co
+
+M	.idea/copyright/profiles_settings.xml
+M	src/co/kuznetsov/market/feeds/yahoo/SourceNDQ.java
+A	src/co/kuznetsov/market/feeds/yahoo/SourceQQV.java
+M	src/co/kuznetsov/market/feeds/yahoo/SourceRUT.java
+A	src/co/kuznetsov/market/feeds/yahoo/SourceRVX.java
+R077	src/co/kuznetsov/market/feeds/yahoo/SourceSNP500.java	src/co/kuznetsov/market/feeds/yahoo/SourceSNP.java
+M	src/co/kuznetsov/market/feeds/yahoo/SourceVIX.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/Ticker.java
+commit=1a1d0c5402d9ecf7b80c6cbce51e28c45258f296:alexey@kuznetsov.co
+
+M	README.md
+commit=63ad8a3bb6852aad9cfcbadabfc7ff8c238c88c3:alexey@kuznetsov.co
+
+M	README.md
+commit=747a9b024a26a4925c5adfcf1f5cc261a4aa7318:alexey@kuznetsov.co
+
+M	README.md
+commit=8da4e096aa2cc3b0e964cb929cad67c89861e8e0:alexey@kuznetsov.co
+
+M	README.md
+commit=e74abf3124d9107013f022e50c655a5961d187c1:alexey@kuznetsov.co
+
+M	docs/images/console.png
+commit=4ec38d065f899696fba562c3f65fc817696a97a8:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/Spread.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=ac79837e1ba8e1b23001c3fe2db5f425215bcf37:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/monitor/Fixing.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=d58733f917ffaa3d393c75170764503afb66c419:alexey@kuznetsov.co
+
+M	README.md
+commit=85c0a1245840481c0893dad8f458fc6455266355:alexey@kuznetsov.co
+
+A	docs/images/spreads-config.png
+commit=d61d3f5166a2808f8553b678bad6c501badb9291:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=bd34bc3ec7567266d4d9f63f020f7ba7ffff58eb:alexey@kuznetsov.co
+
+M	README.md
+commit=e1fedebbb485736cf51226e7e130db7b2e556859:alexey@kuznetsov.co
+
+M	README.md
+commit=95d89f30a18957ba63880c81c6135854df1a3527:alexey@kuznetsov.co
+
+A	docs/images/console.png
+commit=abe89386a70c450073ed60bb9225f593fcf67573:alexey@kuznetsov.co
+
+D	docs/images/console.PNG
+commit=001c0c0a9c886abbba85b41bbea4c931485a9e95:alexey@kuznetsov.co
+
+A	docs/images/console.PNG
+commit=72148b3fa3d9d7b5dd7e9a9853ece7271ae25439:alexey@kuznetsov.co
+
+M	README.md
+commit=be3618c7579a50b3969ba75b56985935656f4183:alexey@kuznetsov.co
+
+M	README.md
+commit=0cde4458a26ce25b0b12ef89b2b5f915647d2d94:alexey@kuznetsov.co
+
+M	README.md
+commit=e4292e9939701d162924176c546d49389972ef71:alexey@kuznetsov.co
+
+M	README.md
+commit=e572c36a8a65b8bd6a74c23211573865bc4a048d:alexey@kuznetsov.co
+
+A	docs/images/market-closed.png
+commit=01a81014769f46f8d671488c2cad09d4a8ca53a2:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	bin/market-monitor-macos.sh
+M	src/co/kuznetsov/market/monitor/SpreadHolder.java
+commit=6c9004233c2b4b46ee4921ed301115b5657d949d:alexey@kuznetsov.co
+
+M	.idea/ant.xml
+M	.idea/copyright/profiles_settings.xml
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=0ca2d5e1ee29119c5db04528cfc3bce83d59e306:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+commit=7541051258f4ca9a34cb2e9a011c435da3c0a4cc:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+R100	bin/market-monitor.cmd	bin/market-monitor-win64.cmd
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=2ae10a5c619559c40a2caced1cc452809a89e8d3:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/feeds/yahoo/SourceSNP500.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=f097a2620e3cb3cd2a7a614d9c53684e981a6f8f:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=ae3bbe6d57a77251a63f6e8771d49188c91c557b:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=10aa6f78d93a8ba878ec2e9b2f063f58b76a41c1:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=c5c83385606f63e2af783e44b65c6ff96f4aaf27:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/gui/Alerter.java
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=9b00ecda277929c4f805cf8105d8fd8b13813962:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/monitor/QuoteHolder.java
+commit=58b54bb7ff8f37f896f7443c4b70c86b44a1b6c2:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=e37530635eadaa1ec6752c8472f5eec0bfa08955:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+commit=ba1ba07d7a64c2092251cfe312dfbecef7b54779:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+A	bin/market-monitor-linux.sh
+R100	bin/market-monitor.sh	bin/market-monitor-macos.sh
+A	lib/linux64/swt.jar
+commit=90a50e881a523b6b5d9e4850c9062dfb852eb10b:alexey@kuznetsov.co
+commit=8e96ee830c8049aaeb3f8828f7214a5e0d578b36:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+R093	src/co/kuznetsov/market/feeds/SourceNDQ.java	src/co/kuznetsov/market/feeds/yahoo/SourceNDQ.java
+R090	src/co/kuznetsov/market/feeds/SourceRUT.java	src/co/kuznetsov/market/feeds/yahoo/SourceRUT.java
+R093	src/co/kuznetsov/market/feeds/SourceSNP500.java	src/co/kuznetsov/market/feeds/yahoo/SourceSNP500.java
+R093	src/co/kuznetsov/market/feeds/SourceVIX.java	src/co/kuznetsov/market/feeds/yahoo/SourceVIX.java
+M	src/co/kuznetsov/market/monitor/MarketMonitor.java
+commit=8e921dbde7cb95ace22e1a1db8e7f5a6fca583a4:alexey@kuznetsov.co
+
+M	README.md
+commit=0c8597a4e182202a7b75af2cab2235b90b5f92be:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+commit=c9c1a5e47ddfd2e4b95588577144d4d463280dd1:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/monitor/MarketHash.java
+commit=fabc297cfebe6708010bbfd6664030bc31c3783d:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/feeds/Source.java
+M	src/co/kuznetsov/market/feeds/SourceNDQ.java
+M	src/co/kuznetsov/market/feeds/SourceRUT.java
+M	src/co/kuznetsov/market/feeds/SourceSNP500.java
+M	src/co/kuznetsov/market/feeds/SourceVIX.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+R098	src/co/kuznetsov/market/market/Fixing.java	src/co/kuznetsov/market/monitor/Fixing.java
+A	src/co/kuznetsov/market/monitor/MarketHash.java
+R097	src/co/kuznetsov/market/market/MarketMonitor.java	src/co/kuznetsov/market/monitor/MarketMonitor.java
+R088	src/co/kuznetsov/market/market/QuoteHolder.java	src/co/kuznetsov/market/monitor/QuoteHolder.java
+R093	src/co/kuznetsov/market/market/Spread.java	src/co/kuznetsov/market/monitor/Spread.java
+R095	src/co/kuznetsov/market/market/SpreadHolder.java	src/co/kuznetsov/market/monitor/SpreadHolder.java
+R097	src/co/kuznetsov/market/market/SpreadsParser.java	src/co/kuznetsov/market/monitor/SpreadsParser.java
+R076	src/co/kuznetsov/market/market/Ticker.java	src/co/kuznetsov/market/monitor/Ticker.java
+R056	src/co/kuznetsov/market/market/WarnLevel.java	src/co/kuznetsov/market/monitor/WarnLevel.java
+commit=ed93a23d8ff2de7fedaff41cf9eb8b2631c25af7:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/market/QuoteHolder.java
+commit=fd346f7d349b12d37fb4bf2e81cedebb71fcdc10:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+D	lib/commons-io-1.4-default.jar
+commit=c388892d40185da805962a27a9b81c219b044b3f:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/market/QuoteHolder.java
+commit=23b9c617d47e84166990b023c01b6f2802b72f22:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+commit=699ce2248751652cdaa43e2d3a473a9d31d7d7fb:alexey@kuznetsov.co
+
+M	.idea/libraries/lib.xml
+M	.idea/misc.xml
+M	.idea/workspace.xml
+A	lib/je-5.0.73.jar
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/gui/Alerter.java
+A	src/co/kuznetsov/market/market/Fixing.java
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+M	src/co/kuznetsov/market/market/QuoteHolder.java
+M	src/co/kuznetsov/market/market/SpreadHolder.java
+M	src/co/kuznetsov/market/market/WarnLevel.java
+commit=c276d8feb7547e6f79024c8e07a92295d6169982:alexey@kuznetsov.co
+
+M	README.md
+commit=a1a7b633cc4335f443670d3b308b9e02c9a54965:alexey@kuznetsov.co
+
+A	.idea/ant.xml
+A	.idea/uiDesigner.xml
+M	.idea/workspace.xml
+M	bin/market-monitor.sh
+M	src/co/kuznetsov/market/Main.java
+commit=2ce4418dd4b5ab20b13a754e4f7887bc1870f81f:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+A	src/co/kuznetsov/market/feeds/SourceVIX.java
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+M	src/co/kuznetsov/market/market/Ticker.java
+commit=a24945e9393522689f9158a7d1c98da52c17ce95:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/Main.java
+commit=89ce713ae19552e148e47b53f2bf449f882f0cd9:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	bin/market-monitor.cmd
+M	src/co/kuznetsov/market/feeds/Source.java
+R086	src/co/kuznetsov/market/feeds/SourceNDX.java	src/co/kuznetsov/market/feeds/SourceNDQ.java
+M	src/co/kuznetsov/market/feeds/SourceRUT.java
+M	src/co/kuznetsov/market/feeds/SourceSNP500.java
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+M	src/co/kuznetsov/market/market/QuoteHolder.java
+M	src/co/kuznetsov/market/market/Spread.java
+M	src/co/kuznetsov/market/market/SpreadsParser.java
+R079	src/co/kuznetsov/market/market/Tickers.java	src/co/kuznetsov/market/market/Ticker.java
+commit=1d1a7af243dbb8315454239b86f7853b5d35937d:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	bin/market-monitor.cmd
+M	src/co/kuznetsov/market/Main.java
+R093	src/co/kuznetsov/market/sources/SanityUtils.java	src/co/kuznetsov/market/feeds/SanityUtils.java
+R083	src/co/kuznetsov/market/sources/Source.java	src/co/kuznetsov/market/feeds/Source.java
+R091	src/co/kuznetsov/market/sources/SourceNDX.java	src/co/kuznetsov/market/feeds/SourceNDX.java
+R091	src/co/kuznetsov/market/sources/SourceRUT.java	src/co/kuznetsov/market/feeds/SourceRUT.java
+R091	src/co/kuznetsov/market/sources/SourceSNP500.java	src/co/kuznetsov/market/feeds/SourceSNP500.java
+R098	src/co/kuznetsov/market/Alerter.java	src/co/kuznetsov/market/gui/Alerter.java
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+M	src/co/kuznetsov/market/market/SpreadHolder.java
+M	src/co/kuznetsov/market/market/WarnLevel.java
+commit=15a6e3b05b80f5891c13362a405c475b9569d05d:alexey@kuznetsov.co
+
+A	bin/market-monitor.sh
+commit=49c74808cb3f97e6c7134881c340c79b9bb7e2f0:alexey@kuznetsov.co
+
+M	bin/market-monitor.cmd
+commit=26a379db3ba8776f87b15c6643fa0227dd9623f7:alexey@kuznetsov.co
+
+M	.idea/workspace.xml
+M	src/co/kuznetsov/market/Main.java
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+M	src/co/kuznetsov/market/market/SpreadHolder.java
+A	src/co/kuznetsov/market/market/WarnLevel.java
+commit=207ff704980e8e7a0e8fe60091e3f88f862e9704:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/market/MarketMonitor.java
+commit=3380cadc21762848c68931732094b000cc5113fb:alexey@kuznetsov.co
+
+M	src/co/kuznetsov/market/market/SpreadsParser.java
+commit=3bf350bb8e7b2d1db19ce0b6a828a19473d6b014:alexey@kuznetsov.co
+
+A	.gitignore
+A	.idea/.name
+A	.idea/compiler.xml
+A	.idea/copyright/profiles_settings.xml
+A	.idea/encodings.xml
+A	.idea/libraries/lib.xml
+A	.idea/libraries/swt.xml
+A	.idea/libraries/swt1.xml
+A	.idea/misc.xml
+A	.idea/modules.xml
+A	.idea/scopes/scope_settings.xml
+A	.idea/vcs.xml
+A	.idea/workspace.xml
+A	bin/market-monitor.cmd
+A	market-monitor.iml
+commit=e2a4116645dba98bb4396bf0bb6c9ec8e724b0c5:alexey@kuznetsov.co
+
+A	lib/commons-io-1.4-default.jar
+A	lib/jsoup-1.7.3.jar
+A	lib/macos64/swt.jar
+A	lib/win64/swt.jar
+A	src/co/kuznetsov/market/Alerter.java
+A	src/co/kuznetsov/market/Main.java
+A	src/co/kuznetsov/market/market/MarketMonitor.java
+A	src/co/kuznetsov/market/market/QuoteHolder.java
+A	src/co/kuznetsov/market/market/Spread.java
+A	src/co/kuznetsov/market/market/SpreadHolder.java
+A	src/co/kuznetsov/market/market/SpreadsParser.java
+A	src/co/kuznetsov/market/market/Tickers.java
+A	src/co/kuznetsov/market/sources/SanityUtils.java
+A	src/co/kuznetsov/market/sources/Source.java
+A	src/co/kuznetsov/market/sources/SourceNDX.java
+A	src/co/kuznetsov/market/sources/SourceRUT.java
+A	src/co/kuznetsov/market/sources/SourceSNP500.java
+commit=ceaf8a41ea0d8017d43e120f65294b9b5392f03b:alexey@kuznetsov.co
+
+A	README.md

@@ -1,0 +1,881 @@
+commit=ab9efe7b4c66765198b3bc4eac665ce23c2f9c6a:acogoluegnes@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=903343550cc5a43a11763eb2b07e65cbd8337fa4:acogoluegnes@gmail.com
+commit=120593e9fdc7b4cabfef2f99b2fd8bb4789caef7:acogoluegnes@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/config/ConnectionConfig.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/util/concurrent/NamedThreadFactory.java
+commit=19028fd83c9a47801b23e5f3be23a0256467aeb9:acogoluegnes@gmail.com
+
+M	pom.xml
+commit=eaea62384cf953ae8054b98cb7f1bb9950b76647:acogoluegnes@gmail.com
+
+M	pom.xml
+commit=3e3a8a2c23ceb0284e450fbff9cc0e5c32faee31:michael@novemberain.com
+commit=a838fef9008a1487e512f3f3b74a04a4aa533e8d:f.gruber@eslgaming.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=ea47a0eb78296c91e8af816063f18b78b9d7b62a:jhalterman@gmail.com
+
+M	README.md
+commit=068334ec7e77ca024c3bc424c42f3b9670274811:jhalterman@gmail.com
+commit=7864816031c7feb090ea06b2dcef2baf30aeb691:jhalterman@gmail.com
+commit=ca8e1ce8b12b3f5b35b12190e915cdbb4b9ea845:kolena@avast.com
+
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+commit=6786a1d21470bb089c89c1e85d1a8c679ad31c03:kolena@avast.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=6225df68ae5feae5a9744ca3966cfe3527750b93:kolena@avast.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=0851ac6330f51238da9fbb7294b8eb9f3436e31a:jhalterman@gmail.com
+
+M	pom.xml
+commit=f663bb323c3a7ec78020f55489ccd10c2e7a64fe:jhalterman@gmail.com
+
+M	README.md
+commit=43d47d292cef281ad21bf45d32df1409b068b690:jhalterman@gmail.com
+
+M	CHANGES.md
+commit=c1f92a62cbdc3a8a06826d3c78a3332d54e0e89c:jhalterman@gmail.com
+
+M	pom.xml
+commit=5116106a2b1a0677d236f02381feccfdfb8a4df5:jhalterman@gmail.com
+
+M	pom.xml
+commit=bec33ab517833d12b8c0e7bca0304969ce380325:jhalterman@gmail.com
+
+M	bin/push-javadoc.sh
+M	pom.xml
+commit=41e8a726d764b2ede4dd02abf7daa772c2ff0adb:jhalterman@gmail.com
+commit=692ef78815b78366c714f8428f8b13e2bd2e4e46:igreenfi@cisco.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=d033b1745ad339037c672a3afb40686877ed6a65:igreenfi@cisco.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=49df0ab80fffcfb897bdb9b29c73c59e42c6ad6c:igreenfi@cisco.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=5285c08c10430e0d045c3cca7be87d286aabcf58:igreenfi@cisco.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=722d915104149d1ab9fb7b68f11fb302c8171c8a:igreenfi@cisco.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=53d84c3b207ca94ec00a28bdc403e5a4d16334eb:igreenfi@cisco.com
+
+M	pom.xml
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=1b91e433577a6549bd36bf8fab3cda27e949bbf4:jhalterman@gmail.com
+commit=d5193a03d9206ace1cc695656ab4eefa0643009c:neuhaus@tyntec.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=37da15eec96885a2594b556c6e48fa7f7b6a1188:jhalterman@gmail.com
+commit=350f0ed6f09e39e03c750de4815af3e7cd6010e4:jstepien@users.sourceforge.net
+
+M	README.md
+commit=386b51ef14d8468373eff23e218f71271b65d3a4:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=633de53ac48a3c779ebde25e0f513c9e2801c6f5:jhalterman@gmail.com
+
+M	CHANGES.md
+commit=6fbc4ea7ab1402aaf747284f2923d9f018a18753:jhalterman@gmail.com
+
+M	pom.xml
+commit=5a6d1dea58955fb8f9ee78e6c5476c66a7a026b4:jhalterman@gmail.com
+
+M	pom.xml
+commit=c9263d327841c5b80ed74a1c3c4ed0b1a08a57f7:jhalterman@gmail.com
+commit=7ca0d4918c624c74ace48fc001341d8224050837:smt@saksmt.tk
+
+M	src/main/java/net/jodah/lyra/Connections.java
+commit=d3803d715ea56e63e8e4808aa5a8de772a4c2648:kirill.saksin@billing.ru
+
+M	pom.xml
+commit=1983a0d3cc5d92376a2e22aa860c2c6bbb75f67a:kirill.saksin@billing.ru
+
+M	pom.xml
+D	src/main/resources/META-INF/MANIFEST.MF
+commit=e4ac6fef048d587a3135a49208e0aca5937fcda3:kirill.saksin@billing.ru
+
+M	src/main/java/net/jodah/lyra/Connections.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+commit=a28245d4a4f0d5bf5c52eb6c9638e2f517cd272e:kirill.saksin@billing.ru
+
+M	pom.xml
+A	src/main/resources/META-INF/MANIFEST.MF
+commit=566156ff6fabc612435be3bce6d343cb0b1d51f8:jhalterman@gmail.com
+commit=99ca312f4acd8de49e292ff3dabd3ae33c4bd287:andrew.lum@covata.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+commit=88bfb9d9fdbc920383ed0f8a0db09888f7874bb8:jhalterman@gmail.com
+
+M	README.md
+commit=a3d8e82c61ac4975bf2718b33a6592fb28dc032b:jhalterman@gmail.com
+
+M	pom.xml
+commit=3616932d690bbe9ed835c017ac8c08345aeeee26:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=9f8225a6b6db9b85cbaacedda73e8e786060cf9d:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=5e8f6044261c8400d1c1c10fc01129b247fd44cf:jhalterman@gmail.com
+
+M	README.md
+commit=ac007272844098fda114b4aa2f77d184409c4573:jhalterman@gmail.com
+
+M	pom.xml
+M	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiterTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuitTest.java
+commit=07edcccca3a9ba10b3112fd1d6fbca6ecf09a95f:jhalterman@gmail.com
+
+M	README.md
+commit=9f6b28fb9096f80a99cbebcaf56fb8e5bb4c421f:jhalterman@gmail.com
+
+M	pom.xml
+commit=594f89914e9c5aed4c35cb3881acaa1fc9037287:jhalterman@gmail.com
+
+M	pom.xml
+commit=e251472d38a93ee037a463e82a6b4a40a60fd3ab:jhalterman@gmail.com
+
+M	CHANGES.md
+M	README.md
+M	pom.xml
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+commit=685d6b93dec9fda0982c142b9190b99e0762ee9e:jhalterman@gmail.com
+
+M	pom.xml
+commit=972ca8e279fc4e1a2903e4babe320862f3422bf9:jhalterman@gmail.com
+
+M	pom.xml
+commit=5ed47ea61e101eee56e7f6cea7a076a9b427d175:jhalterman@gmail.com
+
+M	CHANGES.md
+M	README.md
+commit=04c62fa0f0234abac1726262227556df9da7a538:jhalterman@gmail.com
+
+M	README.md
+commit=c28d6495422d9f43905eadc288d2d64b68cd4e62:jhalterman@gmail.com
+
+M	README.md
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+commit=e7ae5d3740f829a6183120b49fb5c9be9b609bdc:jhalterman@gmail.com
+
+M	pom.xml
+M	src/main/java/net/jodah/lyra/Connections.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+commit=99382b6ee9eb821802fccab42c7b40efadca9f31:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+commit=14afe2324d698a9b1076959fed03f4b481f58d4b:jhalterman@gmail.com
+
+M	README.md
+commit=6ba2efd825c6d540a5527b586e02962c5eb5a91c:jhalterman@gmail.com
+
+M	README.md
+commit=26164592c56fb9fc6a0acd417f10e4332d19a8bb:jhalterman@gmail.com
+commit=1acd9da1e4a67f3d9af6f9aa61c7d09af49dd821:jhalterman@gmail.com
+
+M	pom.xml
+commit=0dc5c304fab3d8510333bce539aa64179275dd11:jhalterman@gmail.com
+commit=b3b31a23700e148839b08c1b050ed1b2c51e858a:mpbush@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/RecurringPolicy.java
+A	src/test/java/net/jodah/lyra/internal/RecurringPolicyTest.java
+commit=bbf5d2e3cd72d78d09edd1dec59a9dedcdf13986:jhalterman@gmail.com
+
+M	README.md
+commit=7a716472d7cdffde9c58a712383157d692849912:jhalterman@gmail.com
+
+M	README.md
+commit=97e831f43fe616aa876747e3cb472cbf9360ae38:jhalterman@gmail.com
+commit=6393e930611b18b0c0e3433d8f7b6b4814ed5e10:jhalterman@gmail.com
+commit=112bab6c6d0a917e329005f1ed8d5a0a1dd3a6f4:jhalterman@gmail.com
+
+M	.travis.yml
+commit=52f3a1cd552d38ccbffb9aa4431c97f04664f2cf:francisco.aranda.adesis@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+commit=426999bd7c8e425c7dbea2c2314d61dce50b2e4f:jhalterman@gmail.com
+
+M	README.md
+commit=dd593de0c8313716f7b2251a4f50716f7e25a559:jhalterman@gmail.com
+
+M	pom.xml
+commit=5a53ce12c42fc3df47f42d3fd629701580c75cee:jhalterman@gmail.com
+
+M	pom.xml
+commit=958201d2a28450a868da694aa73684ad77ab276b:jhalterman@gmail.com
+
+M	CHANGES.md
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+M	src/main/java/net/jodah/lyra/event/ConnectionListener.java
+M	src/main/java/net/jodah/lyra/event/ConsumerListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultChannelListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultConnectionListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultConsumerListener.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+commit=bedd1bb458244f46aac456f83b02a66cf2fb977f:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+commit=38d6a7fed640ff9a03c0b7158f5b07fc7c6cc463:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+commit=b6e40d297719741d4b907d1a3b92b8e7524ae381:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=dbcd649255867d9dfcb9c6f8be274962a6cd6d33:jhalterman@gmail.com
+
+M	CHANGES.md
+M	README.md
+commit=40abcd746c6ffe8e4aeaf24afedfa1db50bd7cc0:jhalterman@gmail.com
+
+M	pom.xml
+commit=4cbd56147fac0270e4664dacc3d9730a3ec41564:jhalterman@gmail.com
+
+M	pom.xml
+commit=7a37ccf67df2b81f0758ba38a31de30ca93dfa03:jhalterman@gmail.com
+
+M	README.md
+commit=4be26a74ad619c05e99c8af2c781ef9e8e1349a5:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+commit=32bad80ee728cf3ba87955d58d026257898f10f2:jhalterman@gmail.com
+
+M	README.md
+commit=0add66c99d95c769aee4fc17ad8c9d3f8f578b93:jhalterman@gmail.com
+
+M	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiterTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuitTest.java
+commit=1a3c5425d7f7e74c0dade42ca05fc59a6d84621d:jhalterman@gmail.com
+
+M	pom.xml
+commit=0ed1c7dc6947b23d6706a38deb360c50a1f92c85:jhalterman@gmail.com
+
+M	pom.xml
+commit=87cabb80b863157ec25ac7abcbfc24c35c0803bd:jhalterman@gmail.com
+
+M	CHANGES.md
+M	README.md
+commit=922fc4c8430f6deb10cf49e463657628e7c4baaf:jhalterman@gmail.com
+
+M	pom.xml
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelHandlerTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiterTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuitTest.java
+commit=b56c9905ac1aefd37c3cd04eaa7bb370304c4a84:jhalterman@gmail.com
+
+M	README.md
+commit=efb9b320f6e6352b3ebf3b52418207d80f74fff8:jhalterman@gmail.com
+
+M	README.md
+commit=fd245fdea1f29222622a850042e76d0d26633ee1:jhalterman@gmail.com
+
+M	README.md
+commit=6b20bc3e8e7ba5245592d911816775d3569a48ee:jhalterman@gmail.com
+
+M	pom.xml
+commit=177157f7333ba6b2d3148def9a4e517691637f3c:jhalterman@gmail.com
+
+M	pom.xml
+commit=0435e974c58721ac8d3461764605f3dcd808c43a:jhalterman@gmail.com
+
+M	CHANGES.md
+commit=44dc193e1a0a6190142b5d82046c52aea7900285:jhalterman@gmail.com
+
+M	README.md
+commit=115165d46a67dbc9296afccafa26c93e32b3811d:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=bfe5be092abe9a0e8150ab5cf701741588477c4b:jhalterman@gmail.com
+
+M	README.md
+commit=20bf2d740f29ffe299b9424168f3d44ecbef6501:jhalterman@gmail.com
+
+M	README.md
+commit=c4d59e92249dd9574edc23ba0a3877fd52bc522a:jhalterman@gmail.com
+
+M	README.md
+commit=07558d17d69ac1d585137c7884237b0010664a4d:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/util/Collections.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+commit=8c7f743a65e46321230e2ede344ec8265fc874b3:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=5f5e4c9131b8ee0ee67ae47aed3562f398da8806:jhalterman@gmail.com
+
+D	CHANGES.txt
+commit=9d9e0359970e98a194eba4b7fd80d7aeaec34ad3:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=77964598c832c2a573335ff95aeadf973688eaf8:jhalterman@gmail.com
+
+A	CHANGES.txt
+commit=094fb70843be26e8ec15a415a2b271b228609ee5:jhalterman@gmail.com
+
+M	README.md
+commit=37f55e8e01aa0ff0d7bb071e88889b95a64f3de8:jhalterman@gmail.com
+
+M	README.md
+commit=efc9465b93f3d301b4649511cb492b2930ef14c9:jhalterman@gmail.com
+
+M	pom.xml
+commit=768acc44110a96753f499b3d17c2ba70ad710345:jhalterman@gmail.com
+
+M	pom.xml
+commit=1bc26fba2a080a9cfa66d8e2a91edde05fb4fe60:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ResourceRecoveryTest.java
+commit=32e1393dd6b9157305ff19d126754a0860c9f1fe:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/ResourceRecoveryTest.java
+commit=0406ae6d147b2492f8c95a7ae9f1039c40aee07b:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=21fe3876e7c836ac2a9d499ee5f8d31d05b7f808:jhalterman@gmail.com
+
+A	.travis.yml
+M	CHANGES.md
+M	README.md
+M	src/main/java/net/jodah/lyra/config/Config.java
+A	src/main/java/net/jodah/lyra/internal/Binding.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+A	src/main/java/net/jodah/lyra/internal/ConsumerDeclaration.java
+D	src/main/java/net/jodah/lyra/internal/Invocation.java
+A	src/main/java/net/jodah/lyra/internal/QueueDeclaration.java
+A	src/main/java/net/jodah/lyra/internal/ResourceDeclaration.java
+A	src/main/java/net/jodah/lyra/internal/util/ArrayListMultiMap.java
+M	src/main/java/net/jodah/lyra/internal/util/Collections.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ConsumerRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/util/ArrayListMultiMapTest.java
+commit=599c3230353366a4eebe72eb2faba47e916b4f83:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+commit=20bd842fcdd1fc1d0a7385ba1834f050a18852f1:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+M	src/main/java/net/jodah/lyra/event/ConnectionListener.java
+commit=987612cbccc1c492df85d5f571951ad4179e9e47:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/util/Collections.java
+M	src/test/java/net/jodah/lyra/config/RetryPolicyTest.java
+M	src/test/java/net/jodah/lyra/internal/RecurringStatsTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiterTest.java
+M	src/test/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuitTest.java
+M	src/test/java/net/jodah/lyra/util/DurationTest.java
+commit=551090850ecb9d8cb06e711d6dcdc8ba5a6a0ad1:jhalterman@gmail.com
+
+M	README.md
+commit=47d0f52827dd635e3d1ba1a7699625105960f4e4:jhalterman@gmail.com
+
+M	CHANGES.md
+commit=6623bb49510b871492eb9f995603771aafc3a9e2:jhalterman@gmail.com
+
+R052	CHANGES.txt	CHANGES.md
+commit=91a4fa5b2c8386d8327d3dcee51322445fcc02eb:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/util/Duration.java
+commit=53db81a32953373ceeef8da586dafdec1b866404:jhalterman@gmail.com
+
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+commit=23e38d8775a55b56edcf393ffc834c8a7b09763f:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/Connections.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=af215cd25a29578820851c58c0bcb834b7c01443:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=b6947576ffd568ff816c4df003123f22bf1ab60b:jhalterman@gmail.com
+
+A	LICENSE
+commit=a263b4e49563f1d6697a2c912b5fbcaa94eb2c28:jhalterman@gmail.com
+
+M	README.md
+commit=892b7680c3c3679b20745c1b6a76c2c696c19686:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=b8db6514ef858b1a432268b19147cdd4930eaf6d:jhalterman@gmail.com
+commit=55435fa18379a1d824fab3c3f757b68b4811a741:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=5405c6c971977145c63ac8cda80e049cc2129391:jhalterman@gmail.com
+commit=47ada455a27ee52bf9b237aa92fca1593f3177e8:rickhanlonii@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=a2a543c03991548315d11661da56be630db407b1:jhalterman@gmail.com
+commit=ed2587bbe98bd612ff1407f47f7d6e1c850c80b8:stefan.freyr@gmail.com
+
+M	src/main/java/net/jodah/lyra/util/Duration.java
+A	src/test/java/net/jodah/lyra/util/DurationTest.java
+commit=d1e549a1de543e993fd19ed3be1ffeb7b2361f6d:jhalterman@gmail.com
+
+M	CHANGES.txt
+M	README.md
+commit=5f5c4be2bd441ef66ff1549c949ba127249cb44c:jhalterman@gmail.com
+
+M	pom.xml
+commit=0085c6a3fc951dad6203083c6d9bfd6cdc28155b:jhalterman@gmail.com
+
+M	pom.xml
+commit=26c87baa33a216c717f9b21e25fcc196e715970c:jhalterman@gmail.com
+
+M	CHANGES.txt
+commit=40fec797a19772fc5b12369d114197ed27183b65:jhalterman@gmail.com
+
+M	README.md
+commit=3dcd1ffa1b4c7cafd7983625d92ef1bde5d8487e:jhalterman@gmail.com
+
+M	src/test/java/net/jodah/lyra/internal/ConsumerRecoveryTest.java
+commit=5f819d45f311a1c23c2dfa5a81f80a2eb157fe1b:jhalterman@gmail.com
+
+A	CHANGES.txt
+M	README.md
+commit=f6e0bf88bb1d2666d532f4aa6144132e9b79dd5f:jhalterman@gmail.com
+commit=7baf68599112aa10c85b5c5dda97b4791b9f9b94:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+M	src/main/java/net/jodah/lyra/event/ConnectionListener.java
+M	src/main/java/net/jodah/lyra/event/ConsumerListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultChannelListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultConnectionListener.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+commit=50bd1f900181252326f80aa6efaf77163cadc91f:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+A	src/test/java/net/jodah/lyra/internal/ConsumerRecoveryTest.java
+commit=0fe7bb72064cc695ee03caba27c6b26c00d097cb:jhalterman@gmail.com
+commit=3de6e436dc1ef0df4462a787245d5a22971f9ce4:srinath@appcito.net
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=995760bae33ff8f3b2f7614dbbb4cfae95248417:srinath@appcito.net
+commit=4f6c41871559a26b4889e809aa037900d2c20c77:jhalterman@gmail.com
+
+M	README.md
+commit=e098a5681ef3b36bc6a6ad6ba911aab1c9a8b6d7:jhalterman@gmail.com
+
+M	README.md
+commit=e33718f41cb4e12dbdb1de481ee7cd6b7f3afaf7:jhalterman@gmail.com
+
+R086	src/main/java/net/jodah/lyra/convention/RecoveryPolicies.java	src/main/java/net/jodah/lyra/config/RecoveryPolicies.java
+R085	src/main/java/net/jodah/lyra/convention/RetryPolicies.java	src/main/java/net/jodah/lyra/config/RetryPolicies.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelConfigTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=14e69c369afca578a1fd2796c2f6588f2cfe90b8:jhalterman@gmail.com
+commit=8923feb665cd9e6ce01b8365c17987a5c26fcf7d:jhalterman@gmail.com
+
+M	.gitignore
+M	README.md
+M	pom.xml
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/config/ConnectionConfig.java
+A	src/main/java/net/jodah/lyra/config/RecoveryPolicy.java
+A	src/main/java/net/jodah/lyra/config/RetryPolicy.java
+A	src/main/java/net/jodah/lyra/convention/RecoveryPolicies.java
+R067	src/main/java/net/jodah/lyra/retry/RetryPolicies.java	src/main/java/net/jodah/lyra/convention/RetryPolicies.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+A	src/main/java/net/jodah/lyra/internal/ConsumerDelegate.java
+M	src/main/java/net/jodah/lyra/internal/Invocation.java
+A	src/main/java/net/jodah/lyra/internal/RecurringPolicy.java
+A	src/main/java/net/jodah/lyra/internal/RecurringStats.java
+D	src/main/java/net/jodah/lyra/internal/RetryStats.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/main/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuit.java
+D	src/main/java/net/jodah/lyra/retry/RetryPolicy.java
+M	src/main/java/net/jodah/lyra/util/Duration.java
+R058	src/test/java/net/jodah/lyra/retry/RetryPolicyTest.java	src/test/java/net/jodah/lyra/config/RetryPolicyTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelConfigTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/RecurringStatsTest.java
+D	src/test/java/net/jodah/lyra/internal/RetryStatsTest.java
+commit=abe1803412d3700bd9587ce2b2f19a8e0195a3dd:jhalterman@gmail.com
+
+M	README.md
+commit=a2beb3225129ac50f892885b2a4f78d639a9c8f7:jhalterman@gmail.com
+commit=6b046632806f1e9804424dad965398e2895c0554:pepov@ustream.tv
+
+M	.gitignore
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=9f047506a26768beea933566fc286e7ecd4e72bd:jhalterman@gmail.com
+
+M	README.md
+commit=84d7ee30aa6bbb82b88b12c54edfc4075e732622:jhalterman@gmail.com
+commit=50da4f7a5d25620e6665196456be0602d954db83:jhalterman@gmail.com
+
+M	README.md
+commit=b0dc024a1716a1c33e732fdc18248179a526f53d:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+A	src/main/java/net/jodah/lyra/internal/ConsumerDelegate.java
+commit=6ef3a5cd54cfacf43038706d15e37acd14e741c3:jhalterman@gmail.com
+
+D	TODO.txt
+commit=be1866c78708ab2448113e3d9d54f93c3de7398e:jhalterman@gmail.com
+
+M	README.md
+commit=5235f7a3ee04695605043e023a4e685bbde07047:jhalterman@gmail.com
+
+M	pom.xml
+commit=c6f659b8a467b9fee7b651697688ebbf02076821:jhalterman@gmail.com
+
+M	pom.xml
+commit=9307cc4feb0c7bfa42a6d6d5ac354ee68b394d2f:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+commit=ee7a180ea214043b55f2f9bc98100d5b73574cb3:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=1439c53365091f6ab359d886d16dc6769ee8a88a:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=dd1918d82c4f1d8729de7feb31bc6a1313b554a6:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=ce84120e5db32d8de8ee441ed5160f6ac8f48ee7:jhalterman@gmail.com
+
+M	README.md
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+commit=a0e1549e1c29f45379b5566320da9eabaec4172d:jhalterman@gmail.com
+
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+commit=00e8929be4ce53934977a33894810ffcf1731ccc:jhalterman@gmail.com
+
+M	README.md
+commit=43861f66dc0ae7a5a69ac3fd8cdb184cfa4f998e:jhalterman@gmail.com
+
+M	TODO.txt
+commit=50a578c1d6c126a52fa2ed4342e6dfa9a0f4885f:jhalterman@gmail.com
+
+M	README.md
+commit=c33a07e65524fb1695931b48e65b9692e0726294:jhalterman@gmail.com
+
+M	pom.xml
+commit=023bb1f0581ed522f8bd06810cc7306797a7e228:jhalterman@gmail.com
+
+M	pom.xml
+commit=11e9acd99865436cf201197626bfc954d8376581:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+commit=afa34f36a356f74615f7cd526bbeeedf62c907d5:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/config/ConnectionConfig.java
+M	src/main/java/net/jodah/lyra/config/ConsumerConfig.java
+commit=1782b2e55d1592319664dc667da24f5667e3366f:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=9d22ef4c541869ee125c12a09f99de460362dce5:jhalterman@gmail.com
+
+M	TODO.txt
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+M	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/config/ConnectionConfig.java
+M	src/main/java/net/jodah/lyra/config/ConsumerConfig.java
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+M	src/main/java/net/jodah/lyra/event/ConnectionListener.java
+M	src/main/java/net/jodah/lyra/event/ConsumerListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultChannelListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultConnectionListener.java
+M	src/main/java/net/jodah/lyra/event/DefaultConsumerListener.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/retry/RetryPolicy.java
+M	src/main/java/net/jodah/lyra/util/Duration.java
+commit=73eb4817bb3656f4c74a945ecf9e5c8a7168bc80:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/ConsumerConfig.java
+commit=5e1ba0b8f56c85260a0e9c68070d241c1c498110:jhalterman@gmail.com
+
+M	README.md
+commit=f042d6e45b2db4de858b726c11fbfa9688d3621c:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+commit=5d0608cba2db17fa83690f698873f437562a5cc7:jhalterman@gmail.com
+
+M	README.md
+commit=ee3e1703f995dab89049827ac911ddfef5a4c349:jhalterman@gmail.com
+
+M	TODO.txt
+commit=2135a7095559545940204467cc03c495d22ccaf1:jhalterman@gmail.com
+
+M	README.md
+M	src/main/java/net/jodah/lyra/config/Config.java
+commit=7c7d432c794cea98c15d9465e1f6bfa8dc4b395a:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/config/Config.java
+commit=28d977c5c18d78d0ebc6287cfb369725711f45c6:jhalterman@gmail.com
+
+M	TODO.txt
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=36bac28f84e84010e9592acd7c96cfc5d10d290b:jhalterman@gmail.com
+
+M	TODO.txt
+M	src/main/java/net/jodah/lyra/ConnectionOptions.java
+M	src/main/java/net/jodah/lyra/config/Config.java
+M	src/main/java/net/jodah/lyra/config/ConsumerConfig.java
+M	src/main/java/net/jodah/lyra/event/ChannelListener.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/main/java/net/jodah/lyra/internal/util/Reflection.java
+M	src/main/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuit.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelHandlerTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+D	src/test/java/net/jodah/lyra/internal/ConnectionFactoryRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+M	src/test/resources/logback.xml
+commit=3f49cbffff020134239962f1001b168c43c58acb:jhalterman@gmail.com
+
+M	README.md
+commit=aa0ac018722266ae0871a91b8ab1a2f45173d8c0:jhalterman@gmail.com
+
+M	src/test/resources/logback.xml
+commit=b3f35e9afcb80cce7486d684712faf22a1f4d351:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=9702d80ce37e09e32a745df9088962c6062637d2:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+commit=917c4c4885ba52545201582ca30b72daa2a4d3a2:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+commit=ac1a5e59c8885e4286c4933c08aebad5300720d4:jhalterman@gmail.com
+
+M	README.md
+A	src/main/java/net/jodah/lyra/ConnectionOptions.java
+M	src/main/java/net/jodah/lyra/Connections.java
+D	src/main/java/net/jodah/lyra/Options.java
+A	src/main/java/net/jodah/lyra/config/ChannelConfig.java
+A	src/main/java/net/jodah/lyra/config/Config.java
+A	src/main/java/net/jodah/lyra/config/ConfigurableChannel.java
+A	src/main/java/net/jodah/lyra/config/ConfigurableConnection.java
+A	src/main/java/net/jodah/lyra/config/ConnectionConfig.java
+A	src/main/java/net/jodah/lyra/config/ConsumerConfig.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelConfigTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=c00e93e10427f0208ee99c74f777fe8c1c0fde62:jhalterman@gmail.com
+
+M	README.md
+M	src/main/java/net/jodah/lyra/Connections.java
+D	src/main/java/net/jodah/lyra/LyraOptions.java
+A	src/main/java/net/jodah/lyra/Options.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+A	src/main/java/net/jodah/lyra/internal/util/Addresses.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=67a177d944f7b0407f05e6fc89077d966ecd71b3:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+commit=4366f58af1fdb5d1d816f18bcec3f0fce6acdc1a:jhalterman@gmail.com
+
+M	README.md
+commit=4f5591861ccf057f0e64d23da2a80e83f10dc751:jhalterman@gmail.com
+
+M	TODO.txt
+commit=39bbc0242c156c728daf700753420dcd25c0d9a6:jhalterman@gmail.com
+
+M	README.md
+M	TODO.txt
+A	bin/push-javadoc.sh
+M	pom.xml
+M	src/main/java/net/jodah/lyra/LyraOptions.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+M	src/main/java/net/jodah/lyra/internal/util/Reflection.java
+D	src/main/java/net/jodah/lyra/internal/util/ThrowableCallable.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelHandlerTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+D	src/test/java/net/jodah/lyra/internal/ChannelPoolingTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=46242d9273ba552b5799dff2c929246a57fa0e1a:jhalterman@gmail.com
+
+M	README.md
+commit=c5c363f4486e2f052ae6d118aee58c3662d72718:jhalterman@gmail.com
+
+M	README.md
+commit=8aa7e6254b3be135ce4876056e188609a818483a:jhalterman@gmail.com
+
+M	README.md
+commit=ecf93b3d62669eb9c46e71b6d95f59f2ab85910c:jhalterman@gmail.com
+
+M	README.md
+commit=1ae1553b249999148c116368a8051468e05a7bb7:jhalterman@gmail.com
+
+M	TODO.txt
+M	src/main/java/net/jodah/lyra/LyraOptions.java
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelClosureTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelHandlerTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelPoolingTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionClosureTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+commit=154e171110f74a01d0b01e191902e5200aab8456:jhalterman@gmail.com
+
+M	README.md
+commit=41547fafa77824c03aeee001d1ae6154ac4e77bc:jhalterman@gmail.com
+
+M	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+M	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+M	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+M	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+M	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+M	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+commit=41bfe455b62ebf9b24489331e9defe4f2fd7c2fd:jhalterman@gmail.com
+
+A	README.md
+A	TODO.txt
+A	pom.xml
+A	src/main/java/net/jodah/lyra/Connections.java
+A	src/main/java/net/jodah/lyra/LyraOptions.java
+A	src/main/java/net/jodah/lyra/event/ChannelListener.java
+A	src/main/java/net/jodah/lyra/event/ConnectionListener.java
+A	src/main/java/net/jodah/lyra/event/ConsumerListener.java
+A	src/main/java/net/jodah/lyra/event/DefaultChannelListener.java
+A	src/main/java/net/jodah/lyra/event/DefaultConnectionListener.java
+A	src/main/java/net/jodah/lyra/event/DefaultConsumerListener.java
+A	src/main/java/net/jodah/lyra/internal/ChannelHandler.java
+A	src/main/java/net/jodah/lyra/internal/ConnectionHandler.java
+A	src/main/java/net/jodah/lyra/internal/Invocation.java
+A	src/main/java/net/jodah/lyra/internal/RetryStats.java
+A	src/main/java/net/jodah/lyra/internal/RetryableResource.java
+A	src/main/java/net/jodah/lyra/internal/util/Assert.java
+A	src/main/java/net/jodah/lyra/internal/util/Collections.java
+A	src/main/java/net/jodah/lyra/internal/util/Exceptions.java
+A	src/main/java/net/jodah/lyra/internal/util/Reflection.java
+A	src/main/java/net/jodah/lyra/internal/util/ThrowableCallable.java
+A	src/main/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiter.java
+A	src/main/java/net/jodah/lyra/internal/util/concurrent/NamedThreadFactory.java
+A	src/main/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuit.java
+A	src/main/java/net/jodah/lyra/retry/RetryPolicies.java
+A	src/main/java/net/jodah/lyra/retry/RetryPolicy.java
+A	src/main/java/net/jodah/lyra/util/Duration.java
+A	src/test/java/net/jodah/lyra/internal/AbstractFunctionalTest.java
+A	src/test/java/net/jodah/lyra/internal/AbstractInvocationTest.java
+A	src/test/java/net/jodah/lyra/internal/AbstractRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelClosureTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelInvocationTest.java
+A	src/test/java/net/jodah/lyra/internal/ChannelRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/ConnectionClosureTest.java
+A	src/test/java/net/jodah/lyra/internal/ConnectionFactoryInvocationTest.java
+A	src/test/java/net/jodah/lyra/internal/ConnectionFactoryRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/ConnectionInvocationTest.java
+A	src/test/java/net/jodah/lyra/internal/ConnectionRecoveryTest.java
+A	src/test/java/net/jodah/lyra/internal/RetryStatsTest.java
+A	src/test/java/net/jodah/lyra/internal/util/concurrent/InterruptableWaiterTest.java
+A	src/test/java/net/jodah/lyra/internal/util/concurrent/ReentrantCircuitTest.java
+A	src/test/java/net/jodah/lyra/retry/RetryPolicyTest.java
+A	src/test/resources/logback.xml
+commit=7b16d027291cbcb0012f428d7b639cf9ad371a5b:jhalterman@gmail.com
+
+A	.gitignore

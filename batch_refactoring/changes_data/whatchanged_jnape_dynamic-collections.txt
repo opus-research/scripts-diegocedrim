@@ -1,0 +1,1463 @@
+commit=646b4307713f894601e9ba474b4bbe1c79269468:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Add.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Divide.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Multiply.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Subtract.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DivideBy.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DividedBy.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Minus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Plus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Square.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Times.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/AddTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/DivideTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/MultiplyTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/SubtractTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DivideByTest.java
+D	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DividedByTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/MinusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/PlusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/SquareTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/TimesTest.java
+commit=5f3a41a489bc87b395aef0d4982195dc89db8192:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/OptionTest.java
+commit=b102dad26f584d50ce8255c93f29c1bc0f36f7a9:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/niladic/NiladicProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+commit=c77df4e4a1a77362b4865a79e8e767dbf5727e84:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Zip.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FilterTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+commit=a8b1061fa2266acfc7f9101aa3c207f34ca997c4:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Sort.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/CartesianProductTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ConcatenateTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+M	src/test/java/testsupport/Item.java
+D	src/test/java/testsupport/ItemFixture.java
+A	src/test/java/testsupport/OrderedItem.java
+A	src/test/java/testsupport/fixture/ItemFixture.java
+commit=4806be5b4fd366e77e4b781ba61093a2a33728a5:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/GroupTest.java
+commit=fb025d0c0cc2830768bb71c2aa02b643fce7d82f:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/EqualTo.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/EqualToTest.java
+commit=b8c876c4b8f48624f9770847ce731f6fbfd985c2:jnape09@gmail.com
+
+M	pom.xml
+commit=8b9cd8170762ff45572061841f51beb122fb5e6f:jnape09@gmail.com
+
+M	pom.xml
+commit=75df4687cd31075c914610f662ae99445910286e:jnape09@gmail.com
+
+M	pom.xml
+D	src/main/java/com/jnape/dynamiccollection/lambda/niladic/NiladicProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+commit=7f9933fc28ee6d58b5ad6f1d3c391a4d80887f0b:jnape09@gmail.com
+
+M	pom.xml
+commit=2009b1ced9c1f21d7320a5f5d7bb90b5037f88a0:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/niladic/NiladicProcedure.java
+commit=ae065856172c99feeeea2b081bcf1c3447a43170:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=abc401de8a0998dffc449f7665f41903d94da020:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Shuffle.java
+A	src/test/java/com/jnape/dynamiccollection/operation/ShuffleTest.java
+commit=370ca69c2f55e344ad0a4bf673f9a5cd90aec9fe:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=157995c8d29f028e98c486c9ac76dbe768397539:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Find.java
+A	src/test/java/com/jnape/dynamiccollection/operation/FindTest.java
+commit=83ccf49a56a4a77388be0ac588853574eaaad51f:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/CartesianProduct.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Concatenate.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reduce.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Without.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Zip.java
+D	src/main/java/com/jnape/dynamiccollection/operation/exception/OperationRequiresAtLeastOneElementException.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+commit=3188f212e29a396175fbdd41b359f659b1ab0a65:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Permute.java
+A	src/test/java/com/jnape/dynamiccollection/operation/PermuteTest.java
+commit=6f4a9be0ffd36a7524974462418fe89f07d2b1b2:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CapacityMonitor.java
+commit=e87c9ca5c8d245dbcd8f467173b64baafea7aaf9:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+commit=f98b9af03f2795bbc85316188687c1f02b9f638c:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+D	src/main/java/com/jnape/dynamiccollection/datatype/option/OptionFactory.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Flatten.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/NoneTest.java
+D	src/test/java/com/jnape/dynamiccollection/datatype/option/OptionFactoryTest.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/option/OptionTest.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/SomeTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OptionalDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FlattenTest.java
+commit=c5bd55a009acb3f6c4cd41b0f7a15412ecdbaf68:jnape09@gmail.com
+
+R090	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Add.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Add.java
+R090	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Divide.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Divide.java
+R091	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Multiply.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Multiply.java
+R090	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Subtract.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/Subtract.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactory.java
+R077	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedBy.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DividedBy.java
+R086	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Identity.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Identity.java
+R076	src/main/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualTo.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/LessThanOrEqualTo.java
+R076	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Minus.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Minus.java
+R076	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Plus.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Plus.java
+R067	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Square.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Square.java
+R077	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Times.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/builtin/Times.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/niladic/builtin/Always.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/SomeTest.java
+R094	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/AddTest.java	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/AddTest.java
+R094	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/DivideTest.java	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/DivideTest.java
+R094	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/MultiplyTest.java	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/MultiplyTest.java
+R094	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/SubtractTest.java	src/test/java/com/jnape/dynamiccollection/lambda/dyadic/builtin/SubtractTest.java
+D	src/test/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactoryTest.java
+R086	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedByTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/DividedByTest.java
+R088	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/IdentityTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/IdentityTest.java
+R090	src/test/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualToTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/LessThanOrEqualToTest.java
+R085	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/MinusTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/MinusTest.java
+R085	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/PlusTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/PlusTest.java
+R091	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/SquareTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/SquareTest.java
+R085	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/TimesTest.java	src/test/java/com/jnape/dynamiccollection/lambda/monadic/builtin/TimesTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/niladic/builtin/AlwaysTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+commit=54eee28767c20e43669fdcf4b1d2edeaa9b24914:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/NiladicProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Add.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Divide.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Multiply.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Subtract.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedBy.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Identity.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Minus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Plus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Square.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Times.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualTo.java
+R069	src/main/java/com/jnape/dynamiccollection/lambda/Accumulator.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/Accumulator.java
+R075	src/main/java/com/jnape/dynamiccollection/lambda/DyadicFunction.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/DyadicFunction.java
+R074	src/main/java/com/jnape/dynamiccollection/lambda/DyadicProcedure.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/DyadicProcedure.java
+R077	src/main/java/com/jnape/dynamiccollection/lambda/IndexedFunction.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/IndexedFunction.java
+R064	src/main/java/com/jnape/dynamiccollection/lambda/IndexedProcedure.java	src/main/java/com/jnape/dynamiccollection/lambda/dyadic/IndexedProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactory.java
+R066	src/main/java/com/jnape/dynamiccollection/lambda/MonadicFunction.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/MonadicFunction.java
+R065	src/main/java/com/jnape/dynamiccollection/lambda/MonadicProcedure.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/MonadicProcedure.java
+R092	src/main/java/com/jnape/dynamiccollection/lambda/OptionalFunction.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/OptionalFunction.java
+R061	src/main/java/com/jnape/dynamiccollection/lambda/Predicate.java	src/main/java/com/jnape/dynamiccollection/lambda/monadic/Predicate.java
+R065	src/main/java/com/jnape/dynamiccollection/lambda/NiladicFunction.java	src/main/java/com/jnape/dynamiccollection/lambda/niladic/NiladicFunction.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/niladic/NiladicProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Each.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Fold.java
+M	src/main/java/com/jnape/dynamiccollection/operation/ForEach.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/main/java/com/jnape/dynamiccollection/operation/None.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reduce.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Scan.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Sort.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Take.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CapacityMonitor.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/SomeTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedByTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/MinusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/PlusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/TimesTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/AllTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/AnyTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/EachTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FilterTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ForEachTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/GroupTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/PartitionTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/RejectTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/TakeTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/UniqueTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CachingStreamTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CapacityMonitorTest.java
+commit=342f521ad866d9ee1dc64b7ee91df2eaa625168b:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/OptionFactory.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/tuple/Tuple2.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/IndexedFunction.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/OptionalFunction.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactory.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/com/jnape/dynamiccollection/list/OptionalDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/OptionalDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Flatten.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/OptionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/OptionalDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/FlattenTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+commit=054e28f4f22f2785d385429d352660c035d4e075:jnape09@gmail.com
+
+M	pom.xml
+commit=6a4423f06ce181918069e3a2a599ec195ce2fdee:jnape09@gmail.com
+
+M	pom.xml
+commit=03cb1d1ce04a9f54868078627da26a74e7f17207:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+commit=1ccd173208610ed53ab0db03566d2d47cf1c5680:jnape09@gmail.com
+
+M	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+commit=2a6502b0e4a588bfc86297dc139ab4512f24152e:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+M	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/Accumulator.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/DyadicFunction.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/DyadicProcedure.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/Function.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/IndexedProcedure.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/MonadicFunction.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/MonadicProcedure.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/NiladicFunction.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/NiladicProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/Predicate.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/Procedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Add.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Divide.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Multiply.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Subtract.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedBy.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Identity.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Minus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Plus.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Square.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Times.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualTo.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactory.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Each.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/main/java/com/jnape/dynamiccollection/operation/ForEach.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/main/java/com/jnape/dynamiccollection/operation/None.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Sort.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Take.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CapacityMonitor.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/datatype/option/SomeTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedByTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/MinusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/PlusTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/TimesTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/EachTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ForEachTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/UniqueTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CachingStreamTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CapacityMonitorTest.java
+commit=82a70b34fa9b0da5c2319a34c2f9835f5618585f:jnape09@gmail.com
+
+M	pom.xml
+M	src/main/java/com/jnape/dynamiccollection/datatype/Partition.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/tuple/Tuple2.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/tuple/Tuple3.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/tuple/Tuple4.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/tuple/TupleFactory.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/tuple/Tuple2Test.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/tuple/TupleFactoryTest.java
+commit=cba54e0f6d5e82f71495946365eb1db7ac64f068:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/datatype/option/None.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/option/Option.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/option/OptionFactory.java
+A	src/main/java/com/jnape/dynamiccollection/datatype/option/Some.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/option/NoneTest.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/option/OptionFactoryTest.java
+A	src/test/java/com/jnape/dynamiccollection/datatype/option/SomeTest.java
+commit=158958162afd9f5da9a641acceb9531e8853c13d:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/factory/DynamicListFactory.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Scan.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/factory/DynamicListFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/GroupTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/JoinTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReverseTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/WithoutTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CachingStreamTest.java
+M	src/test/java/com/jnape/dynamiccollection/stream/CapacityMonitorTest.java
+commit=bce9b060b52f8857993f515a0e0927d26b38bd05:jnape09@gmail.com
+
+R059	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Add.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Add.java
+R060	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Divide.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Divide.java
+R061	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Multiply.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Multiply.java
+R060	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Subtract.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/Subtract.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedBy.java
+R082	src/main/java/com/jnape/dynamiccollection/lambda/library/generic/function/map/Identity.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Identity.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Minus.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Plus.java
+R063	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/function/map/Square.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Square.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/builtin/function/Times.java
+R087	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/function/filter/LessThanOrEqualTo.java	src/main/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualTo.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+R077	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/AddTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/AddTest.java
+R077	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/DivideTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/DivideTest.java
+R078	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/MultiplyTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/MultiplyTest.java
+R078	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/SubtractTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/accumulator/SubtractTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/DividedByTest.java
+R086	src/test/java/com/jnape/dynamiccollection/lambda/library/generic/function/map/IdentityTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/IdentityTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/MinusTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/PlusTest.java
+R090	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/function/map/SquareTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/SquareTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/builtin/function/TimesTest.java
+R092	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/function/filter/LessThanOrEqualToTest.java	src/test/java/com/jnape/dynamiccollection/lambda/builtin/predicate/LessThanOrEqualToTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+commit=f96148de16b8bec7456b0d3403b6b604c2f2598b:jnape09@gmail.com
+
+M	.travis.yml
+commit=8324a6e573aaa679c45a3b05f7f7af23f7cff61d:jnape09@gmail.com
+commit=2df2e148c888e40f56d671b0b032e713e707ce04:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=e17ec046cd6a602517a747534db5ee0bcd73bfd7:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/AllSequencesOf.java
+A	src/test/java/com/jnape/dynamiccollection/operation/AllSequencesOfTest.java
+commit=44fde561ed4fa0d618c9865155d8b3ab39249f9f:mbillie1@gmail.com
+
+D	src/test/java/com/jnape/dynamiccollection/operation/exception/OperationRequiresAtLeastOneElementExceptionTest.java
+commit=cd408c93f16308b1d622bb2e487d31d18911a250:mbillie1@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/main/java/com/jnape/dynamiccollection/operation/None.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Take.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+M	src/test/java/com/jnape/dynamiccollection/operation/TakeTest.java
+commit=c6df745cfb71f271964ebc85c30cf4dc2be2b0dd:mbillie1@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactory.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/factory/FunctionFactoryTest.java
+commit=893ac3ef546b863cb773b5be5f02fb9c5993ea5e:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/generic/function/map/Identity.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/generic/function/map/IdentityTest.java
+commit=64da17e643db2a20d270328a0183f26ddef2d6f9:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/operation/Zip.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+commit=089a376648ddf13af05ebc488ae829569f7aae61:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Add.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Divide.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Multiply.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Subtract.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/AddTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/DivideTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/MultiplyTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/SubtractTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/function/map/SquareTest.java
+commit=024f4cd6d9bbe673b8eace6e86d2d9dc30aece89:jnape09@gmail.com
+
+A	README.md
+commit=a2b657c0aa1f57f3de751e9cac95261a209b7624:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/testsupport/assertion/InheritanceAssert.java
+commit=67bc00858d10e4fed9e3930312b3dc7fa3a09f35:jnape09@gmail.com
+
+A	.travis.yml
+commit=378e3e406695ab67884178530c3d34aeaeff5e8d:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/Predicate.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/function/filter/LessThanOrEqualTo.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/main/java/com/jnape/dynamiccollection/operation/None.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Take.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/AllTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/AnyTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FilterTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/GroupTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/NoneTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/PartitionTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/RejectTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/TakeTest.java
+commit=e293aa70e2f676e8eca05345131d28ce0f9f181a:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Take.java
+M	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+A	src/test/java/com/jnape/dynamiccollection/operation/TakeTest.java
+commit=c27490e8bd64448ed98d4c13d9d05c1b11d276a7:jnape09@gmail.com
+
+D	src/main/java/com/jnape/dynamiccollection/list/Stream.java
+R086	src/main/java/com/jnape/dynamiccollection/list/CachingStream.java	src/main/java/com/jnape/dynamiccollection/stream/CachingStream.java
+R087	src/main/java/com/jnape/dynamiccollection/list/CapacityMonitor.java	src/main/java/com/jnape/dynamiccollection/stream/CapacityMonitor.java
+A	src/main/java/com/jnape/dynamiccollection/stream/Stream.java
+R090	src/test/java/com/jnape/dynamiccollection/list/CachingStreamTest.java	src/test/java/com/jnape/dynamiccollection/stream/CachingStreamTest.java
+R089	src/test/java/com/jnape/dynamiccollection/list/CapacityMonitorTest.java	src/test/java/com/jnape/dynamiccollection/stream/CapacityMonitorTest.java
+commit=a3ecbde75fafe15c4ce1a3128e4f00b46ecb5cec:jnape09@gmail.com
+
+M	pom.xml
+commit=47c558310cb7f082610e3eed237f6f97347c6213:jnape09@gmail.com
+
+M	pom.xml
+commit=39bd04bdd2c660330747aae2eb131bccdad27ffc:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=426ce8707164f4c1101b8d1fae6c1e84950880ad:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/None.java
+A	src/test/java/com/jnape/dynamiccollection/operation/NoneTest.java
+commit=508184f2527812b104624e7960238b781184304f:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Scan.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+commit=459347bbe3dbf11686f85623b65f0143b76cc5bf:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/Stream.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/AnyTest.java
+commit=cf187766af0eaa124bf6cf08e9a2679800e5ab7c:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Group.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/GroupTest.java
+commit=3da4528a5fd2e98271383104ba0e3fac145dbaba:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/IndexedProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/Procedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/CachingStream.java
+A	src/main/java/com/jnape/dynamiccollection/list/CapacityMonitor.java
+M	src/test/java/com/jnape/dynamiccollection/list/CachingStreamTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/CapacityMonitorTest.java
+commit=80fe1faecd99b7d695c90d73e146d0c6ad837a71:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Duplicates.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/DuplicatesTest.java
+commit=753f2a4702cd26f65a7dd1a95ed96cf31704e798:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=db8639b23957bcb2000e714d1e6be9c159015de6:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/list/CachingStream.java
+A	src/main/java/com/jnape/dynamiccollection/list/Stream.java
+A	src/test/java/com/jnape/dynamiccollection/list/CachingStreamTest.java
+commit=7759f7e8ace32d66c0f3ead513bc1b5393d7f638:jnape09@gmail.com
+
+M	pom.xml
+commit=d865e6d95561cea975638faedeba0f301c4ee94e:jnape09@gmail.com
+
+M	pom.xml
+commit=a3c2ecf76737dc54b5645b391ccdd43d011be854:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=1545a9b12f47a51aa5168d783efcd59ed3d92b7c:jnape09@gmail.com
+
+D	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayList.java
+D	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+D	src/main/java/com/jnape/dynamiccollection/operation/Bound.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Sort.java
+D	src/test/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayListTest.java
+D	src/test/java/com/jnape/dynamiccollection/operation/BoundTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+M	src/test/java/testsupport/Item.java
+commit=97c3dff255353b782a3c2af65b0a5968913b6a60:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Fold.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reduce.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Scan.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Zip.java
+commit=d4c666c4cc26ff9ab9234fc89c938a43561b907e:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+commit=b639abe16c1dd08f88a9a382a315bcf09f4cbfc5:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=e8f6387529653c679fc568cc0e9d823e308f32d7:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Without.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/WithoutTest.java
+commit=c2e652b7055f4a5975bf647e2fe4a9a0cdd65d14:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+commit=2d5b0ee69eaeed56a877b0495bd74cc458f17f08:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/UniqueTest.java
+commit=dd4009f6309d9af193a432eb7f4d1dc4ece0b8d8:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=f58de6973f303fa2c0f68a40ef82088e3f9fba31:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/IndexedProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Add.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Divide.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Multiply.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Subtract.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/AddTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/DivideTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/MultiplyTest.java
+M	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/SubtractTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=1d350c5762fb1121c3be1059d02fba65c756d457:jnape09@gmail.com
+
+D	src/main/java/com/jnape/dynamiccollection/lambda/accumulator/Arithmetic.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Add.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Divide.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Multiply.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/Subtract.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/function/filter/LessThanOrEqualTo.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/library/numeric/function/map/Square.java
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+D	src/test/java/com/jnape/dynamiccollection/lambda/accumulator/ArithmeticTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/AddTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/DivideTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/MultiplyTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/accumulator/SubtractTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/function/filter/LessThanOrEqualToTest.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/library/numeric/function/map/SquareTest.java
+commit=679da88537dce4540f9bccf8f1a31cac350aee6a:jnape09@gmail.com
+
+M	pom.xml
+commit=7090f433e2e6b2e10e14bb6e472605783afdb895:jnape09@gmail.com
+
+M	pom.xml
+commit=cfd87def89550de812036854d9f24e0150ac582a:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=0146baf021394250753b4a9bc537f13a9a2e2f40:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/NumericType.java
+M	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/NumericTypeTest.java
+M	src/test/java/testsupport/assertion/InheritanceAssert.java
+commit=cbe4e774b00ad08644aa2d4a530949a8f6053bc6:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/NumericDynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/NumericDynamicArrayListTest.java
+commit=67981e10aa83dc054d56a0cb06e93795bf5a8918:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+commit=60a3393a47305ca17719408d0dd01be77dd5c72f:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/accumulator/Arithmetic.java
+A	src/main/java/com/jnape/dynamiccollection/operation/NumericType.java
+A	src/test/java/com/jnape/dynamiccollection/lambda/accumulator/ArithmeticTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/NumericTypeTest.java
+A	src/test/java/testsupport/UnsupportedNumber.java
+commit=79c34464edfe7aa5fe2602813c62d3ab6cfdb70c:jnape09@gmail.com
+
+D	src/main/java/com/jnape/dynamiccollection/factory/DynamicListFactory.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/InGroupsOf.java
+D	src/test/java/com/jnape/dynamiccollection/DynamicListFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReverseTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+commit=5704855f7bca156f5d9924706d8cfe2f25179be6:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=7a6dc582623b534d3d4a1e656379e26701c83857:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Zip.java
+A	src/test/java/com/jnape/dynamiccollection/operation/ZipTest.java
+commit=25f8fc9974c37df355880898c840294edd1f3b86:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=5a0f9159a5ca20a9f47b3b1c497e59da45ab273a:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/Scan.java
+A	src/test/java/com/jnape/dynamiccollection/operation/ScanTest.java
+commit=db83f8f25a8351ec2b3948fd47f2c248ae4efbad:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/CartesianProduct.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=c29ac796827ab8665a280876ee918ad8e4083bf5:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=c94822f6b5cfbe3526c87e65fb6208baf4a212b4:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+A	src/main/java/com/jnape/dynamiccollection/lambda/IndexedProcedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Each.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/EachTest.java
+commit=b22c1393ac08ee078a652e7d567e77ff430c8dee:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+R062	src/main/java/com/jnape/dynamiccollection/operation/Each.java	src/main/java/com/jnape/dynamiccollection/operation/ForEach.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+R089	src/test/java/com/jnape/dynamiccollection/operation/EachTest.java	src/test/java/com/jnape/dynamiccollection/operation/ForEachTest.java
+commit=3f6b9b954363f90abc06b3fd53e0af85718d6720:jnape09@gmail.com
+
+M	src/test/java/com/jnape/dynamiccollection/datatype/PartitionTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/exception/ListWasEmptyExceptionTest.java
+commit=cd88e52f402f28388e1af8af51f2ad9f3177e7eb:jnape09@gmail.com
+
+M	pom.xml
+commit=bcd89660cdc876b22d3b6c72df32b262af9ec6ef:jnape09@gmail.com
+
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FilterTest.java
+commit=833436f89f49308ccd348232e8f81b06a95163ee:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+D	src/main/java/com/jnape/dynamiccollection/operation/Collect.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Filter.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+R056	src/test/java/com/jnape/dynamiccollection/operation/CollectTest.java	src/test/java/com/jnape/dynamiccollection/operation/FilterTest.java
+commit=51cc72b6fd99b38053c4f8ec3db16f47034ef279:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Collect.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Each.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+commit=1ae464d031c3854c38b11789ff0d73f144cec922:jnape09@gmail.com
+
+M	pom.xml
+commit=352ed9d5f1ac5ffd312c7feb5dd90c48fbba28b4:jnape09@gmail.com
+
+M	pom.xml
+commit=c3e4ac595195c3b47537bbb32553623887ddf6af:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Sort.java
+M	src/test/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/SortTest.java
+commit=6031999ead579d7bade6976dbb2cbc6f8f7eaf16:jnape09@gmail.com
+
+R072	src/main/java/com/jnape/dynamiccollection/DynamicCollectionFactory.java	src/main/java/com/jnape/dynamiccollection/factory/DynamicListFactory.java
+A	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/ComparableDynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+D	src/main/java/com/jnape/dynamiccollection/list/DynamicNumericArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Bound.java
+A	src/main/java/com/jnape/dynamiccollection/operation/exception/OperationRequiresAtLeastOneElementException.java
+D	src/test/java/com/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+A	src/test/java/com/jnape/dynamiccollection/DynamicListFactoryTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/ComparableDynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+D	src/test/java/com/jnape/dynamiccollection/list/DynamicNumericArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/BoundTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ReverseTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/exception/OperationRequiresAtLeastOneElementExceptionTest.java
+M	src/test/java/testsupport/assertion/InheritanceAssert.java
+commit=0b09a2c53a896ca6b3c207397ad5ffd3b917bc06:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/list/DynamicNumericArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/list/DynamicNumericArrayListTest.java
+A	src/test/java/testsupport/assertion/InheritanceAssert.java
+M	src/test/java/testsupport/assertion/ReflectionAssert.java
+commit=cfd6e21df608493ca160b5e3a7d9a23b2b05c96b:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Map.java
+D	src/main/java/com/jnape/dynamiccollection/operation/Transform.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+R085	src/test/java/com/jnape/dynamiccollection/operation/TransformTest.java	src/test/java/com/jnape/dynamiccollection/operation/MapTest.java
+commit=f582b7de4e82d81612f3fa0690cb70756eef4b3f:jnape09@gmail.com
+
+M	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+commit=ee251c728e93766cb27c18f216b69a0ab8be7edf:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/CartesianProduct.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Collect.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Concatenate.java
+M	src/main/java/com/jnape/dynamiccollection/operation/InGroupsOf.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Reverse.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Transform.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Without.java
+M	src/test/java/com/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/CartesianProductTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/CollectTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/ConcatenateTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/RejectTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/TransformTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/UniqueTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/WithoutTest.java
+commit=8003b475f571ca66ba6d843314619a0c83d362b6:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=6a613a9f9e57ec5da07adea17c040fb0fdb6fc37:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/operation/InGroupsOf.java
+A	src/test/java/com/jnape/dynamiccollection/operation/InGroupsOfTest.java
+commit=7b8cdca57aff50a172a806c6f4ebc635cefd32a6:jnape09@gmail.com
+
+M	pom.xml
+commit=58190848797d96d97f7f192f84d067e381e95490:jnape09@gmail.com
+
+M	pom.xml
+commit=19b7f9c5f09a54a21ff49487301bc6174d3147d8:jnape09@gmail.com
+
+M	pom.xml
+commit=f20b9cc4d8e2474ecc6c592850effb268460703b:jnape09@gmail.com
+
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=d402149908e82220b2d99a9c5807767b290a6135:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/All.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/AllTest.java
+commit=4cf5788426e136c7959a009beca76f044a30d88b:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Any.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/AnyTest.java
+commit=332f5169af1aae7a1fa350c8ecba67800b1b2248:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollectionFactory.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/test/java/com/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=4253d5ccb226b39e5260683b21137e757df8d9eb:jnape09@gmail.com
+
+M	pom.xml
+commit=3b6b631b667f805f2a84dd90c5689d761532b9b3:jnape09@gmail.com
+
+M	pom.xml
+commit=6b38e3360f622cf58306a267aef463903ccbef6c:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/Accumulator.java
+D	src/main/java/com/jnape/dynamiccollection/lambda/HigherOrderFunction.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Fold.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Reduce.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Reverse.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/ReduceTest.java
+A	src/test/java/com/jnape/dynamiccollection/operation/ReverseTest.java
+commit=f7f888a54f717ac7013f277d88b37ed814a20e01:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/operation/Without.java
+M	src/test/java/com/jnape/dynamiccollection/operation/WithoutTest.java
+commit=8965b7fb4e0b91299aacacf3a80f60f57b121141:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+A	src/main/java/com/jnape/dynamiccollection/operation/Join.java
+A	src/test/java/com/jnape/dynamiccollection/operation/JoinTest.java
+commit=fb2a6fd698738dd614e9c58231dc1a6ee93fa9fb:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/operation/Fold.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+commit=5738930447c555c473a5d4203cb511ea2b1b0fbc:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/lambda/Procedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+D	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+R068	src/main/java/com/jnape/dynamiccollection/operator/CartesianMultiplier.java	src/main/java/com/jnape/dynamiccollection/operation/CartesianProduct.java
+R092	src/main/java/com/jnape/dynamiccollection/operator/Collect.java	src/main/java/com/jnape/dynamiccollection/operation/Collect.java
+R091	src/main/java/com/jnape/dynamiccollection/operator/Concatenate.java	src/main/java/com/jnape/dynamiccollection/operation/Concatenate.java
+R086	src/main/java/com/jnape/dynamiccollection/operator/Each.java	src/main/java/com/jnape/dynamiccollection/operation/Each.java
+R094	src/main/java/com/jnape/dynamiccollection/operator/Fold.java	src/main/java/com/jnape/dynamiccollection/operation/Fold.java
+R094	src/main/java/com/jnape/dynamiccollection/operator/Partition.java	src/main/java/com/jnape/dynamiccollection/operation/Partition.java
+R092	src/main/java/com/jnape/dynamiccollection/operator/Reject.java	src/main/java/com/jnape/dynamiccollection/operation/Reject.java
+R093	src/main/java/com/jnape/dynamiccollection/operator/Transform.java	src/main/java/com/jnape/dynamiccollection/operation/Transform.java
+R091	src/main/java/com/jnape/dynamiccollection/operator/Unique.java	src/main/java/com/jnape/dynamiccollection/operation/Unique.java
+R091	src/main/java/com/jnape/dynamiccollection/operator/Without.java	src/main/java/com/jnape/dynamiccollection/operation/Without.java
+D	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R089	src/test/java/com/jnape/dynamiccollection/operator/CartesianMultiplierTest.java	src/test/java/com/jnape/dynamiccollection/operation/CartesianProductTest.java
+R097	src/test/java/com/jnape/dynamiccollection/operator/CollectTest.java	src/test/java/com/jnape/dynamiccollection/operation/CollectTest.java
+R095	src/test/java/com/jnape/dynamiccollection/operator/ConcatenateTest.java	src/test/java/com/jnape/dynamiccollection/operation/ConcatenateTest.java
+R096	src/test/java/com/jnape/dynamiccollection/operator/EachTest.java	src/test/java/com/jnape/dynamiccollection/operation/EachTest.java
+R097	src/test/java/com/jnape/dynamiccollection/operator/FoldTest.java	src/test/java/com/jnape/dynamiccollection/operation/FoldTest.java
+R095	src/test/java/com/jnape/dynamiccollection/operator/PartitionTest.java	src/test/java/com/jnape/dynamiccollection/operation/PartitionTest.java
+R096	src/test/java/com/jnape/dynamiccollection/operator/RejectTest.java	src/test/java/com/jnape/dynamiccollection/operation/RejectTest.java
+R096	src/test/java/com/jnape/dynamiccollection/operator/TransformTest.java	src/test/java/com/jnape/dynamiccollection/operation/TransformTest.java
+R093	src/test/java/com/jnape/dynamiccollection/operator/UniqueTest.java	src/test/java/com/jnape/dynamiccollection/operation/UniqueTest.java
+R094	src/test/java/com/jnape/dynamiccollection/operator/WithoutTest.java	src/test/java/com/jnape/dynamiccollection/operation/WithoutTest.java
+commit=e4017aa7eda6a03ac873c38c025279876d53be1e:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+M	src/main/java/com/jnape/dynamiccollection/operator/Collect.java
+R062	src/main/java/com/jnape/dynamiccollection/operator/Folder.java	src/main/java/com/jnape/dynamiccollection/operator/Fold.java
+R055	src/main/java/com/jnape/dynamiccollection/operator/Partitioner.java	src/main/java/com/jnape/dynamiccollection/operator/Partition.java
+M	src/main/java/com/jnape/dynamiccollection/operator/Reject.java
+M	src/main/java/com/jnape/dynamiccollection/operator/Transform.java
+A	src/main/java/com/jnape/dynamiccollection/operator/Unique.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R067	src/test/java/com/jnape/dynamiccollection/operator/FolderTest.java	src/test/java/com/jnape/dynamiccollection/operator/FoldTest.java
+A	src/test/java/com/jnape/dynamiccollection/operator/PartitionTest.java
+D	src/test/java/com/jnape/dynamiccollection/operator/PartitionerTest.java
+A	src/test/java/com/jnape/dynamiccollection/operator/UniqueTest.java
+commit=a0f93fb1031d6f01b83b3ca92733e6cfff611f1f:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+R059	src/main/java/com/jnape/dynamiccollection/operator/IterativelyExecute.java	src/main/java/com/jnape/dynamiccollection/operator/Each.java
+R074	src/main/java/com/jnape/dynamiccollection/operator/ElementExcluder.java	src/main/java/com/jnape/dynamiccollection/operator/Without.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R054	src/test/java/com/jnape/dynamiccollection/operator/IterativelyExecuteTest.java	src/test/java/com/jnape/dynamiccollection/operator/EachTest.java
+R057	src/test/java/com/jnape/dynamiccollection/operator/ElementExcluderTest.java	src/test/java/com/jnape/dynamiccollection/operator/WithoutTest.java
+commit=67a1d81af4f45bcd9cb72b1f4f1c0ba77d3ddf98:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+R075	src/main/java/com/jnape/dynamiccollection/operator/Rejector.java	src/main/java/com/jnape/dynamiccollection/operator/Reject.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R053	src/test/java/com/jnape/dynamiccollection/operator/RejectorTest.java	src/test/java/com/jnape/dynamiccollection/operator/RejectTest.java
+commit=ac558d592e9e55786bcda64d5c14db67ce9e0e55:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+R074	src/main/java/com/jnape/dynamiccollection/operator/Collector.java	src/main/java/com/jnape/dynamiccollection/operator/Collect.java
+R095	src/main/java/com/jnape/dynamiccollection/operator/Concatenator.java	src/main/java/com/jnape/dynamiccollection/operator/Concatenate.java
+R090	src/main/java/com/jnape/dynamiccollection/operator/IterativeExecutor.java	src/main/java/com/jnape/dynamiccollection/operator/IterativelyExecute.java
+R070	src/main/java/com/jnape/dynamiccollection/operator/Transformer.java	src/main/java/com/jnape/dynamiccollection/operator/Transform.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+A	src/test/java/com/jnape/dynamiccollection/operator/CollectTest.java
+D	src/test/java/com/jnape/dynamiccollection/operator/CollectorTest.java
+R083	src/test/java/com/jnape/dynamiccollection/operator/ConcatenatorTest.java	src/test/java/com/jnape/dynamiccollection/operator/ConcatenateTest.java
+R086	src/test/java/com/jnape/dynamiccollection/operator/IterativeExecutorTest.java	src/test/java/com/jnape/dynamiccollection/operator/IterativelyExecuteTest.java
+R050	src/test/java/com/jnape/dynamiccollection/operator/TransformerTest.java	src/test/java/com/jnape/dynamiccollection/operator/TransformTest.java
+commit=59d697b591a73a71bd059caf5c98428db912a00c:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+M	src/main/java/com/jnape/dynamiccollection/operator/CartesianMultiplier.java
+M	src/main/java/com/jnape/dynamiccollection/operator/IterativeExecutor.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+M	src/test/java/com/jnape/dynamiccollection/operator/CartesianMultiplierTest.java
+M	src/test/java/com/jnape/dynamiccollection/operator/IterativeExecutorTest.java
+commit=1c0198000a72e071f968f0309e18325c04bb67f8:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+M	src/main/java/com/jnape/dynamiccollection/operator/Concatenator.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+M	src/test/java/com/jnape/dynamiccollection/operator/ConcatenatorTest.java
+M	src/test/java/testsupport/assertion/ReflectionAssert.java
+commit=95df5ec5efd8bd6cc0ad964554bb37315d3a1eff:jnape09@gmail.com
+
+A	src/main/java/com/jnape/dynamiccollection/lambda/HigherOrderFunction.java
+M	src/main/java/com/jnape/dynamiccollection/lambda/Procedure.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+A	src/main/java/com/jnape/dynamiccollection/operator/Folder.java
+D	src/test/java/com/jnape/dynamiccollection/lambda/FunctionTest.java
+D	src/test/java/com/jnape/dynamiccollection/lambda/ProcedureTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+A	src/test/java/com/jnape/dynamiccollection/operator/FolderTest.java
+commit=3aa8986fbec162b6a7d1d7cfa139c7c59c0c0753:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+D	src/main/java/com/jnape/dynamiccollection/operator/Reducer.java
+A	src/main/java/com/jnape/dynamiccollection/operator/Rejector.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R058	src/test/java/com/jnape/dynamiccollection/operator/ReducerTest.java	src/test/java/com/jnape/dynamiccollection/operator/RejectorTest.java
+commit=5e5c33003f8ab033634f2e76ed0a8aced94986fa:jnape09@gmail.com
+commit=8541f310500c82511a3a4cd157ff252d94a3224c:jnape09@gmail.com
+
+M	pom.xml
+commit=c3d95ee6f9dc330895608d728f037ea67fe15d1f:jnape09@gmail.com
+
+M	pom.xml
+commit=0a8ef1c1e61dee14abb7892e8e381a14c60f5c78:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=f830fa88815e357dbf40d383a200b7206d07ce24:jnape09@gmail.com
+
+M	pom.xml
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+commit=40d870eec4ddbb33e65af4cffdb55e88f0788270:jnape09@gmail.com
+
+M	pom.xml
+commit=97bf8d3ab8bb40123becac8c661bf81c0fce81ef:jnape09@gmail.com
+
+M	pom.xml
+commit=ba3b9cc5847b93a8a8bcb4dd984897071c3c4e96:jnape09@gmail.com
+
+M	pom.xml
+commit=cd0d130a8edbec1ed7389e070fc47157efacd144:jnape09@gmail.com
+
+M	pom.xml
+commit=2014541a09c433a5f6072311e14f869da71c0ac6:jnape09@gmail.com
+
+M	pom.xml
+commit=5dabfd805c1f1f92abac0579fad61cae954f2031:jnape09@gmail.com
+
+M	pom.xml
+commit=7be6b60eda0c83336b11cdc9d07f933bbf8dd06d:jnape09@gmail.com
+
+M	pom.xml
+commit=702cd8623aacaa30d62bbf05148d19901e562f28:jnape09@gmail.com
+
+M	pom.xml
+commit=3829fc10c49a5abaa7de73cfe0c1bdcd4e8609af:jnape09@gmail.com
+
+M	pom.xml
+commit=adef59aa20df6250ee5ed311da164c0b19f87ad0:jnape09@gmail.com
+
+M	pom.xml
+commit=43102683f79368e4a19e10a63732ad9e6842864b:jnape09@gmail.com
+
+M	pom.xml
+commit=03cdfa24dab7a43004d2173e1fcfaefc0729405b:jnape09@gmail.com
+
+M	pom.xml
+commit=cb3b33aa8139a1f309ac18ea9f35ff9ac770e9e7:jnape09@gmail.com
+
+M	pom.xml
+commit=5b94347d65d1d9210d5def5705cff7c0389cd8c9:jnape09@gmail.com
+
+M	pom.xml
+commit=1b7154f21d4c8380c6cdb3785e959d35b6dcdc34:jnape09@gmail.com
+
+M	pom.xml
+commit=aa944543ee50c7c87190af28fa326f4eb55f4297:jnape09@gmail.com
+
+M	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+commit=a77ad133180cc6bf135f956f3dae5223782a5c87:jnape09@gmail.com
+
+M	pom.xml
+commit=21c3d0e7bb8f805be853100459b7d1f06cd565a6:jnape09@gmail.com
+
+R078	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java	src/main/java/com/jnape/dynamiccollection/DynamicCollection.java
+R082	src/main/java/org/jnape/dynamiccollection/DynamicCollectionFactory.java	src/main/java/com/jnape/dynamiccollection/DynamicCollectionFactory.java
+R077	src/main/java/org/jnape/dynamiccollection/datatype/Partition.java	src/main/java/com/jnape/dynamiccollection/datatype/Partition.java
+R063	src/main/java/org/jnape/dynamiccollection/lambda/Function.java	src/main/java/com/jnape/dynamiccollection/lambda/Function.java
+R084	src/main/java/org/jnape/dynamiccollection/lambda/Procedure.java	src/main/java/com/jnape/dynamiccollection/lambda/Procedure.java
+R092	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java	src/main/java/com/jnape/dynamiccollection/list/DynamicArrayList.java
+R079	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java	src/main/java/com/jnape/dynamiccollection/list/DynamicList.java
+R088	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java	src/main/java/com/jnape/dynamiccollection/list/OperationProvider.java
+R084	src/main/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorException.java	src/main/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorException.java
+R074	src/main/java/org/jnape/dynamiccollection/list/exception/ListWasEmptyException.java	src/main/java/com/jnape/dynamiccollection/list/exception/ListWasEmptyException.java
+R076	src/main/java/org/jnape/dynamiccollection/operator/CartesianMultiplier.java	src/main/java/com/jnape/dynamiccollection/operator/CartesianMultiplier.java
+R067	src/main/java/org/jnape/dynamiccollection/operator/Collector.java	src/main/java/com/jnape/dynamiccollection/operator/Collector.java
+R071	src/main/java/org/jnape/dynamiccollection/operator/Concatenator.java	src/main/java/com/jnape/dynamiccollection/operator/Concatenator.java
+R071	src/main/java/org/jnape/dynamiccollection/operator/ElementExcluder.java	src/main/java/com/jnape/dynamiccollection/operator/ElementExcluder.java
+R072	src/main/java/org/jnape/dynamiccollection/operator/IterativeExecutor.java	src/main/java/com/jnape/dynamiccollection/operator/IterativeExecutor.java
+R066	src/main/java/org/jnape/dynamiccollection/operator/Partitioner.java	src/main/java/com/jnape/dynamiccollection/operator/Partitioner.java
+R067	src/main/java/org/jnape/dynamiccollection/operator/Reducer.java	src/main/java/com/jnape/dynamiccollection/operator/Reducer.java
+R069	src/main/java/org/jnape/dynamiccollection/operator/Transformer.java	src/main/java/com/jnape/dynamiccollection/operator/Transformer.java
+R095	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java	src/test/java/com/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+R089	src/test/java/org/jnape/dynamiccollection/datatype/PartitionTest.java	src/test/java/com/jnape/dynamiccollection/datatype/PartitionTest.java
+R094	src/test/java/org/jnape/dynamiccollection/lambda/FunctionTest.java	src/test/java/com/jnape/dynamiccollection/lambda/FunctionTest.java
+R095	src/test/java/org/jnape/dynamiccollection/lambda/ProcedureTest.java	src/test/java/com/jnape/dynamiccollection/lambda/ProcedureTest.java
+R095	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java	src/test/java/com/jnape/dynamiccollection/list/DynamicArrayListTest.java
+R092	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java	src/test/java/com/jnape/dynamiccollection/list/OperationProviderTest.java
+R090	src/test/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java	src/test/java/com/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+R092	src/test/java/org/jnape/dynamiccollection/list/exception/ListWasEmptyExceptionTest.java	src/test/java/com/jnape/dynamiccollection/list/exception/ListWasEmptyExceptionTest.java
+R092	src/test/java/org/jnape/dynamiccollection/operator/CartesianMultiplierTest.java	src/test/java/com/jnape/dynamiccollection/operator/CartesianMultiplierTest.java
+R088	src/test/java/org/jnape/dynamiccollection/operator/CollectorTest.java	src/test/java/com/jnape/dynamiccollection/operator/CollectorTest.java
+R090	src/test/java/org/jnape/dynamiccollection/operator/ConcatenatorTest.java	src/test/java/com/jnape/dynamiccollection/operator/ConcatenatorTest.java
+R090	src/test/java/org/jnape/dynamiccollection/operator/ElementExcluderTest.java	src/test/java/com/jnape/dynamiccollection/operator/ElementExcluderTest.java
+R087	src/test/java/org/jnape/dynamiccollection/operator/IterativeExecutorTest.java	src/test/java/com/jnape/dynamiccollection/operator/IterativeExecutorTest.java
+R088	src/test/java/org/jnape/dynamiccollection/operator/PartitionerTest.java	src/test/java/com/jnape/dynamiccollection/operator/PartitionerTest.java
+R087	src/test/java/org/jnape/dynamiccollection/operator/ReducerTest.java	src/test/java/com/jnape/dynamiccollection/operator/ReducerTest.java
+R087	src/test/java/org/jnape/dynamiccollection/operator/TransformerTest.java	src/test/java/com/jnape/dynamiccollection/operator/TransformerTest.java
+commit=b11c4eedf5d697647c1b1d3f54e20fb9ce81ec5e:john@john-napiers-macbookpro41.local
+
+M	pom.xml
+D	src/main/java/org/jnape/dynamiccollection/datatype/ListPartition.java
+M	src/main/java/org/jnape/dynamiccollection/datatype/Partition.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java
+M	src/main/java/org/jnape/dynamiccollection/operator/Collector.java
+A	src/main/java/org/jnape/dynamiccollection/operator/Partitioner.java
+M	src/main/java/org/jnape/dynamiccollection/operator/Reducer.java
+M	src/main/java/org/jnape/dynamiccollection/operator/Transformer.java
+D	src/test/java/org/jnape/dynamiccollection/datatype/ListPartitionTest.java
+A	src/test/java/org/jnape/dynamiccollection/datatype/PartitionTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java
+M	src/test/java/org/jnape/dynamiccollection/operator/CollectorTest.java
+A	src/test/java/org/jnape/dynamiccollection/operator/PartitionerTest.java
+M	src/test/java/org/jnape/dynamiccollection/operator/ReducerTest.java
+M	src/test/java/org/jnape/dynamiccollection/operator/TransformerTest.java
+commit=b2e5363d49f8263dc18a943503dd3dddcd966d7f:john@john-napiers-macbookpro41.local
+
+M	pom.xml
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java
+A	src/main/java/org/jnape/dynamiccollection/operator/ElementExcluder.java
+A	src/main/java/org/jnape/dynamiccollection/operator/Reducer.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java
+A	src/test/java/org/jnape/dynamiccollection/operator/ElementExcluderTest.java
+A	src/test/java/org/jnape/dynamiccollection/operator/ReducerTest.java
+commit=1c7b295ed94c9ba52a082a4a2e9f376c7c45de61:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java
+R092	src/main/java/org/jnape/dynamiccollection/list/operator/CartesianMultiplier.java	src/main/java/org/jnape/dynamiccollection/operator/CartesianMultiplier.java
+R090	src/main/java/org/jnape/dynamiccollection/list/operator/Concatenator.java	src/main/java/org/jnape/dynamiccollection/operator/Concatenator.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java
+R098	src/test/java/org/jnape/dynamiccollection/list/operator/CartesianMultiplierTest.java	src/test/java/org/jnape/dynamiccollection/operator/CartesianMultiplierTest.java
+R095	src/test/java/org/jnape/dynamiccollection/list/operator/ConcatenatorTest.java	src/test/java/org/jnape/dynamiccollection/operator/ConcatenatorTest.java
+commit=421e322409c02365329299800b4c8af511f0e794:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java
+D	src/main/java/org/jnape/dynamiccollection/list/operation/CartesianProduct.java
+D	src/main/java/org/jnape/dynamiccollection/list/operation/Concatenation.java
+D	src/main/java/org/jnape/dynamiccollection/list/operation/Each.java
+A	src/main/java/org/jnape/dynamiccollection/list/operator/CartesianMultiplier.java
+A	src/main/java/org/jnape/dynamiccollection/list/operator/Concatenator.java
+A	src/main/java/org/jnape/dynamiccollection/operator/Collector.java
+A	src/main/java/org/jnape/dynamiccollection/operator/IterativeExecutor.java
+A	src/main/java/org/jnape/dynamiccollection/operator/Transformer.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java
+R067	src/test/java/org/jnape/dynamiccollection/list/operation/CartesianProductTest.java	src/test/java/org/jnape/dynamiccollection/list/operator/CartesianMultiplierTest.java
+R074	src/test/java/org/jnape/dynamiccollection/list/operation/ConcatenationTest.java	src/test/java/org/jnape/dynamiccollection/list/operator/ConcatenatorTest.java
+A	src/test/java/org/jnape/dynamiccollection/operator/CollectorTest.java
+R070	src/test/java/org/jnape/dynamiccollection/list/operation/EachTest.java	src/test/java/org/jnape/dynamiccollection/operator/IterativeExecutorTest.java
+A	src/test/java/org/jnape/dynamiccollection/operator/TransformerTest.java
+commit=de220c5322ca1f1b7d427ccdb791186fef3fdbc6:john@john-napiers-macbookpro41.local
+
+M	pom.xml
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/list/OperationProvider.java
+A	src/main/java/org/jnape/dynamiccollection/list/operation/CartesianProduct.java
+A	src/main/java/org/jnape/dynamiccollection/list/operation/Concatenation.java
+A	src/main/java/org/jnape/dynamiccollection/list/operation/Each.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/OperationProviderTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/operation/CartesianProductTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/operation/ConcatenationTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/operation/EachTest.java
+A	src/test/java/testsupport/assertion/ReflectionAssert.java
+commit=99eed56e1fc0c16acd3d9fafc92f1427bed5712c:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=fceb936eb41d61016fe247f2ea53e49383174db3:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/list/exception/ListWasEmptyException.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/exception/ListWasEmptyExceptionTest.java
+commit=f38503fa818068a73e1ffb7a2339300987b02429:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/main/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorException.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+M	src/test/java/testsupport/Item.java
+M	src/test/java/testsupport/ItemFixture.java
+commit=29d709e599722d2e3b5c5d193545be10541181d9:john@john-napiers-macbookpro41.local
+
+D	src/main/java/org/jnape/dynamiccollection/list/exception/CouldNotInferComparatorException.java
+A	src/main/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorException.java
+R093	src/test/java/org/jnape/dynamiccollection/list/exception/CouldNotInferComparatorExceptionTest.java	src/test/java/org/jnape/dynamiccollection/list/exception/ListNotSortableWithoutCustomComparatorExceptionTest.java
+commit=aa90b204c5f3efe1b110f2b3ec61b80d01a3b02d:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/list/exception/CouldNotInferComparatorException.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/list/exception/CouldNotInferComparatorExceptionTest.java
+commit=104db078cfb95fc4f34f776ad5efce75e8357ade:john@john-napiers-macbookpro41.local
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollectionFactory.java
+D	src/main/java/org/jnape/dynamiccollection/set/DynamicHashSet.java
+D	src/main/java/org/jnape/dynamiccollection/set/DynamicSet.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+D	src/test/java/org/jnape/dynamiccollection/set/DynamicHashSetTest.java
+commit=a9246c41e47eef0eee03032df9e2290f154862c3:john@john-napiers-macbookpro41.local
+
+M	pom.xml
+commit=7c60bd92c32da426cbbb01f5bffa84dcd0992bb7:john@john-napiers-macbookpro41.local
+
+M	pom.xml
+commit=8655de42a534c6c375216b80bb04f62a0a1f5246:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollectionFactory.java
+M	src/main/java/org/jnape/dynamiccollection/set/DynamicHashSet.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/set/DynamicHashSetTest.java
+commit=857ef5ec67a905df377fc57da47f59b17dc033d7:jnape09@gmail.com
+
+M	src/test/java/org/jnape/dynamiccollection/set/DynamicHashSetTest.java
+commit=6f550213b51dfcf947bb3d82029262bacdf89d2b:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/set/DynamicHashSet.java
+A	src/main/java/org/jnape/dynamiccollection/set/DynamicSet.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/set/DynamicHashSetTest.java
+A	src/test/java/testsupport/ItemFixture.java
+commit=ea5804efbfcd65ab4d78423c1cdb360a87720d96:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+commit=4389d6027d684591f8bccc211f3fb6392787ff98:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=a0db5a8a9d94855f8a6cdefde58aaa168c3f07cf:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=db94307130a0648d6962eb5f309f0da29bd0c391:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollectionFactory.java
+M	src/main/java/org/jnape/dynamiccollection/datatype/ListPartition.java
+R091	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java	src/main/java/org/jnape/dynamiccollection/list/DynamicArrayList.java
+R083	src/main/java/org/jnape/dynamiccollection/DynamicList.java	src/main/java/org/jnape/dynamiccollection/list/DynamicList.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+M	src/test/java/org/jnape/dynamiccollection/datatype/ListPartitionTest.java
+R086	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java	src/test/java/org/jnape/dynamiccollection/list/DynamicArrayListTest.java
+commit=7db19174cc5f0e8bba1948b1e0c238e7089462a9:jnape09@gmail.com
+
+A	.gitignore
+commit=45b6ceb7730d2ad90d9a84c0ec87ddbc12c3e0b9:jnape09@gmail.com
+
+A	src/main/java/org/jnape/dynamiccollection/DynamicCollectionFactory.java
+A	src/test/java/org/jnape/dynamiccollection/DynamicCollectionFactoryTest.java
+commit=26ba8900d8764604d96c1c097390e1ce4ad101e0:jnape09@gmail.com
+commit=cad4f98c78194e4db894a252d3011431590dc726:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/datatype/ListPartition.java
+A	src/main/java/org/jnape/dynamiccollection/datatype/Partition.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/datatype/ListPartitionTest.java
+commit=88ea6fcdde32d8d770295397cf1d24dac4078084:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/datatype/ListPartition.java
+A	src/main/java/org/jnape/dynamiccollection/datatype/Partition.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/datatype/ListPartitionTest.java
+commit=d87cf227b709ed46b7ce5c05955add45dc807410:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+commit=69aa2021d577caae39b9d8333b033b4c267826cc:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/lambda/Procedure.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+M	src/test/java/org/jnape/dynamiccollection/lambda/FunctionTest.java
+A	src/test/java/org/jnape/dynamiccollection/lambda/ProcedureTest.java
+commit=ed995c315618e3196a642e513ca7cdf60c82ec55:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+commit=c8cfd5b5d415b77877a1088b8111f60b81831709:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+commit=eec97171421ebceb3cf78f08ac1e50b3be51a2a9:jnape09@gmail.com
+
+M	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+M	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+A	src/main/java/org/jnape/dynamiccollection/lambda/Function.java
+M	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+A	src/test/java/org/jnape/dynamiccollection/lambda/FunctionTest.java
+commit=80678943b6877401d37145ae9d3db2ff7317d4bf:jnape09@gmail.com
+
+A	pom.xml
+A	src/main/java/org/jnape/dynamiccollection/DynamicArrayList.java
+A	src/main/java/org/jnape/dynamiccollection/DynamicCollection.java
+A	src/main/java/org/jnape/dynamiccollection/DynamicList.java
+A	src/test/java/org/jnape/dynamiccollection/DynamicArrayListTest.java
+A	src/test/java/testsupport/Item.java

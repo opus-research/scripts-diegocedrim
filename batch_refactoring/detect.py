@@ -12,7 +12,7 @@ def clean_single_refs(rerefs):
 def load_rerefs(filename):
     rerefs = {}
     with open(filename) as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=';', quotechar='"')
+        reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
         for row in reader:
             key = (row["project_name"], row["element"])
             rerefs[key] = rerefs.get(key, []) + [row]
@@ -22,8 +22,8 @@ def load_rerefs(filename):
 
 def load_commits_by_devs():
     commits_by_dev = {}
-    with open("rerefs/commits_and_devs_fse.csv") as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=';', quotechar='"')
+    with open("rerefs/commits_and_devs_all.csv") as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
         for row in reader:
             key = (row["project_name"], row["author_email"])
             commits_by_dev[key] = commits_by_dev.get(key, []) + [int(row["order"])]
@@ -41,6 +41,10 @@ def worked_between(start_order, end_order, ref):
     commits = commits_by_devs[(ref["project_name"], ref["author_email"])]
     start_index = index(commits, int(start_order))
     end_index = index(commits, int(end_order))
+    # TODO: Melhorar Criterio
+    # Se abs(end_index - start_index) > 1, devemos checar se o dev trabalhou em
+    # outra classe ou nao. Se ele trabalhou na mesma durante o intervalo, entao consideramos
+    # parte do mesmo batch e nao acabar com o batch
     return abs(end_index - start_index) > 1
 
 
@@ -65,7 +69,7 @@ def find_batches(key):
     return batches
 
 
-rerefs = load_rerefs("rerefs/refactored_elements_fse.csv")
+rerefs = load_rerefs("rerefs/refactored_elements_all.csv")
 commits_by_devs = load_commits_by_devs()
 # print commits_by_devs[("alibaba/dubbo", "ding.lid@1a56cb94-b969-4eaa-88fa-be21384802f2")]
 # exit()
@@ -74,15 +78,22 @@ commits_by_devs = load_commits_by_devs()
 #         print i, len(rerefs[i])
 #         exit()
 i = 1
+multiple = 0
 all_batches = []
 for key in rerefs:
     batches = find_batches(key)
     all_batches += batches
-#     for batch in batches:
-#         print "Batch", i
-#         i += 1
-#         for ref in batch:
-#             print ref["element"], ref["author_email"], ref["order"]
-#         print ""
+    # for batch in batches:
+    #     print "Batch", i
+    #     i += 1
+    #     orders = set()
+    #     for ref in batch:
+    #         print ref["element"], ref["author_email"], ref["order"]
+    #         orders.add(ref["order"])
+    #     if len(orders) > 1:
+    #         multiple += 1
+    #     print ""
 # print len(all_batches)
+
 print json.dumps(all_batches, indent=4)
+# print "Batches: %s (%s multiples)" % (len(all_batches), multiple)

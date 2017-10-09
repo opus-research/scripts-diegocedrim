@@ -1,0 +1,698 @@
+commit=c95bcbee58497afc97e10d5a4ea03ff5e3393794:fra.furiani@stud.uniroma3.it
+
+M	runningScripts/configClusterMpj.sh
+commit=0d36a6e30988c5bf89833e9dd8613faf6025e868:fra.furiani@stud.uniroma3.it
+
+M	README.md
+commit=1b23addbe6904436828b70d82f311857a5f74d9f:fra.furiani@stud.uniroma3.it
+
+M	README.md
+commit=cf13b389ec148fd368a7f3b4429dbac64b96c354:fra.furiani@stud.uniroma3.it
+
+M	DocumentazioneSistemiscaCluster.html
+commit=f74e902b34e013215305a7ccb9d4655c2f728b8b:fra.furiani@stud.uniroma3.it
+
+M	runningScripts/configClusterMpj.sh
+commit=8ccd25bff5083a760ffbf0df3170269500330588:fra.furiani@stud.uniroma3.it
+
+M	README.md
+commit=5328f13ef52cdb119c468c8e49768e1b2726ab60:fra.furiani@stud.uniroma3.it
+
+M	DocumentazioneSistemiscaCluster.html
+commit=a8342e937b435f5d105ddde2b6d986157698f3c7:fra.furiani@stud.uniroma3.it
+
+M	DocumentazioneSistemiscaCluster.html
+commit=5a636a46de2b830dc7498ec7bd823dd280e3fd35:fra.furiani@stud.uniroma3.it
+
+M	README.md
+commit=9bf869828fe183bb0f7e12e0d64efdfbf60723c2:francesco@furio.me
+
+M	DocumentazioneSistemiscaCluster.html
+commit=ec8e91d7a4c83d0ca10d2cc10dba049bc7d2fba3:meniluca@gmail.com
+
+A	runningScripts/init.sh
+commit=07af5f284ece713d5266b26ef595113d4b647ecb:meniluca@gmail.com
+
+M	runningScripts/generateMachineFile.sh
+commit=71f7e10badd5cb59902c21975bffd1492e8d9449:meniluca@gmail.com
+
+M	runningScripts/mpjCluster.sh
+commit=32fb5271c36a2927ecdff0f64815ae7dddd53089:meniluca@gmail.com
+
+M	runningScripts/configClusterMpj.sh
+commit=206fca041e696d17644d4e709483bb8e665e6289:meniluca@gmail.com
+
+M	runningScripts/configClusterJava.sh
+commit=22af918a649a220e23e158934c06eee9e1b3ff46:meniluca@gmail.com
+
+M	runningScripts/configClusterMpj.sh
+commit=37e386bc27199dd69296a4ead03d8e89fa35309e:meniluca@gmail.com
+
+D	HOWTO.md
+commit=c81cbee26dda0d921f48f44cc2c2629b1a64bc27:meniluca@gmail.com
+
+R099	HOWTO.txt	HOWTO.md
+commit=bf2f13d7c2ea3775a5b5e13114e45b028de999fd:meniluca@gmail.com
+
+A	HOWTO.txt
+commit=b674174dfc906d096f2205ef71955f302827b50a:meniluca@gmail.com
+
+M	runningScripts/configClusterJava.sh
+commit=487c739f166cae99ca82d54d52490ddaa8fb0f5a:francesco@furio.me
+
+A	runningScripts/mpjCluster.sh
+commit=20fb20ef68d8977c55a38c3dda8b64d3fb0d9c79:fra.furiani@stud.uniroma3.it
+
+M	runningScripts/configClusterJava.sh
+commit=c676b52eefe8e17039403790d735a2ce7c81542b:fra.furiani@stud.uniroma3.it
+
+M	runningScripts/generateMachineFile.sh
+commit=44675b86000280829303e7e00489b9dfd87b08f0:francesco@furio.me
+
+A	DocumentazioneSistemiscaCluster.html
+A	runningScripts/generateMachineFile.sh
+commit=5b7d2e608209d72d624c662ee98b456c550bc295:francesco@furio.me
+
+R100	configClusterJava.sh	runningScripts/configClusterJava.sh
+R100	configClusterMpj.sh	runningScripts/configClusterMpj.sh
+R100	runAlfredMPI.sh	runningScripts/runAlfredMPI.sh
+commit=e32208dc85fafc5937111a741d7e73dfacd4c14d:francesco@furio.me
+
+M	LICENSE
+commit=425225a7bc057fa7cee2d132495096bc6c5cc06b:francesco@furio.me
+
+M	.settings/org.eclipse.jdt.core.prefs
+M	configClusterMpj.sh
+M	src/test/java/com/atlantbh/hadoop/s3/io/S3InputFormatTest.java
+M	src/test/java/com/atlantbh/hadoop/s3/io/S3RecordReaderTest.java
+commit=61a30ff0c756309425659e6364646dc9a3db4452:francesco@furio.me
+
+A	configClusterJava.sh
+A	configClusterMpj.sh
+M	runAlfredMPI.sh
+commit=b188a6f8ab6f9ea892971df1f67fb9488dc00896:francesco@furio.me
+
+M	.classpath
+M	.settings/org.eclipse.jdt.core.prefs
+M	pom.xml
+commit=b8d8abe19236350e2ef166d7abc0736b37a0b89c:francesco@furio.me
+
+M	examples/configuration.properties
+commit=3bd32d840237cdb2416b7c302f4796780380d375:francesco@furio.me
+
+M	.classpath
+M	pom.xml
+A	repo/mpj/mpj/0.38/mpj-0.38.jar
+A	repo/mpj/mpj/0.38/mpj-0.38.jar.md5
+A	repo/mpj/mpj/0.38/mpj-0.38.jar.sha1
+A	repo/mpj/mpj/0.38/mpj-0.38.pom
+A	repo/mpj/mpj/0.38/mpj-0.38.pom.md5
+A	repo/mpj/mpj/0.38/mpj-0.38.pom.sha1
+A	repo/mpj/mpj/maven-metadata-local.xml
+A	repo/mpj/mpj/maven-metadata-local.xml.md5
+A	repo/mpj/mpj/maven-metadata-local.xml.sha1
+M	src/main/java/project/mwe/MPIAlfred.java
+M	src/main/resources/log4j.properties
+commit=66b1e6f26f00123e7d6acf8c147f01aaafcfabec:francesco@furio.me
+
+M	AlfredMPI JAR.launch
+M	pom.xml
+M	src/test/java/it/uniroma3/dia/alfred/xpath/XPathHandlerTest.java
+commit=622c024d730f258999deb7a7cc964ce72ad2a8e1:francesco@furio.me
+
+M	.classpath
+M	.settings/org.eclipse.jdt.core.prefs
+M	pom.xml
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+commit=6410cb018d7b4bcb785f00f1a66647831e2af25a:francesco@furio.me
+
+M	runAlfredMPI.sh
+commit=5e895ffcc527115d61abbd0161325b2aafc6bb31:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+commit=3543edd0a9429c69b17f2e7f2ff1bf691c5bf4cf:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+commit=81f5b759a0060a4ca42666324b98a1c73b7cf3f7:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+commit=b452546c8377385878d5adfc51ec513350401d19:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=4aaaa1bec924bac88eb91f89717fcb84d7770a3a:francesco@furio.me
+
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=a5e828aea102d883afd8eb3b0547dfc88e3cbebf:francesco@furio.me
+commit=761133feacc52a368076a609097d84b89ea6ce5f:francesco@furio.me
+
+M	.gitignore
+D	examples/testOutputParser/attori
+D	examples/testOutputParser/movies
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+M	src/test/java/it/uniroma3/dia/alfred/xpath/XPathHandlerTest.java
+commit=90012b808097c0e1dd1c8e4ac8aa1642470350d4:meniluca@gmail.com
+commit=191eb2fbe8fd3fb5cf3c4a8f316bc0aaebaa079c:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=b81cfe3234bd7ae7df0fa5c65b098470d0d20561:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MainRunner.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/resources/log4j.properties
+commit=d97c6f8ad3ba7b3625c065dc7c6b85b65b116f43:meniluca@gmail.com
+
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=ce78045c4f9996eb086405a0d6fa9adbdabf22eb:meniluca@gmail.com
+commit=65cbd9e50485bca7bbbeb001a15cf4fa2e530186:meniluca@gmail.com
+
+A	examples/testOutputParser/attori
+A	examples/testOutputParser/movies
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=5cc42c0b88bf73bd47e8f2402f90f2d6f556e554:francesco@furio.me
+commit=9951ac6f169c5aa5d9d0e446a6fb3528d539df1e:francesco@furio.me
+
+M	examples/configuration.properties
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/experiments/ExperimentCrowdManagerRunner.java
+commit=a55c12993a289859b5e8c27d6e7c1c733a387772:meniluca@gmail.com
+commit=51d2d2656ba8c36e47068c8620d418968d499799:meniluca@gmail.com
+
+M	examples/configuration.properties
+M	examples/output_mpi/output1/conf1_movies-movies-Rating-2-8
+M	examples/output_mpi/output1/conf1_movies-movies-Title-2-9
+M	examples/output_mpi/output2/conf2_attori-attori-Name-1-8
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+A	src/test/java/it/uniroma3/dia/alfred/mpi/OutputParserTest.java
+commit=45223465c30105c2afbcda6dd04ad653e826f32a:francesco@furio.me
+commit=8738833756d71921fbfa36687db4b61fd9222fda:francesco@furio.me
+
+M	examples/domains.properties
+R080	examples/output_mpi/output1/conf1_movies-movies-Rating-2-8	examples/output_mpi/output1/conf1_movies-movies-Rating-1-8
+R100	examples/output_mpi/output1/conf1_movies-movies-Title-2-9	examples/output_mpi/output1/conf1_movies-movies-Title-1-9
+A	examples/output_mpi/output2/conf2_attori-attori-AltName-2-9
+D	examples/output_mpi/output2/conf2_attori-attori-Birth_date-1-9
+R100	examples/output_mpi/output2/conf2_attori-attori-Name-1-8	examples/output_mpi/output2/conf2_attori-attori-Name-2-8
+M	runAlfredMPI.sh
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/experiments/ExperimentCrowdManagerRunner.java
+commit=a043c89670e309bc9dce1b83ca816b0477cdca4c:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfigHolderIdBroker.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/OutputParser.java
+commit=59af3b5f58164d1f7ab9c3ca5838c8744f7e5233:francesco@furio.me
+
+M	examples/configuration.properties
+A	examples/output_mpi/output1/conf1_movies-movies-Rating-2-8
+A	examples/output_mpi/output1/conf1_movies-movies-Title-2-9
+A	examples/output_mpi/output2/conf2_attori-attori-Birth_date-1-9
+A	examples/output_mpi/output2/conf2_attori-attori-Name-1-8
+commit=e1fe54455a3cad47daa08291692e35a0e98292be:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/experiments/ExperimentCrowdManagerRunner.java
+commit=3203792d5e067fa77f06b85ff9c9ba19ced35895:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/experiments/ExperimentCrowdManagerRunner.java
+commit=438f648953157c436322ce0f590844ae5f8728ae:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/experiments/ExperimentCrowdManagerRunner.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3Cache.java
+R084	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3Synchro.java	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3CacheSynchro.java
+commit=346a92d055043a49c5633a02f025bbf0d20d458f:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=68e8b8a8159fcdd96e1ee461fa17ba11660db531:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=0623bf2af9b511e7e07f58ced0a45e8120356a3b:francesco@furio.me
+
+M	examples/configuration.properties
+M	examples/domains.properties
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3Synchro.java
+commit=0525f7629e8627f66e95f1d8511708f66237e104:francesco@furio.me
+
+M	examples/configuration.properties
+M	examples/domains.properties
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+M	src/main/resources/it/uniroma3/dia/alfred/mpi/domains.properties
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+commit=99321d4829d04d91c83e2c75f7d5521d9c3d7765:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/data/ResultHolder.java
+commit=36dd5ee7bc428a22e4b95cb98e7d205842e502d4:francesco@furio.me
+
+M	examples/domains.properties
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=004731cb47fc2fa9601a25a774e271d60ee0de76:francesco@furio.me
+
+M	pom.xml
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MainRunner.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+D	src/main/java/it/uniroma3/dia/alfred/mpi/runner/main/MainRunner.java
+M	src/main/java/project/mwe/MPIAlfred.java
+commit=8b7250eb2a29bc5f81a62518f2a95eb4a8d80c24:meniluca@gmail.com
+commit=4790fa1228d2500dd48c6d58b2d11dfde5347290:meniluca@gmail.com
+
+M	src/main/resources/it/uniroma3/dia/alfred/mpi/configurations.properties
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+commit=ded014bab71a115cf8de3d9f71fe80474af0e6ee:francesco@furio.me
+
+M	pom.xml
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/main/MainRunner.java
+commit=d7207239a702f6040997c189c2c806f48010eb39:meniluca@gmail.com
+commit=3598aa06a3c00c59cdb14dd17e94f208137be9dd:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+commit=5d2bd6b221571bdd8c7f8a51b744e6379e630244:francesco@furio.me
+
+A	examples/configuration.properties
+A	examples/domains.properties
+M	src/main/resources/it/uniroma3/dia/alfred/mpi/configurations.properties
+commit=82fcfc5329f345f2b033f9d15971065e4d736e1f:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+commit=28121189f6ac5009bfc25dae787e704a50ad1c7d:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+commit=76e3f8dc3f0de2467ff060fd3034dcff7cbc3431:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+A	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierTextReducer.java
+A	src/main/java/it/uniroma3/dia/alfred/mapred/model/MapWritableConverter.java
+commit=b46638accec53ce06b56fb7044187aed5669bb92:francesco@furio.me
+commit=89974d3500c04d3cd506dcce21925cb7bddb00fd:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierReducer.java
+commit=4ce2607a2ff7513fadc8b91ac9cc45fe997d4f8c:meniluca@gmail.com
+commit=05ea4e56002b62c9a0edc24ab099b1713a9b923c:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierReducer.java
+commit=efbebb9e22225484605b2dc381c1a3ab17dd026c:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierReducer.java
+commit=a3e4f733d921bda00ab6283349054ea52c0bff67:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=f77a4fc3b896efdaeb013ff0c8f37c356249df17:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+commit=0a825d076b60de07b0f30f7dd1121fbbc96f1305:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+commit=364a45f1a864744b4753ad03c6af3b0d26b5839a:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/xpath/XPathHandler.java
+M	src/test/java/it/uniroma3/dia/alfred/xpath/XPathHandlerTest.java
+commit=8e034367a421907ef72bee57f6fe9eeebcfdd8b4:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=aafec45bb8103632299ac1d631a0efe46f8f8adf:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/data/ResultHolder.java
+commit=7772ebb0291624584ea592360467f2820a58a06f:disheng@dia.uniroma3.it
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+commit=a91a2460d32c82b21c48a59888b3a9287296ed26:francesco@furio.me
+
+M	pom.xml
+commit=fe98c958521d7e4fe604f4647809fe5149e92019:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+commit=15bdd4f9d58fd23840fbcea3c22f31c205cbab80:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+commit=bbe99f0e31c51caa3d4eb30b547f277a7c9f9904:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+commit=b92c59c2258d52882c52b7ed1f777d0d6c44c260:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/DomainHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+D	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread_Attribute.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/model/serializer/ConfigHolderSerializableTest.java
+commit=b9154acf368b575795c1352235e072ae9d8a966d:francesco@furio.me
+
+M	pom.xml
+commit=5beaa30189eedf2e3808bfc41336f5fbcd3847a7:francesco@furio.me
+
+M	AlfredMPI JAR.launch
+A	examples/xpathHolderTest.json
+M	pom.xml
+M	runAlfredMPI.sh
+R055	src/main/java/project/mwe/MPIExample.java	src/main/java/project/mwe/MPIExamples.java
+A	src/main/java/project/mwe/RunExes.java
+A	src/main/java/project/mwe/SerializeTesting.java
+D	src/main/java/project/mwe/package-info.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+commit=c6c59dfcd44aa58cca98c20009b728513871e11a:fabri.rebecca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierReducer.java
+commit=db7f76aa03cf5c63c0d8228e9381b7dd7571aba8:fabri.rebecca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+commit=e5b62b52c7b9a819be0fc2cea4155b454ea31c88:francesco@furio.me
+
+M	src/main/java/com/atlantbh/hadoop/s3/io/S3BucketReader.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/ConfigHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/DomainHolder.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/model/XPathHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/serializer/ConfigHolderSerializable.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/model/serializer/XPathHolderSerializable.java
+A	src/test/java/it/uniroma3/dia/alfred/mpi/model/serializer/ConfigHolderSerializableTest.java
+A	src/test/java/it/uniroma3/dia/alfred/mpi/model/serializer/XPathHolderSerializableTest.java
+commit=a14fa82a70181d005e46b0b51ddfab4f064edf7b:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3.java
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+commit=be1bda1811f61b30b661ae8d362699a62739ed25:meniluca@gmail.com
+commit=9e4a32723b46b09fc3abba2004445e7e7f6a7a6b:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/DomainHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/DomainHolderKeys.java
+M	src/main/resources/it/uniroma3/dia/alfred/mpi/configurations.properties
+M	src/main/resources/it/uniroma3/dia/alfred/mpi/domains.properties
+M	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+M	src/test/java/it/uniroma3/dia/alfred/xpath/XPathHandlerTest.java
+commit=792d6d128384a54121979ffaca4136edb3d53310:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageProxyS3.java
+D	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageS3ProxyMPI.java
+commit=2c0e952fbc7d2fd41433197f0223f0483b6e9f27:francesco@furio.me
+
+M	pom.xml
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/DomainHolderKeys.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/GenerateLazyPagesFromDomain.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/s3/LazyPageS3ProxyMPI.java
+commit=6e29638445f6c6d439d11349827f678a5677aff8:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/DomainHolder.java
+D	src/main/resources/it/uniroma3/dia/alfred/configurations.properties
+D	src/main/resources/it/uniroma3/dia/alfred/domains.properties
+A	src/main/resources/it/uniroma3/dia/alfred/mpi/configurations.properties
+A	src/main/resources/it/uniroma3/dia/alfred/mpi/domains.properties
+A	src/test/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParserTest.java
+commit=5a5385e14807c78526d42665875b910942679898:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/DomainHolderKeys.java
+commit=79a3e94d3f5810e3d602b4b73f53dbe776bd8cec:meniluca@gmail.com
+commit=2894a57b0c29f457c756774dc52f55533fd3521a:meniluca@gmail.com
+
+R092	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerTest.java	src/test/java/it/uniroma3/dia/alfred/xpath/XPathHandlerTest.java
+commit=8b133f66e458c306483a5e7fea5b73b80597c443:meniluca@gmail.com
+
+A	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/ConfigHolderKeys.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/model/constants/DomainHolderKeys.java
+commit=88d53b137532035eb23d5621399b8bf7f8388188:fabri.rebecca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+A	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierReducer.java
+commit=af28d6f87f8c5a69cd607ef8d3c3a7909a77e23d:francesco@furio.me
+
+A	examples/ReadingFromS3-MapReduce.zip
+commit=e9d7c3a3f6834abc61e07f48959dc05ceb54faf5:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+commit=050c249e58b6b4c194f9beabc898d9235c815eba:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+commit=9b166f2f2796feaf8beb1e3d7aeff5b2e3cc00bf:francesco@furio.me
+
+M	.classpath
+M	.settings/org.eclipse.jdt.core.prefs
+M	AlfredMPI JAR.launch
+commit=e2b6689be3bc3055079c93c572314398898ec749:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+commit=b9991bce617c4434bcccc9f9dcd2994c081d2f0f:francesco@furio.me
+
+D	src/main/java/it/uniroma3/dia/alfred/ConfigHolderIdBroker.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/ConfigHolder.java
+R086	src/main/java/it/uniroma3/dia/alfred/DomainHolder.java	src/main/java/it/uniroma3/dia/alfred/mpi/model/DomainHolder.java
+commit=3f06325d2d25bfac9f40c8cea753e916692757dc:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfred/DomainHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+R100	src/main/resources/it/uniroma3/dia/alfredmpi/configurations.properties	src/main/resources/it/uniroma3/dia/alfred/configurations.properties
+R100	src/main/resources/it/uniroma3/dia/alfredmpi/domains.properties	src/main/resources/it/uniroma3/dia/alfred/domains.properties
+commit=d21f6686cbce15a4dbf1d6533e06aed6153b0252:meniluca@gmail.com
+
+A	src/main/java/it/uniroma3/dia/alfred/ConfigHolderIdBroker.java
+A	src/main/java/it/uniroma3/dia/alfred/DomainHolder.java
+commit=4acad2099a12d7cd77bb307173a189755a6ec584:meniluca@gmail.com
+
+D	src/main/java/it/uniroma3/dia/alfredmpi/ConfigHolderIdBroker.java
+D	src/main/java/it/uniroma3/dia/alfredmpi/DomainHolder.java
+commit=3521021867a4d38d7da88693d7fccc36e3430c93:meniluca@gmail.com
+commit=ea1bba11892bb48b5253efe6d15f521b9196ccda:meniluca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfredmpi/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/ConfiguratorParser.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/DomainHolder.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/model/ConfigHolder.java
+commit=dc5de1089b7fdec8843b6b74b07efc75c49ed2e6:meniluca@gmail.com
+
+A	src/main/java/it/uniroma3/dia/alfredmpi/ConfigHolderIdBroker.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/ConfiguratorParser.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/DomainHolder.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/model/ConfigHolder.java
+A	src/main/resources/it/uniroma3/dia/alfredmpi/configurations.properties
+A	src/main/resources/it/uniroma3/dia/alfredmpi/domains.properties
+commit=dc6ee3ba9969cea8d35b892c562d1e7e2e1d1704:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+commit=a6b1dcf818d5ba2fa6aae54c3ee5cb840059a78b:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+commit=6352c74c5fe9f3fb9124532641914e315eb9c6ff:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/ConfigHolder.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/model/serializer/ConfigHolderSerializable.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+M	src/main/java/project/mwe/MPIAlfred.java
+commit=c02c91bbd05e6d556df9b90943476d06560d339c:fabri.rebecca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+R093	src/main/java/it/uniroma3/dia/alfred/mpi/xpath/XPathHandler.java	src/main/java/it/uniroma3/dia/alfred/xpath/XPathHandler.java
+R094	src/main/java/it/uniroma3/dia/alfred/mpi/xpath/XPathHandlerJavax.java	src/main/java/it/uniroma3/dia/alfred/xpath/XPathHandlerJavax.java
+M	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerTest.java
+commit=ff94e90abf6dfae68e676a439a3c5ee56ea9e11f:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+commit=beed9f28688f54131861472b3b45e580e9868fa5:francesco@furio.me
+
+M	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+A	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPIThread.java
+commit=cc7cde2bdabaceebdc639ec713be2c1f7c95dead:francesco@furio.me
+
+R097	src/main/java/it/uniroma3/dia/alfredmapred/XPathApplierDriver.java	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierDriver.java
+R091	src/main/java/it/uniroma3/dia/alfredmapred/XPathApplierMapper.java	src/main/java/it/uniroma3/dia/alfred/mapred/XPathApplierMapper.java
+R067	src/main/java/it/uniroma3/dia/alfredmpi/ConfiguratorParser.java	src/main/java/it/uniroma3/dia/alfred/mpi/ConfiguratorParser.java
+R090	src/main/java/it/uniroma3/dia/alfredmpi/model/ConfigHolder.java	src/main/java/it/uniroma3/dia/alfred/mpi/model/ConfigHolder.java
+R090	src/main/java/it/uniroma3/dia/alfredmpi/model/serializer/ConfigHolderSerializable.java	src/main/java/it/uniroma3/dia/alfred/mpi/model/serializer/ConfigHolderSerializable.java
+R083	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MPIConstants.java	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MPIConstants.java
+R088	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MasterMPI.java	src/main/java/it/uniroma3/dia/alfred/mpi/runner/MasterMPI.java
+R086	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/RunAlfred.java	src/main/java/it/uniroma3/dia/alfred/mpi/runner/RunAlfred.java
+R087	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/SlaveMPI.java	src/main/java/it/uniroma3/dia/alfred/mpi/runner/SlaveMPI.java
+R093	src/main/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandler.java	src/main/java/it/uniroma3/dia/alfred/mpi/xpath/XPathHandler.java
+R094	src/main/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerJavax.java	src/main/java/it/uniroma3/dia/alfred/mpi/xpath/XPathHandlerJavax.java
+M	src/main/java/project/mwe/MPIAlfred.java
+M	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerTest.java
+commit=7f7a8eea8838beed8aca4af67b115e6aec87f049:francesco@furio.me
+commit=793af0357eae7672302cc2d91d17e8ea4a247ed4:francesco@furio.me
+
+A	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MPIConstants.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MasterMPI.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/RunAlfred.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/SlaveMPI.java
+A	src/main/java/project/mwe/MPIAlfred.java
+M	src/main/java/project/mwe/MPIExample.java
+commit=247e15d1ab57a1d91e113972a2512a3c7bf81cc6:fabri.rebecca@gmail.com
+
+A	src/main/java/it/uniroma3/dia/alfredmapred/XPathApplierDriver.java
+A	src/main/java/it/uniroma3/dia/alfredmapred/XPathApplierMapper.java
+commit=6046d309b704b3c7593847dd012d678fe299b702:francesco@furio.me
+
+M	pom.xml
+R095	src/main/java/it/uniroma3/dia/alfredmpi/examples/MPIExample.java	src/main/java/project/mwe/MPIExample.java
+R072	src/main/java/it/uniroma3/dia/alfredmpi/examples/package-info.java	src/main/java/project/mwe/package-info.java
+D	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandler_Test.java
+commit=e15da8f6964596780e080cc3b055b234c28376ba:francesco@furio.me
+
+A	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerTest.java
+commit=b8e3808a235c689f96d1d1165a8a9cef0581bddf:francesco@furio.me
+commit=d8374b098f73e4eb4753a5f39759f4410442daf0:francesco@furio.me
+
+M	pom.xml
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3BucketReader.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3InputFormat.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3InputSplit.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectInputFormat.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectRecordReader.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectSummaryInputFormat.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectSummaryRecordReader.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectSummaryWritable.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3ObjectWritable.java
+A	src/main/java/com/atlantbh/hadoop/s3/io/S3RecordReader.java
+A	src/main/resources/AwsCredentials.properties.template
+A	src/main/resources/log4j.properties
+D	src/main/resources/placeholder
+A	src/test/java/com/atlantbh/hadoop/s3/io/S3InputFormatTest.java
+A	src/test/java/com/atlantbh/hadoop/s3/io/S3InputSplitTest.java
+A	src/test/java/com/atlantbh/hadoop/s3/io/S3ObjectSummaryWritableTest.java
+A	src/test/java/com/atlantbh/hadoop/s3/io/S3ObjectWritableTest.java
+A	src/test/java/com/atlantbh/hadoop/s3/io/S3RecordReaderTest.java
+D	src/test/java/placeholder
+commit=c05969f4c1bff23f34b95d6b405f170229b835d0:fabri.rebecca@gmail.com
+
+M	src/main/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandler.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandlerJavax.java
+A	src/test/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandler_Test.java
+commit=566069c2f6b62b33a26e90b92a6779c95d62c1f2:francesco@furio.me
+
+D	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MPIRunner.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MasterMPI.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/RunAlfred.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/SlaveMPI.java
+commit=f76b7dac9b89ac99b72196e960ab1233604568ae:francesco@furio.me
+
+A	repo/.gitignore
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.jar
+D	repo/placeholder
+commit=1ce740590b8f8e1743b0cdd32b86391e4e6a5c0d:francesco@furio.me
+
+A	src/main/java/it/uniroma3/dia/alfredmpi/ConfiguratorParser.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/model/ConfigHolder.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/model/serializer/ConfigHolderSerializable.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MPIRunner.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/MasterMPI.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/mpirunner/SlaveMPI.java
+D	src/main/java/it/uniroma3/dia/alfredmpi/package-info.java
+R094	src/main/java/it/uniroma3/dia/alfredmpi/XPathHandler.java	src/main/java/it/uniroma3/dia/alfredmpi/xpath/XPathHandler.java
+commit=cc6fe297231d6c9a24e2ce51e808bb54d7db3270:francesco@furio.me
+
+D	native-lib/libmpi_java.so
+M	pom.xml
+A	runAlfredMPI.sh
+M	src/main/java/it/uniroma3/dia/alfredmpi/XPathHandler.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/examples/MPIExample.java
+D	src/main/java/it/uniroma3/dia/alfredmpi/examples/XPathExample.java
+commit=f3683b9d76935616fa312a086733324334f901b4:francesco@furio.me
+
+A	native-lib/libmpi_java.so
+M	pom.xml
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/maven-metadata-local.xml
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/maven-metadata-local.xml.md5
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/maven-metadata-local.xml.sha1
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.jar.md5
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.jar.sha1
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.pom
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.pom.md5
+A	repo/openmpi/openmpi/19a1r29179-SNAPSHOT/openmpi-19a1r29179-SNAPSHOT.pom.sha1
+A	repo/openmpi/openmpi/maven-metadata-local.xml
+A	repo/openmpi/openmpi/maven-metadata-local.xml.md5
+A	repo/openmpi/openmpi/maven-metadata-local.xml.sha1
+A	src/main/java/it/uniroma3/dia/alfredmpi/examples/MPIExample.java
+commit=d5e6c935425881ba6004b4eb1472e0bce0198031:fabri.rebecca@gmail.com
+
+A	src/main/java/it/uniroma3/dia/alfredmpi/XPathHandler.java
+M	src/main/java/it/uniroma3/dia/alfredmpi/examples/XPathExample.java
+commit=ed330249da9aaebaafd6aac6b78c56dd132ef846:francesco@furio.me
+
+D	src/test/java/README
+R100	lib/placeholder	src/test/java/placeholder
+commit=fcfa5af32dc93ecfb43ed830a3fd23ff96b68af1:francesco@furio.me
+
+M	.gitignore
+A	AlfredMPI JAR.launch
+M	pom.xml
+A	src/main/java/it/uniroma3/dia/alfredmpi/examples/XPathExample.java
+A	src/main/java/it/uniroma3/dia/alfredmpi/examples/package-info.java
+commit=c63e032b3ffa6150001d03e4bb228a555d658697:francesco@furio.me
+
+A	repo/placeholder
+commit=143f05b267ef28fc18513ad68d3eef44d5e1faca:francesco@furio.me
+
+A	.classpath
+M	.gitignore
+A	.project
+A	.settings/org.eclipse.jdt.core.prefs
+A	.settings/org.eclipse.m2e.core.prefs
+A	install-to-project-repo.py
+A	lib/README
+A	lib/placeholder
+A	native-lib/placeholder
+A	pom.xml
+A	src/main/java/it/uniroma3/dia/alfredmpi/package-info.java
+A	src/main/resources/placeholder
+A	src/test/java/README
+A	src/test/resources/placeholder
+commit=e2b47d74b611eafa0c649ad0bef4be91c1745094:fra.furiani@stud.uniroma3.it
+
+A	.gitignore
+A	LICENSE
+A	README.md

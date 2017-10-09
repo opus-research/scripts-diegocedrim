@@ -1,0 +1,845 @@
+commit=4a59e6872365f8ae67801738e992f6895595b3d3:irsch.simon@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=ce232bcf211c3aa263f6c4e8145cee09a4622b51:irsch.simon@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=7e5f4ad6f8ee4d87ab273d75176b2052713a168b:irsch.simon@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	res/layout/activity_game_scalable.xml
+commit=027cb175d7aba941836aed518eb306a9e24faec6:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=ae060cc4cd95abb0f5c34f059e92c55f5951ed90:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	res/drawable-hdpi/iconjaraleon.ico
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=3e037563f07bec2a176415d7a86fff20811747b4:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=dec25a700d3dc6cf0632339ed91c2b8b6be31c16:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=dfe75b3ef4f9dd2e51ca880bca897d0cfa7ab22a:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+D	res/values/modules.xml
+D	res/xml/settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementPicture.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSound.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=02bd5a7c1fabbee94e7a35f383b71fcea086ada6:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=89d2b05e3396811c31b98071ac20b75a5f998428:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=83fdf8b3753db943034383983288574a756134aa:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=cc81f00ea32ecdfad722eb5e4b4c99183157b4c1:simon.irsch@yahoo.de
+commit=86377ad42a221bba01eea89d09e6969a9536e75b:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=b2aa46bcded15b96aadb56b4f9de0c9f058f95f7:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=640d980b6292d5bbb10f5f1de64aa12144bbe8b9:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=a575f44fc4ce4a12ae3d02f7da4a049ce8501cb3:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=f1faa658d08370fb329dc6bc82fb309b6132e9d2:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=616bbfdc5e4de0a2c481ed5e1bd7cfdb5d3c6bcc:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+commit=920a3fa6d15a11ba9c22e7a09917638f2465dee7:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=dfda9cb242b69f96882cbbe8d5f0b880e953c251:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=6f0e9207e8a48ed671c162c5edb2e79bb1259d6c:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=0c7a6739da8ac06fdc5855f84e6c22e5a58ab360:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+commit=8b4c7d62091f1a5b53b69e51d92806fcabf1074e:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementPicture.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSound.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=d89adc63a586a82678685dd93a097523129e1afa:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+commit=5d52121c29e0da15d0886d0866a44be0b26fa141:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=f77ad3b42344fe0dafad95830efd26ff5eb4528e:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+commit=827c0f97796f706d6c78130fdca74f92ad3b62a4:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=fb2edadf41a7c1b074cc1db237ab967bf5e95ce7:simon.irsch@yahoo.de
+commit=852bc8de5d9652c6c0e19bbebeb25ccabf7b55c9:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=f91cdf652c55df745420a273e4b8617aeac9f84e:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=589a521ccd1c53b00a51078c6aaee0ec391cf2ca:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=f94ac9f1d97c689db97a814719bd5d8b54ff0aff:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=6879e24036eb073834211e13b0100d0e06ec55c6:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+commit=37c898a15cb64eaca42f95b5cd0f2fb31e437eb9:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=626dfc525df59390da1525dd79f0a9eee7e032f5:simon.irsch@yahoo.de
+commit=5b3417af95334ba45fe8c2a4fab239d77247f990:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=cfef190973a6831ee9668029d52a2dfb2163fd25:leonvtuyl@hotmail.com
+commit=3aa1420c4a88702a5019cb8d7bad43139eb2fade:leonvtuyl@hotmail.com
+commit=6f6b61d1431bc0428357a6854d197efe9e3043f1:theophile.ravillion@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=a4b7d2eb28886fb6e41c06155721cbbdbe3dea1d:theophile.ravillion@gmail.com
+
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=30d626dcd3eea279edb2f25ebaaf79bbe78ede94:leonvtuyl@hotmail.com
+commit=ab488c907a190eb39ae5b8a81703e5c7f6dbe897:leonvtuyl@hotmail.com
+commit=13fdf0f12690626b45240bfe07973e5ad8f213b5:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=19f6c68853290b28cdc19e102960b7d4f8c20373:simon.irsch@yahoo.de
+
+M	res/layout/activity_module_settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=6d2d250047264a88660a78f465702d3e44f45562:theophile.ravillion@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=44acc204be1bcbc2c1e686c8f9ee5fbdec69d75a:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=8b5ff6fc042744629494bcd304a3ef75e99762d5:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=18cfe1a8754832a791f7be3e640564be38ff7fef:leonvtuyl@hotmail.com
+
+M	res/layout/activity_module_settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=6f1d18fe04648957038ee88031e68c3979e1465b:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	res/layout/activity_module_settings.xml
+M	res/values/dimens.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=b49f54b097ca23e7a448a6d0249caa2eb7fead09:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=30537206e1c08f1d1eb8d34157173591f2f197df:theophile.ravillion@gmail.com
+
+M	res/layout/activity_game.xml
+commit=36bcb974dd29d94277d4db414ba8f96a99fda2a2:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	res/drawable-hdpi/withe.png
+M	res/layout/activity_game.xml
+commit=ec108e7a23cde559cd89595b4fbe7e1763f866c1:theophile.ravillion@gmail.com
+commit=6626165aaf3623e25a2f70378ddb5f2874cad03a:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=65552937640c0ffc915358eff716805a09cdb7b6:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+commit=96d9d2b5f5a565448adbb3e2969feb00bf57f475:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module_settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=e0a652f14b113e3d01e4ff119a9a48baaf1b4317:theophile.ravillion@gmail.com
+
+M	res/layout/activity_game.xml
+commit=274e88196e11a5a2cedda7ca2b0b3ec75e212188:theophile.ravillion@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=4ff0f13f2022eddeb91f8b9459bff7f0528d1a3f:leonvtuyl@hotmail.com
+
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=4bdbcf55128153d8da9359d629fc826801ba1c1e:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=d4fd7471233dcd8e63080d7c18458d06d24f4615:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+D	src/com/eps_hioa_2013/JointAttentionResearchApp/Timecounter.java
+commit=767ce0081e50cbfea34c44ff8bffb936c9df44c0:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+commit=a4dd1178851021bfe76a1f694ce3903c0b491b44:leonvtuyl@hotmail.com
+
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=ac32eba102f8814705cdf04af2d2d5d515dfa884:theophile.ravillion@gmail.com
+commit=16dfbd587cecf6c1b050802839b48d5cff333fbe:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_game.xml
+commit=2e14489f6c010e5b9f6909febf74bacf7f1c3583:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=0e5a435202d15a89d4e9a59d4342f199d42ee937:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=fc0c90c84b1074b3d8163905fe40f5031f73db2f:leonvtuyl@hotmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	libs/LICENSE.txt
+A	libs/NOTICE.txt
+A	libs/RELEASE-NOTES.txt
+A	libs/apidocs/allclasses-frame.html
+A	libs/apidocs/allclasses-noframe.html
+A	libs/apidocs/constant-values.html
+A	libs/apidocs/deprecated-list.html
+A	libs/apidocs/help-doc.html
+A	libs/apidocs/index-all.html
+A	libs/apidocs/index.html
+A	libs/apidocs/options
+A	libs/apidocs/org/apache/commons/lang/ArrayUtils.html
+A	libs/apidocs/org/apache/commons/lang/BitField.html
+A	libs/apidocs/org/apache/commons/lang/BooleanUtils.html
+A	libs/apidocs/org/apache/commons/lang/CharEncoding.html
+A	libs/apidocs/org/apache/commons/lang/CharRange.html
+A	libs/apidocs/org/apache/commons/lang/CharSet.html
+A	libs/apidocs/org/apache/commons/lang/CharSetUtils.html
+A	libs/apidocs/org/apache/commons/lang/CharUtils.html
+A	libs/apidocs/org/apache/commons/lang/ClassUtils.html
+A	libs/apidocs/org/apache/commons/lang/IllegalClassException.html
+A	libs/apidocs/org/apache/commons/lang/IncompleteArgumentException.html
+A	libs/apidocs/org/apache/commons/lang/LocaleUtils.html
+A	libs/apidocs/org/apache/commons/lang/NotImplementedException.html
+A	libs/apidocs/org/apache/commons/lang/NullArgumentException.html
+A	libs/apidocs/org/apache/commons/lang/NumberRange.html
+A	libs/apidocs/org/apache/commons/lang/NumberUtils.html
+A	libs/apidocs/org/apache/commons/lang/ObjectUtils.Null.html
+A	libs/apidocs/org/apache/commons/lang/ObjectUtils.html
+A	libs/apidocs/org/apache/commons/lang/RandomStringUtils.html
+A	libs/apidocs/org/apache/commons/lang/SerializationException.html
+A	libs/apidocs/org/apache/commons/lang/SerializationUtils.html
+A	libs/apidocs/org/apache/commons/lang/StringEscapeUtils.html
+A	libs/apidocs/org/apache/commons/lang/StringUtils.html
+A	libs/apidocs/org/apache/commons/lang/SystemUtils.html
+A	libs/apidocs/org/apache/commons/lang/UnhandledException.html
+A	libs/apidocs/org/apache/commons/lang/Validate.html
+A	libs/apidocs/org/apache/commons/lang/WordUtils.html
+A	libs/apidocs/org/apache/commons/lang/builder/CompareToBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/EqualsBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/HashCodeBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/ReflectionToStringBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/StandardToStringStyle.html
+A	libs/apidocs/org/apache/commons/lang/builder/ToStringBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/ToStringStyle.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/CompareToBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/EqualsBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/HashCodeBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/ReflectionToStringBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/StandardToStringStyle.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/ToStringBuilder.html
+A	libs/apidocs/org/apache/commons/lang/builder/class-use/ToStringStyle.html
+A	libs/apidocs/org/apache/commons/lang/builder/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/builder/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/builder/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/builder/package-use.html
+A	libs/apidocs/org/apache/commons/lang/class-use/ArrayUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/BitField.html
+A	libs/apidocs/org/apache/commons/lang/class-use/BooleanUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/CharEncoding.html
+A	libs/apidocs/org/apache/commons/lang/class-use/CharRange.html
+A	libs/apidocs/org/apache/commons/lang/class-use/CharSet.html
+A	libs/apidocs/org/apache/commons/lang/class-use/CharSetUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/CharUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/ClassUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/IllegalClassException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/IncompleteArgumentException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/LocaleUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/NotImplementedException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/NullArgumentException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/NumberRange.html
+A	libs/apidocs/org/apache/commons/lang/class-use/NumberUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/ObjectUtils.Null.html
+A	libs/apidocs/org/apache/commons/lang/class-use/ObjectUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/RandomStringUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/SerializationException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/SerializationUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/StringEscapeUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/StringUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/SystemUtils.html
+A	libs/apidocs/org/apache/commons/lang/class-use/UnhandledException.html
+A	libs/apidocs/org/apache/commons/lang/class-use/Validate.html
+A	libs/apidocs/org/apache/commons/lang/class-use/WordUtils.html
+A	libs/apidocs/org/apache/commons/lang/enum/Enum.html
+A	libs/apidocs/org/apache/commons/lang/enum/EnumUtils.html
+A	libs/apidocs/org/apache/commons/lang/enum/ValuedEnum.html
+A	libs/apidocs/org/apache/commons/lang/enum/class-use/Enum.html
+A	libs/apidocs/org/apache/commons/lang/enum/class-use/EnumUtils.html
+A	libs/apidocs/org/apache/commons/lang/enum/class-use/ValuedEnum.html
+A	libs/apidocs/org/apache/commons/lang/enum/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/enum/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/enum/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/enum/package-use.html
+A	libs/apidocs/org/apache/commons/lang/enums/Enum.html
+A	libs/apidocs/org/apache/commons/lang/enums/EnumUtils.html
+A	libs/apidocs/org/apache/commons/lang/enums/ValuedEnum.html
+A	libs/apidocs/org/apache/commons/lang/enums/class-use/Enum.html
+A	libs/apidocs/org/apache/commons/lang/enums/class-use/EnumUtils.html
+A	libs/apidocs/org/apache/commons/lang/enums/class-use/ValuedEnum.html
+A	libs/apidocs/org/apache/commons/lang/enums/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/enums/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/enums/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/enums/package-use.html
+A	libs/apidocs/org/apache/commons/lang/exception/CloneFailedException.html
+A	libs/apidocs/org/apache/commons/lang/exception/ExceptionUtils.html
+A	libs/apidocs/org/apache/commons/lang/exception/Nestable.html
+A	libs/apidocs/org/apache/commons/lang/exception/NestableDelegate.html
+A	libs/apidocs/org/apache/commons/lang/exception/NestableError.html
+A	libs/apidocs/org/apache/commons/lang/exception/NestableException.html
+A	libs/apidocs/org/apache/commons/lang/exception/NestableRuntimeException.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/CloneFailedException.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/ExceptionUtils.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/Nestable.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/NestableDelegate.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/NestableError.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/NestableException.html
+A	libs/apidocs/org/apache/commons/lang/exception/class-use/NestableRuntimeException.html
+A	libs/apidocs/org/apache/commons/lang/exception/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/exception/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/exception/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/exception/package-use.html
+A	libs/apidocs/org/apache/commons/lang/math/DoubleRange.html
+A	libs/apidocs/org/apache/commons/lang/math/FloatRange.html
+A	libs/apidocs/org/apache/commons/lang/math/Fraction.html
+A	libs/apidocs/org/apache/commons/lang/math/IEEE754rUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/IntRange.html
+A	libs/apidocs/org/apache/commons/lang/math/JVMRandom.html
+A	libs/apidocs/org/apache/commons/lang/math/LongRange.html
+A	libs/apidocs/org/apache/commons/lang/math/NumberRange.html
+A	libs/apidocs/org/apache/commons/lang/math/NumberUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/RandomUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/Range.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/DoubleRange.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/FloatRange.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/Fraction.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/IEEE754rUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/IntRange.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/JVMRandom.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/LongRange.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/NumberRange.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/NumberUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/RandomUtils.html
+A	libs/apidocs/org/apache/commons/lang/math/class-use/Range.html
+A	libs/apidocs/org/apache/commons/lang/math/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/math/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/math/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/math/package-use.html
+A	libs/apidocs/org/apache/commons/lang/mutable/Mutable.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableBoolean.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableByte.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableDouble.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableFloat.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableInt.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableLong.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableObject.html
+A	libs/apidocs/org/apache/commons/lang/mutable/MutableShort.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/Mutable.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableBoolean.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableByte.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableDouble.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableFloat.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableInt.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableLong.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableObject.html
+A	libs/apidocs/org/apache/commons/lang/mutable/class-use/MutableShort.html
+A	libs/apidocs/org/apache/commons/lang/mutable/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/mutable/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/mutable/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/mutable/package-use.html
+A	libs/apidocs/org/apache/commons/lang/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/package-use.html
+A	libs/apidocs/org/apache/commons/lang/reflect/ConstructorUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/FieldUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/MethodUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/class-use/ConstructorUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/class-use/FieldUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/class-use/MethodUtils.html
+A	libs/apidocs/org/apache/commons/lang/reflect/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/reflect/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/reflect/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/reflect/package-use.html
+A	libs/apidocs/org/apache/commons/lang/text/CompositeFormat.html
+A	libs/apidocs/org/apache/commons/lang/text/ExtendedMessageFormat.html
+A	libs/apidocs/org/apache/commons/lang/text/FormatFactory.html
+A	libs/apidocs/org/apache/commons/lang/text/StrBuilder.html
+A	libs/apidocs/org/apache/commons/lang/text/StrLookup.html
+A	libs/apidocs/org/apache/commons/lang/text/StrMatcher.html
+A	libs/apidocs/org/apache/commons/lang/text/StrSubstitutor.html
+A	libs/apidocs/org/apache/commons/lang/text/StrTokenizer.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/CompositeFormat.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/ExtendedMessageFormat.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/FormatFactory.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/StrBuilder.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/StrLookup.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/StrMatcher.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/StrSubstitutor.html
+A	libs/apidocs/org/apache/commons/lang/text/class-use/StrTokenizer.html
+A	libs/apidocs/org/apache/commons/lang/text/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/text/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/text/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/text/package-use.html
+A	libs/apidocs/org/apache/commons/lang/time/DateFormatUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/DateUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/DurationFormatUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/FastDateFormat.html
+A	libs/apidocs/org/apache/commons/lang/time/StopWatch.html
+A	libs/apidocs/org/apache/commons/lang/time/class-use/DateFormatUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/class-use/DateUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/class-use/DurationFormatUtils.html
+A	libs/apidocs/org/apache/commons/lang/time/class-use/FastDateFormat.html
+A	libs/apidocs/org/apache/commons/lang/time/class-use/StopWatch.html
+A	libs/apidocs/org/apache/commons/lang/time/package-frame.html
+A	libs/apidocs/org/apache/commons/lang/time/package-summary.html
+A	libs/apidocs/org/apache/commons/lang/time/package-tree.html
+A	libs/apidocs/org/apache/commons/lang/time/package-use.html
+A	libs/apidocs/overview-frame.html
+A	libs/apidocs/overview-summary.html
+A	libs/apidocs/overview-tree.html
+A	libs/apidocs/package-list
+A	libs/apidocs/packages
+A	libs/apidocs/resources/inherit.gif
+A	libs/apidocs/serialized-form.html
+A	libs/apidocs/src-html/org/apache/commons/lang/ArrayUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/BitField.html
+A	libs/apidocs/src-html/org/apache/commons/lang/BooleanUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/CharEncoding.html
+A	libs/apidocs/src-html/org/apache/commons/lang/CharRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/CharSet.html
+A	libs/apidocs/src-html/org/apache/commons/lang/CharSetUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/CharUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/ClassUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/IllegalClassException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/IncompleteArgumentException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/LocaleUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/NotImplementedException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/NullArgumentException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/NumberRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/NumberUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/ObjectUtils.Null.html
+A	libs/apidocs/src-html/org/apache/commons/lang/ObjectUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/RandomStringUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/SerializationException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/SerializationUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/StringEscapeUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/StringUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/SystemUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/UnhandledException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/Validate.html
+A	libs/apidocs/src-html/org/apache/commons/lang/WordUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/CompareToBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/EqualsBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/HashCodeBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/ReflectionToStringBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/StandardToStringStyle.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/ToStringBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/builder/ToStringStyle.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enum/Enum.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enum/EnumUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enum/ValuedEnum.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enums/Enum.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enums/EnumUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/enums/ValuedEnum.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/CloneFailedException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/ExceptionUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/Nestable.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/NestableDelegate.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/NestableError.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/NestableException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/exception/NestableRuntimeException.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/DoubleRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/FloatRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/Fraction.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/IEEE754rUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/IntRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/JVMRandom.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/LongRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/NumberRange.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/NumberUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/RandomUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/math/Range.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/Mutable.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableBoolean.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableByte.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableDouble.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableFloat.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableInt.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableLong.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableObject.html
+A	libs/apidocs/src-html/org/apache/commons/lang/mutable/MutableShort.html
+A	libs/apidocs/src-html/org/apache/commons/lang/reflect/ConstructorUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/reflect/FieldUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/reflect/MethodUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/CompositeFormat.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/ExtendedMessageFormat.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/FormatFactory.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/StrBuilder.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/StrLookup.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/StrMatcher.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/StrSubstitutor.html
+A	libs/apidocs/src-html/org/apache/commons/lang/text/StrTokenizer.html
+A	libs/apidocs/src-html/org/apache/commons/lang/time/DateFormatUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/time/DateUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/time/DurationFormatUtils.html
+A	libs/apidocs/src-html/org/apache/commons/lang/time/FastDateFormat.html
+A	libs/apidocs/src-html/org/apache/commons/lang/time/StopWatch.html
+A	libs/apidocs/stylesheet.css
+A	libs/commons-lang-2.6-javadoc.jar
+A	libs/commons-lang-2.6-sources.jar
+A	libs/commons-lang-2.6.jar
+M	res/values/strings.xml
+D	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSettingsDialog.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=47ff5d84ce41e4811255e8bc633ae1bc58061cec:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=977434c881ce9dcbcc3c4b60f4934e60c9097367:theophile.ravillion@gmail.com
+
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=3984ffab991d1d2b736f55a0bafedd4e84f524ca:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=cc0480bf2fb207d254e17b2b8c1bcee7664cb4bb:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=84063f41d2f846a87907008c2c8832b7c496ea34:theophile.ravillion@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=1e7982a5edc904a840d79641954799f58307735f:leonvtuyl@hotmail.com
+
+M	res/layout/activity_game.xml
+M	res/layout/activity_module_settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=974ae4f2d7c7a576b908b3fd73e6b37ebfa54b9e:theophile.ravillion@gmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=91df1867e51f68096955520bc45c3c04bf689341:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=bbc665a007f5c5889dd4a91feaca32b15334cf01:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+commit=c6b0424478882bb70b482c1e5f11bbd6256599c4:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=c578cf8ee00d8106bb5456e8e4e1a90b2a3cc41a:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementPicture.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSound.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+commit=904e2fb1d80c20089eff6b497e7b3fbe3b8d3912:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=b4ce4fecbfdd2994db219d3519a91802ec46e3cc:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=dcb955e216c793a635923a5e732dc7f5e158e966:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+commit=2b9f724c9482b67f5441f2f71ae3fefcde87400a:theophile.ravillion@gmail.com
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_game.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSound.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+commit=01b3129e4a07d178960d0c6f2c70f7f3309038e0:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	res/layout/activity_module_settings.xml
+A	res/menu/game.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=b8082f1a1ead5ae32c84c20695d8e352f7e76023:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+commit=471cf9a857a3ce0bfccf7d5620b787bbe9bdc1ec:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	res/layout/activity_game.xml
+M	res/layout/activity_module.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/GameActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/Timecounter.java
+commit=526aaf9c15face15eebc4506f6d7981361b6fc26:simon.irsch@yahoo.de
+
+M	res/layout/activity_module.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=4d07dc056f991d7d4b3ce405a6f765df91ee9604:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+commit=fb01c70a13fc86344123ba2993caee01ed429136:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=e098e8c7bf1821ebc32cd7e01a572713b7a45170:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	res/layout/activity_module_settings.xml
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSettingsDialog.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=ecea1f469eb4a66942e2d1d51ed82091e9365383:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=fab947489b532726c3b906a7f7e0010131209f78:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=7d0c4262dacce35f66029edb4ae5f237cce02410:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=9daf13bdd7942e3e84e696269e3b75c2ffbdc14a:leonvtuyl@hotmail.com
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=3bf964822ab3a5af7257ae38b271b8da4938937c:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	res/layout/activity_module_settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=fea46531f5e64f12219ce09e3dd3d07aeaf23740:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/values/modules.xml
+M	res/values/strings.xml
+M	res/xml/settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=fed91d9d3cdacfe569207069252918bbe8bb801a:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	res/xml/settings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=a08df221f29f5a3a953427f4e7fe01d3951aeda5:jobgremmen@hotmail.com
+
+M	res/values/modules.xml
+commit=e9a15edebf69bcf0add73992651ef3c948e35ddb:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+A	res/values/modules.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=0cbb93ddee9790fb1d6ec2736f7943143729511f:simon.irsch@yahoo.de
+
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=dedd71d108adea275b8ece92a658ba1dea6791c8:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=0b4ba10454befb128973a808ed200935af358873:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_module.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=9bb4c1e762f3b0392521d0ecfbedb8937706658e:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+commit=ce678d5adfb075f179a6b7c319b57cf79d86e325:simon.irsch@yahoo.de
+
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=4e1d72086cfbe452d2b19bae006084b20d256bf2:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+M	res/layout/activity_module.xml
+A	res/layout/activity_module_settings.xml
+A	res/menu/module_settings.xml
+M	res/values/dimens.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleSettingsActivity.java
+commit=e49501708c36154c14c8c9e63d250aae58f6c37a:simon.irsch@yahoo.de
+
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/Element.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementPicture.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementSound.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ElementVideo.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/Module.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=8aa0bf2d9bac0a13264c6b8a8f1f6a42d569ad31:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+M	res/layout/activity_module.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/Session.java
+commit=13b53ef91b2eb35669fcaf8241799477bb2ae7a2:simon.irsch@yahoo.de
+
+M	AndroidManifest.xml
+M	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+M	res/layout/activity_main.xml
+A	res/layout/activity_module.xml
+A	res/menu/module.xml
+M	res/values/strings.xml
+M	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/ModuleActivity.java
+commit=ca566137174e8c2c24f54b73cc744223e5356fbb:simon.irsch@yahoo.de
+
+A	.gitattributes
+A	.gitignore
+A	AndroidManifest.xml
+A	gen/com/eps_hioa_2013/JointAttentionResearchApp/BuildConfig.java
+A	gen/com/eps_hioa_2013/JointAttentionResearchApp/R.java
+A	ic_launcher-web.png
+A	libs/android-support-v4.jar
+A	proguard-project.txt
+A	project.properties
+A	res/drawable-hdpi/ic_launcher.png
+A	res/drawable-mdpi/ic_launcher.png
+A	res/drawable-xhdpi/ic_launcher.png
+A	res/drawable-xxhdpi/ic_launcher.png
+A	res/layout/activity_main.xml
+A	res/menu/main.xml
+A	res/values-sw600dp/dimens.xml
+A	res/values-sw720dp-land/dimens.xml
+A	res/values-v11/styles.xml
+A	res/values-v14/styles.xml
+A	res/values/dimens.xml
+A	res/values/strings.xml
+A	res/values/styles.xml
+A	src/com/eps_hioa_2013/JointAttentionResearchApp/MainActivity.java

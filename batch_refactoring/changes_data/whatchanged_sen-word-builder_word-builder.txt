@@ -1,0 +1,947 @@
+commit=57785884c26b0fc33c6fd5b1a79cde3e4ed75fc8:cravip1512@gmail.com
+
+D	sampledbsen.txt
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Notify.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+D	wordnet/data/help.pdf
+commit=497c64d66d7f6ed9fc9d10ad6fd6caba6caf3e67:cravip1512@gmail.com
+
+D	src/images/analysis.gif
+D	src/images/help.gif
+D	src/images/hide.gif
+D	src/images/logout.gif
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/quiz_retention/ShowAnalysis.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/History.java
+M	src/wordbuilder/Notify.java
+D	src/wordbuilder/Quiz.form
+D	src/wordbuilder/Quiz.java
+M	src/wordbuilder/QuizAnalysis.java
+M	src/wordbuilder/WordBuilder.java
+commit=ea4ecda3860084629e69493ffb12d07d21015a77:mohitsinha251@gmail.com
+
+A	src/images/Bar_Icon_workshop.png
+A	src/images/Search-icon.png
+A	src/images/Thumbs.db
+A	src/images/clock.png
+A	src/images/global-help.png
+A	src/images/home-cal-icon.png
+A	src/images/icon-landing.png
+A	src/images/icon_in_depth.gif
+A	src/images/login.png
+A	src/images/logout.jpg
+A	src/images/next.png
+A	src/images/options.png
+A	src/images/pricing-down-arrow.png
+A	src/images/quiz_icon.gif
+A	src/images/score3.png
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/WordBuilder.java
+commit=3f72bf7d88650e4bbd7ed7bf255f16b13bb8897c:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.java
+commit=4378bd8f0db3a5ab4dafd4e03d0b996bff8965ef:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/wordbuilder/WordBuilder.java
+commit=aebdd1c819188949ec41d70116c96407936697b8:cravip1512@gmail.com
+
+M	src/images/loading.jpg
+D	src/wordbuilder/Splash.java
+commit=dc0f6fa4660a19b7eb741a29cfaabcc4790698cb:mohitsinha251@gmail.com
+commit=4c339bb5c705bc80ba91a20c84be12e699d725cb:cravip1512@gmail.com
+
+A	src/wordbuilder/Splash.java
+commit=dd343aadd373eb1e1b4f274c29de2914e8d9aa0d:cravip1512@gmail.com
+
+M	.gitattributes
+M	nbproject/project.properties
+M	src/images/loading.jpg
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/quiz_retention/ShowAnalysis.form
+M	src/quiz_retention/ShowAnalysis.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/QuizAnalysis.java
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+M	src/wordbuilder/WordBuilder.java
+commit=4126138fb20b0e02620a037b1666a0355b16e6e2:cravip1512@gmail.com
+commit=899ab56511ea1088c28d230f9f4675092c72f28b:cravip1512@gmail.com
+commit=b0726bdf5e6979456afb7825c18a5b0742f1983b:cravip1512@gmail.com
+
+M	manifest.mf
+A	src/images/loading.jpg
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/WordBuilder.java
+D	test/RootSuite.java
+D	test/database/DatabaseOperationsTest.java
+D	test/database/DatabaseSuite.java
+D	test/images/ImagesSuite.java
+D	test/wordbuilder/ApiFetchTest.java
+D	test/wordbuilder/WordBuilderTest.java
+D	test/wordbuilder/WordbuilderSuite.java
+commit=8a14c0c91b5e821eb4d641d4a1ceccf9cd1be598:cravip1512@gmail.com
+
+M	src/images/analysis.gif
+M	src/images/help.gif
+M	src/images/hide.gif
+M	src/images/logout.gif
+M	src/images/options.gif
+M	src/images/quiz.gif
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+commit=15154f8788ffeaa05fe53ae4bc072f5b51e18a42:mohitsinha251@gmail.com
+commit=ac47813886e35296fd76fb977c4e589f8ae4d524:cravip1512@gmail.com
+
+A	src/images/analysis.gif
+A	src/images/help.gif
+A	src/images/hide.gif
+A	src/images/logout.gif
+A	src/images/options.gif
+A	src/images/quiz.gif
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Notify.java
+commit=f71990aba8a4c3792b9bb13a95f1b0687c51715f:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/wordbuilder/WordBuilder.java
+commit=7706bed078ed77653c6abb0a5ca7e6365247a3c9:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+M	src/quiz_retention/ShowAnalysis.java
+M	src/wordbuilder/WordBuilder.java
+commit=fb3dd85f75336972ab8603e784967cb913213cc0:cravip1512@gmail.com
+
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+commit=2d84ecc1d08b39e73b0efd9fd4e1c97147d650dd:cravip1512@gmail.com
+
+M	src/database/DatabaseOperations.java
+D	src/wordbuilder/PopUp.form
+commit=809668c210d18248f0c9b59b51d5c59b864798a3:cravip1512@gmail.com
+commit=d5895ba878c368da57d17c909d3481ae23e0cc6a:mohitsinha251@gmail.com
+
+A	src/quiz_retention/ShowAnalysis.form
+A	src/quiz_retention/ShowAnalysis.java
+commit=c440ca498d9f33a4cf81bfdc171ae128c43752d8:mohitsinha251@gmail.com
+
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/WordBuilder.java
+commit=0b4e311ea6f5b991ec331b527412187a40c8d2bd:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+commit=9041f6c07598657b879c70cd9d7b3e822a970e45:mohitsinha251@gmail.com
+commit=5c7fa63c9319a2be12cd86d648fbb84186800ff5:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+commit=363f05b738c4a5033b2ac30859979a11ce459bb0:mohitsinha251@gmail.com
+commit=d9e1a08a48c883c9617db4752a6028654906a0eb:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.java
+commit=5832bd4f9ccff9635ffd29376241c5f5d15a1002:mohitsinha251@gmail.com
+
+M	src/quiz_retention/QuizRD.form
+M	src/quiz_retention/QuizRD.java
+commit=430953ca98d8c77c2c5c81567caf695bb6a30f1c:mohitsinha251@gmail.com
+commit=277c9f572330ae57f44c6f6544a0e8d248dca3b5:cravip1512@gmail.com
+
+A	src/wordbuilder/QuizAnalysis.java
+commit=87a8d7a09919cb75ecb68c9a18fa9786b01a1f58:mohitsinha251@gmail.com
+commit=484456f37f3dc0c74c707cad0ac7e9dcac358bf0:mohitsinha251@gmail.com
+
+M	.gitattributes
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+A	src/quiz_retention/QuizRD.form
+A	src/quiz_retention/QuizRD.java
+M	src/wordbuilder/WordBuilder.java
+commit=0b1fa4820c716112df236e74b53b59de3db67edc:cravip1512@gmail.com
+
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.java
+commit=f6e624c2a35c5f9bbe55564ae7a5eac2968add5d:cravip1512@gmail.com
+
+M	test/database/DatabaseOperationsTest.java
+D	test/wordbuilder/ForgotPasswordTest.java
+D	test/wordbuilder/QuizTest.java
+D	test/wordbuilder/SigninTest.java
+D	test/wordbuilder/SignupTest.java
+M	test/wordbuilder/WordbuilderSuite.java
+commit=9a057160e34e7b2ab692af91d6ea5c46e37894e0:mohitsinha251@gmail.com
+
+M	src/wordbuilder/ForgotPassword.form
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.form
+M	src/wordbuilder/Signup.java
+commit=dcd7e1479323afa23d2fe90e8586b0c4eb82bbf8:mohitsinha251@gmail.com
+commit=d18f4068eb8da96f3093aac8523b1b95a71a0bee:cravip1512@gmail.com
+
+M	src/wordbuilder/WordBuilder.java
+commit=0893e68bf15b996ae52dee9074b17af2b1e2e15a:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=a6213664fe2fc4d7a43c766854c8223995063f2a:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=2ac726787107b17fdf404418ed59e980da8dfff7:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+M	src/wordbuilder/WordBuilder.java
+commit=39bc1b871d5ef0862bbaaf34719502eb7cb69bad:mohitsinha251@gmail.com
+commit=6c61a471501e71058fe91853be2d91deada934af:cravip1512@gmail.com
+
+A	test/RootSuite.java
+A	test/database/DatabaseOperationsTest.java
+A	test/database/DatabaseSuite.java
+A	test/images/ImagesSuite.java
+A	test/wordbuilder/ApiFetchTest.java
+A	test/wordbuilder/ForgotPasswordTest.java
+A	test/wordbuilder/QuizTest.java
+A	test/wordbuilder/SigninTest.java
+A	test/wordbuilder/SignupTest.java
+A	test/wordbuilder/WordBuilderTest.java
+A	test/wordbuilder/WordbuilderSuite.java
+commit=786bb75056d74a93741ba1315708e064c880f0e2:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+commit=dab25266741bc9b38210b3b403dd00c0c328e581:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+commit=414f457a3af9c21bab3e36b7d1fc6615344bebcd:cravip1512@gmail.com
+
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+A	wordnet/data/help.pdf
+commit=649ce572ce75c05d15e57ecc593950fbc20ff22f:cravip1512@gmail.com
+
+M	.gitattributes
+A	src/wordbuilder/History.form
+A	src/wordbuilder/History.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Options.form
+M	src/wordbuilder/Options.java
+commit=3e215539fa51e827e17a89cd9273fc3507f524ac:cravip1512@gmail.com
+commit=43775258119033f3ef8a9faecf12fd8743848db4:mohitsinha251@gmail.com
+commit=d5e9da4847480c3619c2a906821f4d41f2743ca8:cravip1512@gmail.com
+
+D	src/wordbuilder/NativeHookDemo.java
+D	src/wordbuilder/PopUp.java
+D	src/wordbuilder/SwingExample.java
+commit=5f6cb9995f0ccd5bb52ab5c2721f69f152860052:mohitsinha251@gmail.com
+commit=de074023da20bcea8f989274d65ce7b753af7fd6:cravip1512@gmail.com
+
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/Notify.java
+commit=1cce963fda184cb9c654e67efef926f2c08fe54b:cravip1512@gmail.com
+
+M	src/wordbuilder/Notify.java
+M	wordnet/data/short.txt
+commit=2cd27f7e0a31c01cf82791a575f2c3c24ad013e6:cravip1512@gmail.com
+
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/Notify.java
+commit=da8948f0f4f3d62bcc47878ff5ded10b3fd0bddc:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/BaseIcon.java
+commit=904182e6ace78a5b06bfad6c1bd65e9462da6d57:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+commit=2cf6f52846b8db30a6b0e68b8a390c38e9d098c1:mohitsinha251@gmail.com
+commit=6758e3d8e59e91b0b396b8315aaa45643fe87da0:cravip1512@gmail.com
+
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Notify.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+M	src/wordbuilder/WordBuilder.java
+commit=d0f42813dcc090f5e61c127ae332031e665325b6:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+commit=845890b3765aee086added75824f1073f87279a4:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+commit=52e4ad01dd9bdc0c9a526734b933da531ee9ff6f:cravip1512@gmail.com
+commit=ebf7402eac22a59af441911f76352cec616abb9d:mohitsinha251@gmail.com
+commit=57e843112f83a9264e8da7191d59b7d1a3e0c3d5:mohitsinha251@gmail.com
+
+D	sendb/db.lck
+D	sendb/log/log.ctrl
+D	sendb/log/log11.dat
+D	sendb/log/log12.dat
+D	sendb/log/log13.dat
+D	sendb/log/log3.dat
+D	sendb/log/log8.dat
+D	sendb/log/logmirror.ctrl
+D	sendb/seg0/c10.dat
+D	sendb/seg0/c101.dat
+D	sendb/seg0/c111.dat
+D	sendb/seg0/c121.dat
+D	sendb/seg0/c130.dat
+D	sendb/seg0/c141.dat
+D	sendb/seg0/c150.dat
+D	sendb/seg0/c161.dat
+D	sendb/seg0/c171.dat
+D	sendb/seg0/c180.dat
+D	sendb/seg0/c191.dat
+D	sendb/seg0/c1a1.dat
+D	sendb/seg0/c1b1.dat
+D	sendb/seg0/c1c0.dat
+D	sendb/seg0/c1d1.dat
+D	sendb/seg0/c1e0.dat
+D	sendb/seg0/c1f1.dat
+D	sendb/seg0/c20.dat
+D	sendb/seg0/c200.dat
+D	sendb/seg0/c211.dat
+D	sendb/seg0/c221.dat
+D	sendb/seg0/c230.dat
+D	sendb/seg0/c241.dat
+D	sendb/seg0/c251.dat
+D	sendb/seg0/c260.dat
+D	sendb/seg0/c271.dat
+D	sendb/seg0/c281.dat
+D	sendb/seg0/c290.dat
+D	sendb/seg0/c2a1.dat
+D	sendb/seg0/c2b1.dat
+D	sendb/seg0/c2c1.dat
+D	sendb/seg0/c2d0.dat
+D	sendb/seg0/c2e1.dat
+D	sendb/seg0/c2f0.dat
+D	sendb/seg0/c300.dat
+D	sendb/seg0/c31.dat
+D	sendb/seg0/c311.dat
+D	sendb/seg0/c321.dat
+D	sendb/seg0/c331.dat
+D	sendb/seg0/c340.dat
+D	sendb/seg0/c351.dat
+D	sendb/seg0/c361.dat
+D	sendb/seg0/c371.dat
+D	sendb/seg0/c380.dat
+D	sendb/seg0/c391.dat
+D	sendb/seg0/c3a1.dat
+D	sendb/seg0/c3b1.dat
+D	sendb/seg0/c3c0.dat
+D	sendb/seg0/c3d1.dat
+D	sendb/seg0/c3e1.dat
+D	sendb/seg0/c3f1.dat
+D	sendb/seg0/c41.dat
+D	sendb/seg0/c51.dat
+D	sendb/seg0/c530.dat
+D	sendb/seg0/c541.dat
+D	sendb/seg0/c550.dat
+D	sendb/seg0/c561.dat
+D	sendb/seg0/c570.dat
+D	sendb/seg0/c581.dat
+D	sendb/seg0/c591.dat
+D	sendb/seg0/c5a1.dat
+D	sendb/seg0/c5b0.dat
+D	sendb/seg0/c5c1.dat
+D	sendb/seg0/c5d1.dat
+D	sendb/seg0/c5e0.dat
+D	sendb/seg0/c5f1.dat
+D	sendb/seg0/c60.dat
+D	sendb/seg0/c601.dat
+D	sendb/seg0/c71.dat
+D	sendb/seg0/c81.dat
+D	sendb/seg0/c90.dat
+D	sendb/seg0/ca1.dat
+D	sendb/seg0/cb1.dat
+D	sendb/seg0/cc0.dat
+D	sendb/seg0/cd1.dat
+D	sendb/seg0/ce1.dat
+D	sendb/seg0/cf0.dat
+D	sendb/service.properties
+commit=d4d2ee584f853020204a675242eb65e45556c66d:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/WordBuilder.java
+M	wordnet/data/short.txt
+commit=d129665faff4689d63bbbc6ac9cb4d977a432e65:cravip1512@gmail.com
+commit=ac54bc8b0a8f93c188c522b30e03141af0f20bb2:cravip1512@gmail.com
+
+M	src/wordbuilder/WordBuilder.java
+commit=b84f6cc7a1ba625f8e191ff10df680eaccb70aeb:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+M	src/wordbuilder/ForgotPassword.java
+commit=d3d92476ba19392afbcdc6ba956dbfb8bff8b8a6:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+M	src/wordbuilder/ForgotPassword.form
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.form
+M	src/wordbuilder/Signup.java
+M	src/wordbuilder/WordBuilder.java
+commit=842ca1d451794bdf29f986dadcc721df2b56bcf2:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=ae886ffa777fddba60092b17dd904bb5f7ceede4:cravip1512@gmail.com
+commit=ada8e213d27201d3819bad2679b43d282e3b8b9e:cravip1512@gmail.com
+commit=f27dc1eace4e886aa97b1186531733feaa58d018:cravip1512@gmail.com
+
+A	src/images/QuesM.gif
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Options.form
+M	src/wordbuilder/Options.java
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+M	src/wordbuilder/WordBuilder.java
+M	wordnet/data/short.txt
+commit=7a06c5c2806584be567e4f71b7ecea45a9e35a6c:cravip1512@gmail.com
+
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/Options.form
+M	src/wordbuilder/Options.java
+M	wordnet/data/short.txt
+commit=d3f8937b5b5cd5f6798d36a0b6458fb4b96a6ace:cravip1512@gmail.com
+
+D	sendb/db.lck
+D	sendb/log/log.ctrl
+D	sendb/log/log11.dat
+D	sendb/log/log12.dat
+D	sendb/log/log13.dat
+D	sendb/log/log3.dat
+D	sendb/log/log8.dat
+D	sendb/log/logmirror.ctrl
+D	sendb/seg0/c10.dat
+D	sendb/seg0/c101.dat
+D	sendb/seg0/c111.dat
+D	sendb/seg0/c121.dat
+D	sendb/seg0/c130.dat
+D	sendb/seg0/c141.dat
+D	sendb/seg0/c150.dat
+D	sendb/seg0/c161.dat
+D	sendb/seg0/c171.dat
+D	sendb/seg0/c180.dat
+D	sendb/seg0/c191.dat
+D	sendb/seg0/c1a1.dat
+D	sendb/seg0/c1b1.dat
+D	sendb/seg0/c1c0.dat
+D	sendb/seg0/c1d1.dat
+D	sendb/seg0/c1e0.dat
+D	sendb/seg0/c1f1.dat
+D	sendb/seg0/c20.dat
+D	sendb/seg0/c200.dat
+D	sendb/seg0/c211.dat
+D	sendb/seg0/c221.dat
+D	sendb/seg0/c230.dat
+D	sendb/seg0/c241.dat
+D	sendb/seg0/c251.dat
+D	sendb/seg0/c260.dat
+D	sendb/seg0/c271.dat
+D	sendb/seg0/c281.dat
+D	sendb/seg0/c290.dat
+D	sendb/seg0/c2a1.dat
+D	sendb/seg0/c2b1.dat
+D	sendb/seg0/c2c1.dat
+D	sendb/seg0/c2d0.dat
+D	sendb/seg0/c2e1.dat
+D	sendb/seg0/c2f0.dat
+D	sendb/seg0/c300.dat
+D	sendb/seg0/c31.dat
+D	sendb/seg0/c311.dat
+D	sendb/seg0/c321.dat
+D	sendb/seg0/c331.dat
+D	sendb/seg0/c340.dat
+D	sendb/seg0/c351.dat
+D	sendb/seg0/c361.dat
+D	sendb/seg0/c371.dat
+D	sendb/seg0/c380.dat
+D	sendb/seg0/c391.dat
+D	sendb/seg0/c3a1.dat
+D	sendb/seg0/c3b1.dat
+D	sendb/seg0/c3c0.dat
+D	sendb/seg0/c3d1.dat
+D	sendb/seg0/c3e1.dat
+D	sendb/seg0/c3f1.dat
+D	sendb/seg0/c41.dat
+D	sendb/seg0/c51.dat
+D	sendb/seg0/c530.dat
+D	sendb/seg0/c541.dat
+D	sendb/seg0/c550.dat
+D	sendb/seg0/c561.dat
+D	sendb/seg0/c570.dat
+D	sendb/seg0/c581.dat
+D	sendb/seg0/c591.dat
+D	sendb/seg0/c5a1.dat
+D	sendb/seg0/c5b0.dat
+D	sendb/seg0/c5c1.dat
+D	sendb/seg0/c5d1.dat
+D	sendb/seg0/c5e0.dat
+D	sendb/seg0/c5f1.dat
+D	sendb/seg0/c60.dat
+D	sendb/seg0/c601.dat
+D	sendb/seg0/c71.dat
+D	sendb/seg0/c81.dat
+D	sendb/seg0/c90.dat
+D	sendb/seg0/ca1.dat
+D	sendb/seg0/cb1.dat
+D	sendb/seg0/cc0.dat
+D	sendb/seg0/cd1.dat
+D	sendb/seg0/ce1.dat
+D	sendb/seg0/cf0.dat
+D	sendb/service.properties
+commit=c2dd0b8dc486335ebd53c94901dbb05e9c2923ef:cravip1512@gmail.com
+
+M	.gitattributes
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/BackGround.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/Notify.java
+A	src/wordbuilder/Options.form
+A	src/wordbuilder/Options.java
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+A	src/wordbuilder/SwingExample.java
+M	src/wordbuilder/WordBuilder.java
+M	wordnet/data/short.txt
+commit=34e6ff8a285e345babeb20b8385ca6341c91eb1e:mohitsinha251@gmail.com
+
+M	src/wordbuilder/WordBuilder.java
+commit=94b33c3cf55700d51cae4a27b49297c5ea0a8c70:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=b987fe869b84637c1ad5066853474896b0da9362:cravip1512@gmail.com
+commit=a4d2e6342e467f54dc5fb2d3e6629e5f6d6c41eb:mohitsinha251@gmail.com
+
+M	src/wordbuilder/ForgotPassword.java
+commit=d324ddd2ab59a576a6b4399f5a6bcac5068878d4:mohitsinha251@gmail.com
+
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+M	src/wordbuilder/WordBuilder.java
+commit=ca65bda4d97bc6bd840f2bf3d859a89a001b5426:cravip1512@gmail.com
+
+M	.gitattributes
+M	src/wordbuilder/ApiFetch.java
+A	src/wordbuilder/BackGround.java
+M	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.java
+A	src/wordbuilder/NativeHookDemo.java
+A	src/wordbuilder/Notify.java
+A	src/wordbuilder/PopUp.form
+A	src/wordbuilder/PopUp.java
+M	src/wordbuilder/Quiz.form
+M	src/wordbuilder/Quiz.java
+M	src/wordbuilder/WordBuilder.java
+A	wordnet/data/short.txt
+commit=d901cd4bc240efa4660aad7b27eb57f0e217512a:mohitsinha251@gmail.com
+commit=9bb78fd1ca3ee4f8d906c579770530eaa7171895:cravip1512@gmail.com
+commit=20a9f575bf28beb7468f38da7e718216dbac48e6:cravip1512@gmail.com
+commit=2bef94c23c3b90ef5c8876bcf7a9fa2bfdf0bf14:cravip1512@gmail.com
+commit=5a04b9bc89d5f439e15502897afecdce9184aa66:mohitsinha251@gmail.com
+commit=63e89d558a18731798dad56ab47612f9fd439545:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+A	src/wordbuilder/BaseIcon.java
+M	src/wordbuilder/MainPage.form
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/WordBuilder.java
+commit=ee1ef16f7a7ec860d8482b7ab82fc3db4a1e444f:mohitsinha251@gmail.com
+
+M	sampledbsen.txt
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+M	src/wordbuilder/ForgotPassword.java
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+M	src/wordbuilder/Signup.java
+commit=7526c0b942bccd18f7e906b6e5f8bc34aa22ee3f:cravip1512@gmail.com
+
+M	.gitignore
+commit=c52b63c7bc4e925dad4d4048c823281330dc2603:cravip1512@gmail.com
+commit=2a3da0399759794865f353b53e2a4703054bd3d6:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+commit=630f00bc6696f1e4ffec95575cec6aeaf798a94e:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=17db9fd2fc3ee5900804e4a235fc132caa4d1585:cravip1512@gmail.com
+
+M	.gitattributes
+M	src/wordbuilder/MainPage.form
+A	src/wordbuilder/Quiz.form
+A	src/wordbuilder/Quiz.java
+commit=c4c0cd07f4fb756b7aedcd5040c0475f898bab11:mohitsinha251@gmail.com
+commit=9e4e594ecdc8c9a974400f7e9197ad6f080a93ee:cravip1512@gmail.com
+commit=e3765ee10f36802bbdbae8b41c639f6ebad3f65f:cravip1512@gmail.com
+
+A	src/images/wordbuilder.gif
+A	src/images/wordbuilderlogo.gif
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/MainPage.java
+M	src/wordbuilder/WordBuilder.java
+commit=1e0b73dee602c69b7e56001261302e510df6c4da:mohitsinha251@gmail.com
+
+M	src/wordbuilder/Signup.form
+M	src/wordbuilder/Signup.java
+commit=8a6e5944f5a8099170b762b7043c813867bf3275:mohitsinha251@gmail.com
+
+M	src/wordbuilder/ForgotPassword.form
+M	src/wordbuilder/ForgotPassword.java
+commit=e6f1f233dafa71720d71e3df97c1bc0c41943c7b:mohitsinha251@gmail.com
+
+M	src/wordbuilder/Signin.form
+M	src/wordbuilder/Signin.java
+commit=b6e3b84e137beef63e029a5ffc992aa0b7615c6f:mohitsinha251@gmail.com
+
+A	src/wordbuilder/ForgotPassword.form
+A	src/wordbuilder/ForgotPassword.java
+commit=4f72ef1ded2c6d5f2d6d03d63545127ca7236d35:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+commit=30b151da19a3eb29085fd3fcbe76cfbf3207c61a:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=9f143a65ec9937b53688b19ca7e568516c4dc294:mohitsinha251@gmail.com
+
+M	sendb/db.lck
+M	sendb/log/log.ctrl
+A	sendb/log/log12.dat
+A	sendb/log/log13.dat
+M	sendb/log/logmirror.ctrl
+M	sendb/seg0/c10.dat
+M	sendb/seg0/c150.dat
+M	sendb/seg0/c161.dat
+M	sendb/seg0/c171.dat
+M	sendb/seg0/c230.dat
+M	sendb/seg0/c241.dat
+M	sendb/seg0/c251.dat
+M	sendb/seg0/c90.dat
+M	sendb/seg0/ca1.dat
+M	sendb/seg0/cb1.dat
+commit=7ae487b09b9886c907ca1c166148b6760aa2fe28:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperationsTest.java
+commit=bdce950b8b5b4e54de9eee5e48297ba83f773549:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+commit=340c9957245efffbb639d5e64b8464ad4fcc236d:mohitsinha251@gmail.com
+
+A	sampledbsen.txt
+commit=202838455e3872c6ec8d0c5a8b6a2de0c0744a08:cravip1512@gmail.com
+commit=e95865ee66c688af6c1236055df47c40c35de2df:cravip1512@gmail.com
+commit=89e417d6d275a3fc7ee667360d01282ec3290018:cravip1512@gmail.com
+
+M	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/WordBuilder.java
+M	wordnet/dict/adj.exc
+M	wordnet/dict/cntlist
+M	wordnet/dict/cntlist.rev
+A	wordnet/dict/cousin.exc
+M	wordnet/dict/data.adj
+M	wordnet/dict/data.adv
+M	wordnet/dict/data.noun
+M	wordnet/dict/data.verb
+A	wordnet/dict/dbfiles/adj.all
+A	wordnet/dict/dbfiles/adj.pert
+A	wordnet/dict/dbfiles/adj.ppl
+A	wordnet/dict/dbfiles/adv.all
+A	wordnet/dict/dbfiles/cntlist
+A	wordnet/dict/dbfiles/noun.Tops
+A	wordnet/dict/dbfiles/noun.act
+A	wordnet/dict/dbfiles/noun.animal
+A	wordnet/dict/dbfiles/noun.artifact
+A	wordnet/dict/dbfiles/noun.attribute
+A	wordnet/dict/dbfiles/noun.body
+A	wordnet/dict/dbfiles/noun.cognition
+A	wordnet/dict/dbfiles/noun.communication
+A	wordnet/dict/dbfiles/noun.event
+A	wordnet/dict/dbfiles/noun.feeling
+A	wordnet/dict/dbfiles/noun.food
+A	wordnet/dict/dbfiles/noun.group
+A	wordnet/dict/dbfiles/noun.location
+A	wordnet/dict/dbfiles/noun.motive
+A	wordnet/dict/dbfiles/noun.object
+A	wordnet/dict/dbfiles/noun.person
+A	wordnet/dict/dbfiles/noun.phenomenon
+A	wordnet/dict/dbfiles/noun.plant
+A	wordnet/dict/dbfiles/noun.possession
+A	wordnet/dict/dbfiles/noun.process
+A	wordnet/dict/dbfiles/noun.quantity
+A	wordnet/dict/dbfiles/noun.relation
+A	wordnet/dict/dbfiles/noun.shape
+A	wordnet/dict/dbfiles/noun.state
+A	wordnet/dict/dbfiles/noun.substance
+A	wordnet/dict/dbfiles/noun.time
+A	wordnet/dict/dbfiles/verb.Framestext
+A	wordnet/dict/dbfiles/verb.body
+A	wordnet/dict/dbfiles/verb.change
+A	wordnet/dict/dbfiles/verb.cognition
+A	wordnet/dict/dbfiles/verb.communication
+A	wordnet/dict/dbfiles/verb.competition
+A	wordnet/dict/dbfiles/verb.consumption
+A	wordnet/dict/dbfiles/verb.contact
+A	wordnet/dict/dbfiles/verb.creation
+A	wordnet/dict/dbfiles/verb.emotion
+A	wordnet/dict/dbfiles/verb.motion
+A	wordnet/dict/dbfiles/verb.perception
+A	wordnet/dict/dbfiles/verb.possession
+A	wordnet/dict/dbfiles/verb.social
+A	wordnet/dict/dbfiles/verb.stative
+A	wordnet/dict/dbfiles/verb.weather
+M	wordnet/dict/index.adj
+M	wordnet/dict/index.adv
+M	wordnet/dict/index.noun
+M	wordnet/dict/index.sense
+M	wordnet/dict/index.verb
+A	wordnet/dict/log.grind.3.1
+M	wordnet/dict/noun.exc
+M	wordnet/dict/sentidx.vrb
+M	wordnet/dict/verb.Framestext
+M	wordnet/dict/verb.exc
+commit=e21c2d8c0ba76f1631103c1b012ec5e62d73ae8c:cravip1512@gmail.com
+
+M	.gitattributes
+commit=f2e14850c59bc402736055dd4e8976dc8cccc5b4:mohitsinha251@gmail.com
+
+M	sendb/db.lck
+M	sendb/log/log.ctrl
+A	sendb/log/log11.dat
+M	sendb/log/logmirror.ctrl
+M	sendb/seg0/c10.dat
+M	sendb/seg0/c101.dat
+M	sendb/seg0/c111.dat
+M	sendb/seg0/c121.dat
+M	sendb/seg0/c130.dat
+M	sendb/seg0/c141.dat
+M	sendb/seg0/c150.dat
+M	sendb/seg0/c161.dat
+M	sendb/seg0/c171.dat
+M	sendb/seg0/c20.dat
+M	sendb/seg0/c200.dat
+M	sendb/seg0/c211.dat
+M	sendb/seg0/c221.dat
+M	sendb/seg0/c230.dat
+M	sendb/seg0/c241.dat
+M	sendb/seg0/c251.dat
+M	sendb/seg0/c31.dat
+M	sendb/seg0/c41.dat
+M	sendb/seg0/c51.dat
+A	sendb/seg0/c5e0.dat
+A	sendb/seg0/c5f1.dat
+M	sendb/seg0/c60.dat
+A	sendb/seg0/c601.dat
+M	sendb/seg0/c71.dat
+M	sendb/seg0/c81.dat
+M	sendb/seg0/c90.dat
+M	sendb/seg0/ca1.dat
+M	sendb/seg0/cb1.dat
+M	sendb/seg0/cf0.dat
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+commit=c264e6c41f0512cc6de2e8bd7c3ecacf5a646ecf:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+commit=211c185c836850861bcd5992ae8ef958007d73b1:mohitsinha251@gmail.com
+
+M	sendb/db.lck
+M	sendb/log/log.ctrl
+A	sendb/log/log8.dat
+M	sendb/log/logmirror.ctrl
+M	sendb/seg0/c10.dat
+M	sendb/seg0/c150.dat
+M	sendb/seg0/c161.dat
+M	sendb/seg0/c171.dat
+M	sendb/seg0/c230.dat
+M	sendb/seg0/c241.dat
+M	sendb/seg0/c251.dat
+M	sendb/seg0/c530.dat
+M	sendb/seg0/c541.dat
+M	sendb/seg0/c550.dat
+M	sendb/seg0/c561.dat
+M	sendb/seg0/c570.dat
+M	sendb/seg0/c581.dat
+M	sendb/seg0/c591.dat
+M	sendb/seg0/c5a1.dat
+M	sendb/seg0/c90.dat
+M	sendb/seg0/ca1.dat
+M	sendb/seg0/cb1.dat
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+commit=6f2496436e88ce4845582d4ce20e1569021d585e:mohitsinha251@gmail.com
+
+A	sendb/db.lck
+A	sendb/log/log.ctrl
+A	sendb/log/log3.dat
+A	sendb/log/logmirror.ctrl
+A	sendb/seg0/c10.dat
+A	sendb/seg0/c101.dat
+A	sendb/seg0/c111.dat
+A	sendb/seg0/c121.dat
+A	sendb/seg0/c130.dat
+A	sendb/seg0/c141.dat
+A	sendb/seg0/c150.dat
+A	sendb/seg0/c161.dat
+A	sendb/seg0/c171.dat
+A	sendb/seg0/c180.dat
+A	sendb/seg0/c191.dat
+A	sendb/seg0/c1a1.dat
+A	sendb/seg0/c1b1.dat
+A	sendb/seg0/c1c0.dat
+A	sendb/seg0/c1d1.dat
+A	sendb/seg0/c1e0.dat
+A	sendb/seg0/c1f1.dat
+A	sendb/seg0/c20.dat
+A	sendb/seg0/c200.dat
+A	sendb/seg0/c211.dat
+A	sendb/seg0/c221.dat
+A	sendb/seg0/c230.dat
+A	sendb/seg0/c241.dat
+A	sendb/seg0/c251.dat
+A	sendb/seg0/c260.dat
+A	sendb/seg0/c271.dat
+A	sendb/seg0/c281.dat
+A	sendb/seg0/c290.dat
+A	sendb/seg0/c2a1.dat
+A	sendb/seg0/c2b1.dat
+A	sendb/seg0/c2c1.dat
+A	sendb/seg0/c2d0.dat
+A	sendb/seg0/c2e1.dat
+A	sendb/seg0/c2f0.dat
+A	sendb/seg0/c300.dat
+A	sendb/seg0/c31.dat
+A	sendb/seg0/c311.dat
+A	sendb/seg0/c321.dat
+A	sendb/seg0/c331.dat
+A	sendb/seg0/c340.dat
+A	sendb/seg0/c351.dat
+A	sendb/seg0/c361.dat
+A	sendb/seg0/c371.dat
+A	sendb/seg0/c380.dat
+A	sendb/seg0/c391.dat
+A	sendb/seg0/c3a1.dat
+A	sendb/seg0/c3b1.dat
+A	sendb/seg0/c3c0.dat
+A	sendb/seg0/c3d1.dat
+A	sendb/seg0/c3e1.dat
+A	sendb/seg0/c3f1.dat
+A	sendb/seg0/c41.dat
+A	sendb/seg0/c51.dat
+A	sendb/seg0/c530.dat
+A	sendb/seg0/c541.dat
+A	sendb/seg0/c550.dat
+A	sendb/seg0/c561.dat
+A	sendb/seg0/c570.dat
+A	sendb/seg0/c581.dat
+A	sendb/seg0/c591.dat
+A	sendb/seg0/c5a1.dat
+A	sendb/seg0/c5b0.dat
+A	sendb/seg0/c5c1.dat
+A	sendb/seg0/c5d1.dat
+A	sendb/seg0/c60.dat
+A	sendb/seg0/c71.dat
+A	sendb/seg0/c81.dat
+A	sendb/seg0/c90.dat
+A	sendb/seg0/ca1.dat
+A	sendb/seg0/cb1.dat
+A	sendb/seg0/cc0.dat
+A	sendb/seg0/cd1.dat
+A	sendb/seg0/ce1.dat
+A	sendb/seg0/cf0.dat
+A	sendb/service.properties
+commit=027e1da41ceb74c07c1b91e9998363032c1e425c:mohitsinha251@gmail.com
+
+M	src/database/DatabaseOperations.java
+M	src/database/DatabaseOperationsTest.java
+commit=ff4f4c9cb8190cedbef90f87423e997b5cd4af14:cravip1512@gmail.com
+
+A	.gitattributes
+M	.gitignore
+commit=1da97bdbef0b52c3ce272317d2beaba6c8d6d343:cravip1512@gmail.com
+
+M	build.xml
+M	nbproject/project.properties
+M	src/wordbuilder/WordBuilder.java
+commit=afa72ad0ef4d81b19253b20c4dc5e52b15ea3dd8:cravip1512@gmail.com
+
+M	nbproject/project.properties
+A	src/wordbuilder/ApiFetch.java
+M	src/wordbuilder/WordBuilder.java
+A	wordnet/dict/adj.exc
+A	wordnet/dict/adv.exc
+A	wordnet/dict/cntlist
+A	wordnet/dict/cntlist.rev
+A	wordnet/dict/data.adj
+A	wordnet/dict/data.adv
+A	wordnet/dict/data.noun
+A	wordnet/dict/data.verb
+A	wordnet/dict/frames.vrb
+A	wordnet/dict/index.adj
+A	wordnet/dict/index.adv
+A	wordnet/dict/index.noun
+A	wordnet/dict/index.sense
+A	wordnet/dict/index.verb
+A	wordnet/dict/log.grind.2.1
+A	wordnet/dict/noun.exc
+A	wordnet/dict/sentidx.vrb
+A	wordnet/dict/sents.vrb
+A	wordnet/dict/verb.Framestext
+A	wordnet/dict/verb.exc
+commit=086fa2e8787b0f3ec2bd3d358d5f758e7a404d6e:coolguykranthi957@gmail.com
+
+A	src/wordbuilder/MainPage.form
+A	src/wordbuilder/MainPage.java
+A	src/wordbuilder/Signin.form
+A	src/wordbuilder/Signin.java
+A	src/wordbuilder/Signup.form
+A	src/wordbuilder/Signup.java
+commit=09e7e5257fadac89d24c3996a100a39d11c9024f:mohitsinha251@gmail.com
+
+M	.gitignore
+M	README.md
+A	build.xml
+A	manifest.mf
+A	nbproject/build-impl.xml
+A	nbproject/genfiles.properties
+A	nbproject/project.properties
+A	nbproject/project.xml
+A	src/database/DatabaseOperations.java
+A	src/database/DatabaseOperationsTest.java
+A	src/wordbuilder/WordBuilder.java
+commit=db311c316e11d7bdf4d56f5553cce51fa3aca37e:cravip1512@gmail.com
+
+A	.gitignore
+A	README.md

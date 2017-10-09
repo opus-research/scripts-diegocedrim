@@ -1,0 +1,1105 @@
+commit=fb8892f972a0a50b06a81773e0f0f9339a11edc6:ingo.weinzierl@zalando.de
+
+M	swing-gui/bin/install.sh
+commit=9199e567dc07dcf8d0e81a05886972791f24b575:ingo.weinzierl@zalando.de
+
+M	swing-gui/bin/install.sh
+commit=ba4a88ba5df2f7fd444d7aeebaca39e3ad93e43d:ingo.weinzierl@zalando.de
+
+R100	java-gui/bin/install.sh	swing-gui/bin/install.sh
+R100	java-gui/pom.xml	swing-gui/pom.xml
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewCategoryDialogAction.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewCategoryDialogAction.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewEntryDialogAction.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewEntryDialogAction.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/configuration/Configuration.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/configuration/Configuration.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SyncType.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SyncType.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/Event.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/event/Event.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventBus.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventBus.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventListener.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventListener.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventType.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventType.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/RemovedListener.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/event/RemovedListener.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeException.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeException.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeSecurityException.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeSecurityException.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Errors.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Errors.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Images.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Images.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandler.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandler.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/PasswordHandler.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/PasswordHandler.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/Sync.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/Sync.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/SyncFactory.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/SyncFactory.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSearch.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSearch.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveUpload.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveUpload.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/FileUtils.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/util/FileUtils.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/KeyStrokeHandler.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/util/KeyStrokeHandler.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/SpringUtilities.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/util/SpringUtilities.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/CategoryCellRenderer.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/CategoryCellRenderer.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/Display.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/Display.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EnterPasswordPanel.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EnterPasswordPanel.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryListTransferHandler.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryListTransferHandler.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/SynchronizationDialog.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/SynchronizationDialog.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputDialog.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputDialog.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputPanel.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputPanel.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableKeyHandler.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableKeyHandler.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListNode.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListNode.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListTransferable.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListTransferable.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryNode.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryNode.java
+R100	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/RemoveItemMenu.java	swing-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/RemoveItemMenu.java
+R100	java-gui/src/main/resources/Errors.properties	swing-gui/src/main/resources/Errors.properties
+R100	java-gui/src/main/resources/Errors_de_DE.properties	swing-gui/src/main/resources/Errors_de_DE.properties
+R100	java-gui/src/main/resources/Messages.properties	swing-gui/src/main/resources/Messages.properties
+R100	java-gui/src/main/resources/Messages_de_DE.properties	swing-gui/src/main/resources/Messages_de_DE.properties
+R100	java-gui/src/main/resources/icons/accept.png	swing-gui/src/main/resources/icons/accept.png
+R100	java-gui/src/main/resources/icons/cancel.png	swing-gui/src/main/resources/icons/cancel.png
+R100	java-gui/src/main/resources/icons/edit.png	swing-gui/src/main/resources/icons/edit.png
+R100	java-gui/src/main/resources/icons/hide.png	swing-gui/src/main/resources/icons/hide.png
+R100	java-gui/src/main/resources/icons/passsafe.png	swing-gui/src/main/resources/icons/passsafe.png
+R100	java-gui/src/main/resources/icons/show.png	swing-gui/src/main/resources/icons/show.png
+R100	java-gui/src/main/resources/log4j.xml	swing-gui/src/main/resources/log4j.xml
+R100	java-gui/src/test/java/de/iweinzierl/passsafe/gui/configuration/SyncTypeTest.java	swing-gui/src/test/java/de/iweinzierl/passsafe/gui/configuration/SyncTypeTest.java
+R100	java-gui/src/test/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandlerTest.java	swing-gui/src/test/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandlerTest.java
+R100	java-gui/src/test/resources/log4j.xml	swing-gui/src/test/resources/log4j.xml
+commit=83a6978960bea37594661e4ea39b10d20623aea5:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+A	androidapp/res/layout/activity_addcategory.xml
+A	androidapp/res/layout/fragment_addcategory.xml
+M	androidapp/res/menu/list.xml
+M	androidapp/res/values/strings.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/addcategory/AddCategoryActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/addcategory/AddCategoryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+commit=8dc938d66b27ce9cad68a7295a7e9fae45644ea8:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/dialog_firstappstart.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/res/values/styles.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+commit=bffc7d60ba3483ccac193a5dec6157655dddc896:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/activity_sync.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/res/values/styles.xml
+commit=967fc793c58672fba8f8c44e5a471266b4eed76e:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/sync/SyncActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+commit=bf524d5007a93cad2dc869c9481416defc1d6c23:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/dialog_firstappstart.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/preferences/ApplicationPreferences.java
+M	androidapp/src/de/iweinzierl/passsafe/android/widget/dialog/FirstAppStartDialog.java
+commit=6a0342e32f11ebea442860cbcfbad090545a7aa6:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseSyncProcessor.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+commit=a3e56248bce48a3bac151139ed4e078274095ee1:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+M	androidapp/src/de/iweinzierl/passsafe/android/widget/dialog/FirstAppStartDialog.java
+commit=085df9879bbad76db8b87825615dbb82c4b5493d:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntry.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntryCategory.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/EntryCategory.java
+commit=e7a66181b6f9b3379af14fcde02faece6c01158f:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=6867cb9b79fe170c64d2f8d0cf934ede9e89a1ad:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseSyncProcessor.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+commit=38f3f8628b68ada6b8f8c28b5338e04157dc3497:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/sync/SyncActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseSyncProcessor.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/logging/Logger.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveDownload.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveUpload.java
+A	androidapp/src/de/iweinzierl/passsafe/android/util/Constants.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/utils/DateUtils.java
+A	shared/src/main/test/de/iweinzierl/passsafe/shared/utils/DateUtilsTest.java
+commit=a8a3f366da34e212d498cd4cf1c8a1260244f69d:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveDownload.java
+A	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSearch.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+A	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveUpload.java
+commit=dbbc42ebc8069d5adbd62d18c587c04850079fea:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/SyncFactory.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+commit=0b54ea12fad799b31f35e2608d1ea0ca7ba680af:ingo.weinzierl@zalando.de
+
+M	androidapp/pom.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseSyncProcessor.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveDownload.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+R095	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/DateUtils.java	shared/src/main/java/de/iweinzierl/passsafe/shared/utils/DateUtils.java
+commit=f827af4aa736ca2d1581933d68efa14aeb1da61d:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSearch.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveUpload.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+commit=7fbff273c0566b62385a7c1c611ba4ae8896642f:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+commit=ec1b8273ec685eaa63d446c17052b40a292408d8:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java
+commit=edbbf5350b032c9f7a06104cdea050fe2b73e943:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/PassSafeDataSource.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+commit=0ad61046e48026bd1db44dbdc45a09394302794e:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/Sync.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveUpload.java
+commit=3c680b6516316376c9677babe5d433f452e1533e:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/SyncFactory.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/FileUtils.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+commit=4247c8d2c466d7601604a11778de569912191d4f:ingo.weinzierl@zalando.de
+
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DatabaseSyncProcessor.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveDownload.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/DateUtils.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/FileUtils.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntry.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntryCategory.java
+commit=e3c920795b5691878a4837ecb0cd509a7a48ccdc:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/addentry/AddEntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/editentry/EditEntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+D	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntry.java
+D	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntryCategory.java
+A	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseSyncProcessor.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/FileUtils.java
+M	androidapp/src/de/iweinzierl/passsafe/android/widget/dialog/FirstAppStartDialog.java
+commit=953e12c00fb9d2226f4b3beeb9db6ee07216060b:ingo.weinzierl@zalando.de
+
+A	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveDownload.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+commit=d6f435b11274f4d673a6adc36854594457fe7071:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	shared/pom.xml
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseData.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DatabaseSyncHelper.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteCommandExecutor.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntry.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/DatabaseEntryCategory.java
+A	shared/src/main/test/de/iweinzierl/passsafe/shared/data/DatabaseSyncTest.java
+commit=615a9e51d0cf47e02f02b8519f522d03af95fe3d:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+commit=408d6d5ff4a19e8623441756e3d1c2631e093585:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/sync/SyncActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+commit=83280636be382a5a84d2e12bc0cb5dcf5e57b722:ingo.weinzierl@zalando.de
+
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+commit=1b891fb492d42978153f6cf70f95adabddced813:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+A	androidapp/res/layout/activity_sync.xml
+A	androidapp/res/layout/dialog_firstappstart.xml
+M	androidapp/res/values/strings.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/sync/SyncActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/FileUtils.java
+A	androidapp/src/de/iweinzierl/passsafe/android/widget/dialog/FirstAppStartDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+commit=fcbe6c3702c8d78d40ada8240b9df1e495d37812:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/SynchronizationDialog.java
+A	java-gui/src/main/resources/icons/passsafe.png
+commit=0fc1eb287bf229fa57d2e9362fda1f4b4fb50dd0:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Errors.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EnterPasswordPanel.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java
+M	java-gui/src/main/resources/Errors.properties
+M	java-gui/src/main/resources/Errors_de_DE.properties
+commit=602ef67def806c4eb7c764e5963160b89aca7605:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+commit=758e5e80dc0e9eb8ddcf405742169d094af344b5:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+M	androidapp/res/menu/list.xml
+M	androidapp/res/values/strings.xml
+A	androidapp/res/xml/fragment_preferences.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/settings/SettingsActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/settings/SettingsFragment.java
+commit=4af6ad01ba2a6cba5ed87ab3881192459bec059f:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+A	androidapp/res/layout/activity_editentry.xml
+A	androidapp/res/layout/fragment_editentry.xml
+M	androidapp/res/menu/entry.xml
+M	androidapp/res/values/strings.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/editentry/EditEntryActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/editentry/EditEntryFragment.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/editentry/EditEntryIntent.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/AbstractListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntryCategory.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=7a8d9a5633c55086f3358fb791dd745b32ae58b3:ingo.weinzierl@zalando.de
+
+A	androidapp/res/menu/entry.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+commit=afa851d65e0d4b46496dea3d1aee1ccfef944fe8:ingo.weinzierl@zalando.de
+
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/AbstractListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=b89f9ae96536c6b29c67bc3d0de877eac552d46f:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+commit=0a7bc77a4238d82a822d02ef0da24b238fe4edbc:ingo.weinzierl@zalando.de
+
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/addentry/AddEntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/secure/AesPasswordHandler.java
+commit=d5b119cde5a59b5b313c7e4f80628d44afd75780:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+A	androidapp/res/layout/activity_addentry.xml
+A	androidapp/res/layout/fragment_addentry.xml
+M	androidapp/res/menu/list.xml
+M	androidapp/res/values/strings.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/addentry/AddEntryActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/addentry/AddEntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=59125e760f7ff35bfd815cab8a089cc4afc3d782:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=83ea4e646f41ef34e46806ab8788475ede134b82:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/fragment_login.xml
+M	androidapp/res/values/strings.xml
+commit=b431e5038677f263b6839789d657b790b199e99b:ingo.weinzierl@zalando.de
+
+A	androidapp/res/drawable/roundcorners.xml
+M	androidapp/res/layout/fragment_login.xml
+M	androidapp/res/values/colors.xml
+M	androidapp/res/values/strings.xml
+commit=40efae47201b193d6f993781f6c86c340e4b9de0:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/fragment_entry.xml
+commit=8e2ee906a6f9d955fa25febe958f61419ba99880:ingo.weinzierl@zalando.de
+
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+commit=d8dd9b27b26e4d39c0d357b2510be4c6c8d70d2d:ingo.weinzierl@zalando.de
+
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+commit=afb1de873fba695a92befab55529de53e8a6a9c4:ingo.weinzierl@zalando.de
+
+A	androidapp/res/drawable-hdpi/hideshow.png
+A	androidapp/res/drawable-mdpi/copy.png
+A	androidapp/res/drawable-mdpi/hideshow.png
+A	androidapp/res/drawable-mdpi/world.png
+M	androidapp/res/layout/fragment_entry.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=eee3804896618428510cf543309572413bfa7691:ingo.weinzierl@zalando.de
+
+M	androidapp/res/menu/list.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/AbstractListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+commit=a50bc17ffd475469a6b011cc4dbcae9941a2bfca:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/category_drawer_header.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+commit=143c6a2fe051e5e10546c91d439244113d52e0ca:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/activity_list.xml
+A	androidapp/res/layout/fragment_drawer.xml
+M	androidapp/res/layout/listitem_category.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+commit=2a044e498a488d2053159b6ce17964d393c9b40f:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/category_drawer_header.xml
+M	androidapp/res/values/strings.xml
+commit=bbfeae21a00b74e3dd5be9a0ffebae0588aafc59:ingo.weinzierl@zalando.de
+
+A	androidapp/res/drawable-hdpi/passsafe.png
+A	androidapp/res/drawable-mdpi/passsafe.png
+A	androidapp/res/drawable-xhdpi/passsafe.png
+M	androidapp/res/layout/category_drawer_header.xml
+M	androidapp/res/values/colors.xml
+commit=8d93991457dcacbe1a2f7a274b937445185cbeaf:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/fragment_login.xml
+M	androidapp/res/values/strings.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=3d5f12e379dfe08cb136d0bf31a5324912e883a2:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/activity_list.xml
+M	androidapp/res/layout/listitem_category.xml
+M	androidapp/res/layout/listitem_entry.xml
+A	androidapp/res/values/colors.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+A	androidapp/src/de/iweinzierl/passsafe/android/util/ColorUtils.java
+commit=19c07650c93e80f5b5fe7e0b03d388e858ffa1c8:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+commit=049203196c49e25772245f17adf4ae83b98b44bd:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/activity_entry.xml
+A	androidapp/res/layout/fragment_entry.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivityIntent.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=c7a50757ab810607e4dfc8f615bfef7d589d2091:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+A	androidapp/res/layout/activity_entry.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/entry/EntryActivityIntent.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListFragment.java
+commit=80f3e378803b88e38177f5fd5f17ef29741c82b9:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+M	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=7ded353b4941bf8ae229a2f25260fea8870ba448:ingo.weinzierl@zalando.de
+
+A	androidapp/res/layout/listitem_category.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+commit=0ab2b3eff780f6fa0c00ae677856bdd02e37210e:ingo.weinzierl@zalando.de
+
+M	androidapp/res/layout/listitem_entry.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+commit=9d7f00b5415f8f507073d01c502c2018bd9151f8:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=aef0940904ccf5368762efd57b522dbc59d5735b:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+commit=9d1b330db378d31ae8f9b5a3229e40e7ca203051:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=748af6cd03b0a807461c1f0a2131c25c28f7b28a:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntry.java
+A	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntryCategory.java
+M	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/EntryCategory.java
+commit=1db976484ced8eb908995d3186ed820434b52d61:ingo.weinzierl@zalando.de
+
+M	java-gui/bin/install.sh
+commit=1521bbed271856842554dd84f51774e73e7af121:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=bfbe303acd1596fb3853192cc4d54bea42566652:ingo.weinzierl@zalando.de
+
+M	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/data/DatabaseEntry.java
+A	androidapp/src/de/iweinzierl/passsafe/android/data/SQLiteRepository.java
+commit=9877460f160e58afbc776d00084a125b241b8226:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+M	androidapp/pom.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/exception/PassSafeSyncException.java
+M	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+A	androidapp/src/de/iweinzierl/passsafe/android/util/FileUtils.java
+commit=c31481509633207eaceebb586df88016becdb2d5:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+commit=d707ea4eab41d7f035b8b8b23bf6243d8193d2dd:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+commit=68fe36d8f784527d2899743000b68a5879fe2fa7:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+commit=71eaf46411826354e3245604586590e2b5166b53:ingo.weinzierl@zalando.de
+
+A	androidapp/passsafe-key.keystore
+commit=1a11abb1cb8bb8a50604bf5c9a3e0a98e8d0df05:ingo.weinzierl@zalando.de
+
+M	androidapp/AndroidManifest.xml
+M	androidapp/pom.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginFragment.java
+A	androidapp/src/de/iweinzierl/passsafe/android/sync/gdrive/GoogleDriveSync.java
+commit=ba85eb3a09c315757d94351ae7af932f6dc2b292:ingo.weinzierl@zalando.de
+
+M	androidapp/pom.xml
+M	androidapp/res/layout/fragment_login.xml
+A	androidapp/res/layout/listitem_entry.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+commit=a93627ded876ad29fe83d2241c834ad2f80555f6:ingo.weinzierl@zalando.de
+
+A	java-gui/bin/install.sh
+commit=efdee874c837a3dd6be8b06a591abf43ad41402b:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+commit=02456a7fab76ed0280f35d5a0d23960214cd230a:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+commit=1f35684ff66446b1508937551f40658587c35b3d:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EnterPasswordPanel.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputDialog.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=fba1a8ecf049485b053def0be3bd457c8ce9182b:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=d183f83b24c96afea4b6b61dad4ffb1666547ae7:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=695c6e168cf9352688982c0d5b585207b298eda4:ingo.weinzierl@zalando.de
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+commit=cc99169aaaa9b4948706dbfc8b355fcf2ae4fc5c:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/Event.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventBus.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventListener.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/EventType.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/PassSafeDataSource.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+commit=346458a9feba09184f2fd6650d4fe68be17ed132:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=0ae067629a6babfa646f27f14f683697b9a3b614:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=9ff4af9528335f291cfc3b03496f64329a7e9ab8:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=9fd35ab1f38948af229ab4e3febcce8277f914c1:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+commit=ca7639f053db71f577b710d5685599522f809c22:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/PasswordInputPanel.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java
+commit=08108d588ce8d4292b964cd47d686ce22c57e2e4:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewEntryDialogAction.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=b1d3258d9fd617b98af60bf5b27e3532badfbf9f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/resources/log4j.xml
+commit=55b9c1d2f84ff8cf6f27d6ced63725b9759be86f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableKeyHandler.java
+commit=e4761773c14b9070aba3ce74ce9f97c289aa5980:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=1ba5a0d51a16980fcb4e39024a12aff3702e1be5:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+R095	shared/src/main/java/de/iweinzierl/passsafe/shared/data/EntryDataSource.java	shared/src/main/java/de/iweinzierl/passsafe/shared/data/PassSafeDataSource.java
+commit=0062b1e2ba2de8ed3fcaafdd0a60db26ea911a27:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+R091	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DataSourceChangedListener.java	shared/src/main/java/de/iweinzierl/passsafe/shared/data/DataSourceChangedListener.java
+R094	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java	shared/src/main/java/de/iweinzierl/passsafe/shared/data/EntryDataSource.java
+commit=9d72faa4943bb4d9ce37ca56a9475db0f63f35c1:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/data/SQLiteDatabaseCreator.java
+A	shared/src/main/java/de/iweinzierl/passsafe/shared/exception/PassSafeSqlException.java
+commit=0c20a953f5a1f6c414e5171c78635e55eac32e77:weinzierl.ingo@gmail.com
+
+M	androidapp/res/layout/category_drawer_header.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListFragment.java
+A	androidapp/src/de/iweinzierl/passsafe/android/adapter/EntryListAdapter.java
+A	androidapp/src/de/iweinzierl/passsafe/android/util/UiUtils.java
+commit=fe177f089cc60947ccdf7195ef3694ef8fe44401:weinzierl.ingo@gmail.com
+
+M	README.md
+M	androidapp/AndroidManifest.xml
+M	androidapp/pom.xml
+A	androidapp/res/layout/activity_list.xml
+A	androidapp/res/layout/category_drawer_header.xml
+A	androidapp/res/layout/fragment_list.xml
+A	androidapp/res/menu/list.xml
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListActivityIntent.java
+A	androidapp/src/de/iweinzierl/passsafe/android/activity/list/ListFragment.java
+M	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+A	androidapp/src/de/iweinzierl/passsafe/android/adapter/AbstractListAdapter.java
+A	androidapp/src/de/iweinzierl/passsafe/android/adapter/CategoryListAdapter.java
+commit=50a8a7f7ebe5a11062809469d44c49d521bf0b04:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryListTransferHandler.java
+commit=43d9a1dd450d87fd38a43a50607ab47cb5ddf82d:weinzierl.ingo@gmail.com
+
+M	java-gui/pom.xml
+commit=6078ee03ba37af9e9c8d8490e8691a6b4c72bed0:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryListTransferHandler.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListTransferable.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+M	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/EntryCategory.java
+commit=269db3a0b4b5a58e0c77a5a42609db90a8fb2009:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/KeyStrokeHandler.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=08e57c72d3b151ce85d2373115a2b90d119ba5dd:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewCategoryDialogAction.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/action/NewEntryDialogAction.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/KeyStrokeHandler.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=8fde528cdc60d51300200107087c536afa1ab21a:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+commit=3508d2ad2f289b260f307d1243bccf20402fe4d5:weinzierl.ingo@gmail.com
+
+M	.gitignore
+A	androidapp/AndroidManifest.xml
+M	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+commit=be8a2c7e38123cdb9c1983f82e4e13a25d629a9b:weinzierl.ingo@gmail.com
+
+D	androidapp/PassSafe4Android/PassSafe4Android.iml
+D	androidapp/PassSafe4Android/build.gradle
+D	androidapp/PassSafe4Android/libs/android-support-v4.jar
+D	androidapp/PassSafe4Android/src/main/AndroidManifest.xml
+D	androidapp/androidapp.iml
+D	androidapp/build.gradle
+D	androidapp/gradle/wrapper/gradle-wrapper.jar
+D	androidapp/gradle/wrapper/gradle-wrapper.properties
+D	androidapp/gradlew
+D	androidapp/gradlew.bat
+A	androidapp/pom.xml
+R100	androidapp/PassSafe4Android/src/main/res/drawable-hdpi/ic_launcher.png	androidapp/res/drawable-hdpi/ic_launcher.png
+R100	androidapp/PassSafe4Android/src/main/res/drawable-mdpi/ic_launcher.png	androidapp/res/drawable-mdpi/ic_launcher.png
+R100	androidapp/PassSafe4Android/src/main/res/drawable-xhdpi/ic_launcher.png	androidapp/res/drawable-xhdpi/ic_launcher.png
+R100	androidapp/PassSafe4Android/src/main/res/layout/activity_login.xml	androidapp/res/layout/activity_login.xml
+R100	androidapp/PassSafe4Android/src/main/res/layout/fragment_login.xml	androidapp/res/layout/fragment_login.xml
+R100	androidapp/PassSafe4Android/src/main/res/menu/login.xml	androidapp/res/menu/login.xml
+R100	androidapp/PassSafe4Android/src/main/res/values-sw600dp/dimens.xml	androidapp/res/values-sw600dp/dimens.xml
+R100	androidapp/PassSafe4Android/src/main/res/values-sw720dp-land/dimens.xml	androidapp/res/values-sw720dp-land/dimens.xml
+R100	androidapp/PassSafe4Android/src/main/res/values-v11/styles.xml	androidapp/res/values-v11/styles.xml
+R100	androidapp/PassSafe4Android/src/main/res/values-v14/styles.xml	androidapp/res/values-v14/styles.xml
+R100	androidapp/PassSafe4Android/src/main/res/values/dimens.xml	androidapp/res/values/dimens.xml
+R100	androidapp/PassSafe4Android/src/main/res/values/strings.xml	androidapp/res/values/strings.xml
+R100	androidapp/PassSafe4Android/src/main/res/values/styles.xml	androidapp/res/values/styles.xml
+D	androidapp/settings.gradle
+R092	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/PassSafeApplication.java	androidapp/src/de/iweinzierl/passsafe/android/PassSafeApplication.java
+R100	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+R100	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/activity/login/LoginFragment.java	androidapp/src/de/iweinzierl/passsafe/android/activity/login/LoginFragment.java
+R100	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/exception/PassSafeSecurityException.java	androidapp/src/de/iweinzierl/passsafe/android/exception/PassSafeSecurityException.java
+R100	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/logging/Logger.java	androidapp/src/de/iweinzierl/passsafe/android/logging/Logger.java
+A	androidapp/src/de/iweinzierl/passsafe/android/secure/AesPasswordHandler.java
+A	androidapp/src/de/iweinzierl/passsafe/android/secure/PasswordHandler.java
+D	java-gui/build.gradle
+A	java-gui/pom.xml
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DataSourceChangedListener.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/RemovedListener.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/CategoryCellRenderer.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryNode.java
+D	passsafe.py
+A	pom.xml
+A	shared/pom.xml
+R096	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/Entry.java	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/Entry.java
+R095	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryCategory.java	shared/src/main/java/de/iweinzierl/passsafe/shared/domain/EntryCategory.java
+commit=2e0d5be3aa9ee06eb0dfe0c0150140df3b273930:weinzierl.ingo@gmail.com
+
+M	androidapp/PassSafe4Android/build.gradle
+M	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/PassSafeApplication.java
+M	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/exception/PassSafeSecurityException.java
+commit=3e5e96bc04361e75ad08e501187c691ee8db515b:weinzierl.ingo@gmail.com
+
+M	androidapp/PassSafe4Android/build.gradle
+M	androidapp/PassSafe4Android/src/main/AndroidManifest.xml
+D	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/LoginActivity.java
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/PassSafeApplication.java
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/activity/login/LoginActivity.java
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/activity/login/LoginFragment.java
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/logging/Logger.java
+M	androidapp/PassSafe4Android/src/main/res/layout/activity_login.xml
+A	androidapp/PassSafe4Android/src/main/res/layout/fragment_login.xml
+commit=8543565a642ac94f0184004ede5806c4d3a4f9c5:weinzierl.ingo@gmail.com
+
+A	androidapp/PassSafe4Android/PassSafe4Android.iml
+A	androidapp/PassSafe4Android/build.gradle
+A	androidapp/PassSafe4Android/libs/android-support-v4.jar
+A	androidapp/PassSafe4Android/src/main/AndroidManifest.xml
+A	androidapp/PassSafe4Android/src/main/java/de/iweinzierl/passsafe/android/LoginActivity.java
+A	androidapp/PassSafe4Android/src/main/res/drawable-hdpi/ic_launcher.png
+A	androidapp/PassSafe4Android/src/main/res/drawable-mdpi/ic_launcher.png
+A	androidapp/PassSafe4Android/src/main/res/drawable-xhdpi/ic_launcher.png
+A	androidapp/PassSafe4Android/src/main/res/layout/activity_login.xml
+A	androidapp/PassSafe4Android/src/main/res/menu/login.xml
+A	androidapp/PassSafe4Android/src/main/res/values-sw600dp/dimens.xml
+A	androidapp/PassSafe4Android/src/main/res/values-sw720dp-land/dimens.xml
+A	androidapp/PassSafe4Android/src/main/res/values-v11/styles.xml
+A	androidapp/PassSafe4Android/src/main/res/values-v14/styles.xml
+A	androidapp/PassSafe4Android/src/main/res/values/dimens.xml
+A	androidapp/PassSafe4Android/src/main/res/values/strings.xml
+A	androidapp/PassSafe4Android/src/main/res/values/styles.xml
+A	androidapp/androidapp.iml
+A	androidapp/build.gradle
+A	androidapp/gradle/wrapper/gradle-wrapper.jar
+A	androidapp/gradle/wrapper/gradle-wrapper.properties
+A	androidapp/gradlew
+A	androidapp/gradlew.bat
+A	androidapp/local.properties
+A	androidapp/settings.gradle
+commit=ff43b8d71fc02a56ab97bc3b43ab301f24a61e2c:weinzierl.ingo@gmail.com
+
+D	passsafe/__init__.py
+D	passsafe/cmd.py
+D	passsafe/config.py
+D	passsafe/gdrive/__init__.py
+D	passsafe/gdrive/sync.py
+D	passsafe/gui.py
+D	passsafe/model.py
+D	passsafe/secure.py
+D	passsafe/store.py
+D	passsafe/ui/__init__.py
+D	passsafe/ui/button_groups.py
+D	passsafe/ui/detail_view.py
+D	passsafe/ui/dialogs.py
+D	passsafe/ui/model.py
+D	passsafe/ui/pwlist.py
+commit=db0c7b16531402a02d47644b042ed9d69675782b:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+commit=045b3c750115545c61dbe492531e5ecfbcac5ef4:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=374018e9b9f473ab6f714e530a13c786fb1c8aae:weinzierl.ingo@gmail.com
+
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/CategoryCellRenderer.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=ebe9c1b1abd4805ab00aae1bc9490cdba4f7a1d1:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+commit=9cbd5c8958428c12e3d36d86fe86747e1686b16f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=073e1706cc27854ac0796733f02e6bc0c19e03a2:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+commit=fd3360d9417dd80b751419f846f98ac89b1bb5df:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/configuration/Configuration.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SyncType.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/SyncFactory.java
+A	java-gui/src/test/java/de/iweinzierl/passsafe/gui/configuration/SyncTypeTest.java
+commit=f3b3ce3c45bf18db4437e36a3cb89a6421d8e40b:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Errors.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+A	java-gui/src/main/resources/Errors.properties
+A	java-gui/src/main/resources/Errors_de_DE.properties
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=536846263721be21189799ea2e45b28e7f1512bb:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewCategoryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=825334384dcc7aa68d91f2e719f1e3b0994fc009:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java
+commit=00f8860f5b90e60c81d65a409a7a6d05e9e65950:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=87f03e60c1dabca235a2e0a7069d76d6d5cdc36f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+commit=c168e826706afe7fb4ce729812754440e39c00a1:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+commit=fcbf947a8cb81f79783d7ff5b0cacf2f71eeb72b:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/StartupDialogBuilder.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/WidgetFactory.java
+M	java-gui/src/main/resources/Messages.properties
+M	java-gui/src/main/resources/Messages_de_DE.properties
+M	java-gui/src/test/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandlerTest.java
+commit=ef70b4c1440e1958029248903428b365a60f7658:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/Sync.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+commit=6384057b376e1aedae256277d0bdb7b0349e264a:weinzierl.ingo@gmail.com
+
+M	java-gui/build.gradle
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/sync/gdrive/GoogleDriveSync.java
+commit=b920becff6aeb250dae00f500407ce30707f13b6:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryCategory.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=29580fc1c3a073d5873f707dc8dcfe2395c18622:weinzierl.ingo@gmail.com
+
+M	java-gui/build.gradle
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/Entry.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeException.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/exception/PassSafeSecurityException.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandler.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/secure/PasswordHandler.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java
+M	java-gui/src/main/resources/log4j.xml
+A	java-gui/src/test/java/de/iweinzierl/passsafe/gui/secure/AesPasswordHandlerTest.java
+A	java-gui/src/test/resources/log4j.xml
+commit=9af6a00bfbe8f6fa1c2999100bffa2ca6fefe133:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=81287fd122a0d5f880de4b6578345b27eaa006c3:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=120c8dbdeb3348fcad9b18e5c1e92efbd17795a6:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Images.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+A	java-gui/src/main/resources/icons/show.png
+commit=e1331ce365198c1934b63aad8912a4b867185a9a:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Images.java
+R098	java-gui/src/main/java/de/iweinzierl/passsafe/gui/i18n/Messages.java	java-gui/src/main/java/de/iweinzierl/passsafe/gui/resources/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/RemoveItemMenu.java
+A	java-gui/src/main/resources/icons/accept.png
+A	java-gui/src/main/resources/icons/cancel.png
+A	java-gui/src/main/resources/icons/edit.png
+A	java-gui/src/main/resources/icons/hide.png
+commit=bc4e0e17680d32916af74d8a7deb829dff17959b:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/i18n/Messages.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/RemoveItemMenu.java
+A	java-gui/src/main/resources/Messages.properties
+A	java-gui/src/main/resources/Messages_de_DE.properties
+commit=43cc2d3b042466e3a88eed652499fe73f2733d02:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java
+commit=41d03d7731d14f5bb6bda7a719595917955c010f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/secret/SwitchablePasswordField.java
+commit=e5a7dfc7bd9b64058898b17180a86c079becafcd:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+commit=f74c8a27ca3f9edeec5fe21ce8107250abce48ba:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/Display.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryView.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+commit=7e2d224401751a30dc64b338d25e83a3a0551e1f:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/Entry.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/SpringUtilities.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/Display.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTable.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/table/EntryTableModel.java
+commit=1129ab7cfa4968520aaf09610f5dbcd1e28fd19b:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DataSourceChangedListener.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/event/RemovedListener.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListNode.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryNode.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/RemoveItemMenu.java
+commit=4362ec4f85fea7ceae6a76cbc2eefd222fcdba7e:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java
+D	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListModel.java
+commit=9994f3b6c5655c292ce22823a8b4ad8be7bf5988:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/util/UiUtils.java
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+commit=0238832ad3219af050c526c2eb9c2752240fd7b1:weinzierl.ingo@gmail.com
+
+M	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+commit=390f59daa8bd2627975b9794d93e3e370b838847:Ingo Weinzierl ingo.weinzierl@intevation.de
+
+M	.gitignore
+A	java-gui/build.gradle
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/Application.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/ApplicationController.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/configuration/Configuration.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/DataSourceChangedListener.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/Entry.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryCategory.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/EntryDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/data/SqliteDataSource.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/ButtonBar.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/EntryList.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/NewEntryDialog.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/CategoryNode.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryListModel.java
+A	java-gui/src/main/java/de/iweinzierl/passsafe/gui/widget/tree/EntryNode.java
+A	java-gui/src/main/resources/log4j.xml
+commit=c3ec6abdb2e589c39053c064966ca52e3f9c4f10:weinzierl.ingo@gmail.com
+
+M	passsafe/gui.py
+M	passsafe/ui/button_groups.py
+M	passsafe/ui/detail_view.py
+M	passsafe/ui/pwlist.py
+commit=b89876c5835a3f3a830b0c4e45fc7ac88fa5ffe2:weinzierl.ingo@gmail.com
+
+M	passsafe/gdrive/sync.py
+commit=c7617ca515ed1336ab865b91d18cca4974d9f4e8:ingo.weinzierl@zalando.de
+
+A	passsafe/gdrive/__init__.py
+A	passsafe/gdrive/sync.py
+commit=b68f33ec52c2f54a348ae1da919d4cf428f404eb:weinzierl.ingo@gmail.com
+
+M	passsafe/gui.py
+M	passsafe/store.py
+A	passsafe/ui/model.py
+commit=cad5d53891c322115e7cd49dbaa208ea935b70f4:weinzierl.ingo@gmail.com
+
+M	passsafe.py
+A	passsafe/gui.py
+M	passsafe/secure.py
+A	passsafe/ui/__init__.py
+A	passsafe/ui/button_groups.py
+A	passsafe/ui/detail_view.py
+A	passsafe/ui/dialogs.py
+A	passsafe/ui/pwlist.py
+commit=8ecb030a612d3132a2dcab97ea32320729ae0032:ingo.weinzierl@zalando.de
+
+M	README.md
+commit=38937eaadaa20d5ad0dbb3603f80e7f1ad065c04:ingo.weinzierl@zalando.de
+
+A	passsafe.py
+A	passsafe/__init__.py
+A	passsafe/cmd.py
+A	passsafe/config.py
+A	passsafe/model.py
+A	passsafe/secure.py
+A	passsafe/store.py
+commit=648a1e24960ff28b4f47b41206a81fd5bcb57688:weinzierl.ingo@gmail.com
+
+A	.gitignore
+A	LICENSE
+A	README.md
