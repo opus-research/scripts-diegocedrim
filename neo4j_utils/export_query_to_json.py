@@ -11,10 +11,12 @@ def export_to_json(cursor, filename):
         jsonfile.write(result_json)
 
 query = """
-match (b:Bug)-->(br:BugReport)-->(c:Comment) return b, br, collect(c) as comments
+match (r:Refactoring)-[:CHANGED]->(el:Element)-->(c:Commit)-->(p:Project)
+return r as refactoring, collect(el.name) as elements, c as commit, p as project
+order by p.name, c.order
 """
 
-filename = "bugs_classified.json"
+filename = "refactorings_and_all_elements.json"
 graph = Graph(password="boil2.eat")
 tx = graph.begin()
 cursor = tx.run(query)

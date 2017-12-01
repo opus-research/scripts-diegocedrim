@@ -1,0 +1,618 @@
+[
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.NewsListFragment\")", 
+            "legacy_id": 310, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "c8bb38ca3ed593c72690fa73ed7ed662"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.NewsListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363025467, 
+            "legacy_id": 75438, 
+            "date": "2013-03-11 15:11:07", 
+            "hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "message": "Adding some dagger module stuff.", 
+            "previous_hash": "42940bda89e61b7801cdb15a0ecefb03b4348e1d", 
+            "order": 49, 
+            "hash_id": "584fe6d962291fdee85ed35ea249e4a3"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.UserListFragment\")", 
+            "legacy_id": 308, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "86587acd9c16d4ca1bee484ae05261b9"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.UserListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363025467, 
+            "legacy_id": 75438, 
+            "date": "2013-03-11 15:11:07", 
+            "hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "message": "Adding some dagger module stuff.", 
+            "previous_hash": "42940bda89e61b7801cdb15a0ecefb03b4348e1d", 
+            "order": 49, 
+            "hash_id": "584fe6d962291fdee85ed35ea249e4a3"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.CheckInsListFragment\")", 
+            "legacy_id": 309, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "7c53a17b6a0c7f43f3bc66b8f3bfbaa4"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.CheckInsListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363025467, 
+            "legacy_id": 75438, 
+            "date": "2013-03-11 15:11:07", 
+            "hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "message": "Adding some dagger module stuff.", 
+            "previous_hash": "42940bda89e61b7801cdb15a0ecefb03b4348e1d", 
+            "order": 49, 
+            "hash_id": "584fe6d962291fdee85ed35ea249e4a3"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.CheckInsListFragment\")", 
+            "legacy_id": 309, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "7c53a17b6a0c7f43f3bc66b8f3bfbaa4"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.CheckInsListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363107144, 
+            "legacy_id": 75437, 
+            "date": "2013-03-12 13:52:24", 
+            "hash": "bbb86e0c5be047e9499ca6b625700351e19f4558", 
+            "message": "Updating code to include dagger ioc. Still does not build, broken on generic implementation. Needs work.", 
+            "previous_hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "order": 50, 
+            "hash_id": "0727b9f5f1549f83863e96a2e34199cf"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.UserListFragment\")", 
+            "legacy_id": 308, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "86587acd9c16d4ca1bee484ae05261b9"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.UserListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363107144, 
+            "legacy_id": 75437, 
+            "date": "2013-03-12 13:52:24", 
+            "hash": "bbb86e0c5be047e9499ca6b625700351e19f4558", 
+            "message": "Updating code to include dagger ioc. Still does not build, broken on generic implementation. Needs work.", 
+            "previous_hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "order": 50, 
+            "hash_id": "0727b9f5f1549f83863e96a2e34199cf"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"logoutService\", u\"com.donnfelker.android.bootstrap.ui.ItemListFragment\", u\"com.donnfelker.android.bootstrap.ui.NewsListFragment\")", 
+            "legacy_id": 310, 
+            "degradation_level": "agglomeration", 
+            "type": "Push Down Attribute", 
+            "is_root_canal": false, 
+            "hash_id": "c8bb38ca3ed593c72690fa73ed7ed662"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.NewsListFragment", 
+            "com.donnfelker.android.bootstrap.ui.ItemListFragment"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1363107144, 
+            "legacy_id": 75437, 
+            "date": "2013-03-12 13:52:24", 
+            "hash": "bbb86e0c5be047e9499ca6b625700351e19f4558", 
+            "message": "Updating code to include dagger ioc. Still does not build, broken on generic implementation. Needs work.", 
+            "previous_hash": "f4fd41e17eefb23791bb59822ca41512f3b3b720", 
+            "order": 50, 
+            "hash_id": "0727b9f5f1549f83863e96a2e34199cf"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.CarouselActivity.onOptionsItemSelected\", u\"com.donnfelker.android.bootstrap.ui.CarouselActivity.navigateToTimer\", \"\", u\"com.donnfelker.android.bootstrap.ui.CarouselActivity\")", 
+            "legacy_id": 307, 
+            "degradation_level": "no smells", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "b96b29cd3d2bb8d1e0f64408aa6e34bc"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.CarouselActivity.onOptionsItemSelected", 
+            "com.donnfelker.android.bootstrap.ui.CarouselActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1373268611, 
+            "legacy_id": 75407, 
+            "date": "2013-07-08 04:30:11", 
+            "hash": "c2a007462033235ec96c96060c5a963435c6bd24", 
+            "message": "Upgrading wishlist", 
+            "previous_hash": "087d1f0ebb1c44b8ace4ba518d67703e875fb884", 
+            "order": 80, 
+            "hash_id": "6e44f2e104583580b5aef9b28551c2bc"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.CarouselActivity.onOptionsItemSelected\", u\"com.donnfelker.android.bootstrap.ui.CarouselActivity.navigateToTimer\", \"\", u\"com.donnfelker.android.bootstrap.ui.CarouselActivity\")", 
+            "legacy_id": 307, 
+            "degradation_level": "no smells", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "b96b29cd3d2bb8d1e0f64408aa6e34bc"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.CarouselActivity.navigateToTimer", 
+            "com.donnfelker.android.bootstrap.ui.CarouselActivity.onOptionsItemSelected", 
+            "com.donnfelker.android.bootstrap.ui.CarouselActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1373274045, 
+            "legacy_id": 75406, 
+            "date": "2013-07-08 06:00:45", 
+            "hash": "25f75b53b8dea618fe44e26c6671be0bac880763", 
+            "message": "Adding sliding menu from net.simonvt.menudrawer", 
+            "previous_hash": "c2a007462033235ec96c96060c5a963435c6bd24", 
+            "order": 81, 
+            "hash_id": "c836d97a98ff864895b6d699efc612db"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity.onPause\", u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity\", u\"com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity\")", 
+            "legacy_id": 306, 
+            "degradation_level": "no smells", 
+            "type": "Pull Up Method", 
+            "is_root_canal": false, 
+            "hash_id": "ffd163970743c8e29f34ef23c54c7fbc"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity", 
+            "com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1384222010, 
+            "legacy_id": 75342, 
+            "date": "2013-11-12 00:06:50", 
+            "hash": "258b6356f493f5ab4d670b61a049e54be3932fc4", 
+            "message": "renaming old activity and updating docs a bit", 
+            "previous_hash": "067d83cf316e3d0abda21f94750d56495e4e7bf4", 
+            "order": 145, 
+            "hash_id": "647d10c67d0fefcd26a0f38b659e4d4e"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity.onResume\", u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity\", u\"com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity\")", 
+            "legacy_id": 305, 
+            "degradation_level": "no smells", 
+            "type": "Pull Up Method", 
+            "is_root_canal": false, 
+            "hash_id": "cd6b4e4e3112c462ebd296c64b6548ed"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity", 
+            "com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1384222010, 
+            "legacy_id": 75342, 
+            "date": "2013-11-12 00:06:50", 
+            "hash": "258b6356f493f5ab4d670b61a049e54be3932fc4", 
+            "message": "renaming old activity and updating docs a bit", 
+            "previous_hash": "067d83cf316e3d0abda21f94750d56495e4e7bf4", 
+            "order": 145, 
+            "hash_id": "647d10c67d0fefcd26a0f38b659e4d4e"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity.onPause\", u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity\", u\"com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity\")", 
+            "legacy_id": 306, 
+            "degradation_level": "no smells", 
+            "type": "Pull Up Method", 
+            "is_root_canal": false, 
+            "hash_id": "ffd163970743c8e29f34ef23c54c7fbc"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity", 
+            "com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1384271438, 
+            "legacy_id": 75341, 
+            "date": "2013-11-12 13:50:38", 
+            "hash": "6eec50263a0a9570c6cd73b31579d6a47322d1d5", 
+            "message": "Moving navigation drawer into fragment to prepare for automatic responsive layout.", 
+            "previous_hash": "258b6356f493f5ab4d670b61a049e54be3932fc4", 
+            "order": 146, 
+            "hash_id": "f16b958c396047f46cd2949ecf7f9721"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "neutral", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity.onResume\", u\"com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity\", u\"com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity\")", 
+            "legacy_id": 305, 
+            "degradation_level": "no smells", 
+            "type": "Pull Up Method", 
+            "is_root_canal": false, 
+            "hash_id": "cd6b4e4e3112c462ebd296c64b6548ed"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.ui.BootstrapFragmentActivity", 
+            "com.donnfelker.android.bootstrap.ui.BootstrapTimerActivity"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1384271438, 
+            "legacy_id": 75341, 
+            "date": "2013-11-12 13:50:38", 
+            "hash": "6eec50263a0a9570c6cd73b31579d6a47322d1d5", 
+            "message": "Moving navigation drawer into fragment to prepare for automatic responsive layout.", 
+            "previous_hash": "258b6356f493f5ab4d670b61a049e54be3932fc4", 
+            "order": 146, 
+            "hash_id": "f16b958c396047f46cd2949ecf7f9721"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getCheckIns\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getCheckInService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 304, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "4f2019a16a480a15ddf0746f77fd7bcb"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getCheckIns", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1396718575, 
+            "legacy_id": 75319, 
+            "date": "2014-04-05 14:22:55", 
+            "hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "message": "Updating readme", 
+            "previous_hash": "143f2453ffd7633d042696ac2ad1178109dba2dd", 
+            "order": 168, 
+            "hash_id": "f4f8a2c0ab17a56f616e35b2dc319c37"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getNews\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getNewsService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 303, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "0fd4be1855bc32b77f95bfa84998a253"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getNews", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1396718575, 
+            "legacy_id": 75319, 
+            "date": "2014-04-05 14:22:55", 
+            "hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "message": "Updating readme", 
+            "previous_hash": "143f2453ffd7633d042696ac2ad1178109dba2dd", 
+            "order": 168, 
+            "hash_id": "f4f8a2c0ab17a56f616e35b2dc319c37"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getUsers\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getUserService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 302, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "7927fb3f16e51cb5c996a196fa82c22b"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getUsers", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1396718575, 
+            "legacy_id": 75319, 
+            "date": "2014-04-05 14:22:55", 
+            "hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "message": "Updating readme", 
+            "previous_hash": "143f2453ffd7633d042696ac2ad1178109dba2dd", 
+            "order": 168, 
+            "hash_id": "f4f8a2c0ab17a56f616e35b2dc319c37"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getNews\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getNewsService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 303, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "0fd4be1855bc32b77f95bfa84998a253"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getNewsService", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getNews", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1401991808, 
+            "legacy_id": 75316, 
+            "date": "2014-06-05 15:10:08", 
+            "hash": "d1b44ccd327eb336a2af3180c8c5a5f4bdffa44c", 
+            "message": "Migrating app over to Retrofit and doing some clean up.", 
+            "previous_hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "order": 171, 
+            "hash_id": "1672172cecca661d6e884ce501d3255f"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getUsers\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getUserService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 302, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "7927fb3f16e51cb5c996a196fa82c22b"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getUserService", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getUsers", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1401991808, 
+            "legacy_id": 75316, 
+            "date": "2014-06-05 15:10:08", 
+            "hash": "d1b44ccd327eb336a2af3180c8c5a5f4bdffa44c", 
+            "message": "Migrating app over to Retrofit and doing some clean up.", 
+            "previous_hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "order": 171, 
+            "hash_id": "1672172cecca661d6e884ce501d3255f"
+        }
+    }, 
+    {
+        "project": {
+            "url": "https://github.com/AndroidBootstrap/android-bootstrap", 
+            "open_source": true, 
+            "legacy": true, 
+            "name": "AndroidBootstrap_android-bootstrap"
+        }, 
+        "refactoring": {
+            "classification": "negative", 
+            "parameters": "(u\"com.donnfelker.android.bootstrap.core.BootstrapService.getCheckIns\", u\"com.donnfelker.android.bootstrap.core.BootstrapService.getCheckInService\", \"\", u\"com.donnfelker.android.bootstrap.core.BootstrapService\")", 
+            "legacy_id": 304, 
+            "degradation_level": "smell", 
+            "type": "Extract Method", 
+            "is_root_canal": false, 
+            "hash_id": "4f2019a16a480a15ddf0746f77fd7bcb"
+        }, 
+        "elements": [
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getCheckInService", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService.getCheckIns", 
+            "com.donnfelker.android.bootstrap.core.BootstrapService"
+        ], 
+        "commit": {
+            "imported": true, 
+            "author_email": "donn@donnfelker.com", 
+            "author_name": "Donn Felker", 
+            "epoch": 1401991808, 
+            "legacy_id": 75316, 
+            "date": "2014-06-05 15:10:08", 
+            "hash": "d1b44ccd327eb336a2af3180c8c5a5f4bdffa44c", 
+            "message": "Migrating app over to Retrofit and doing some clean up.", 
+            "previous_hash": "e43e3ac4a5984edf9a6ccc87bac04be177a3615a", 
+            "order": 171, 
+            "hash_id": "1672172cecca661d6e884ce501d3255f"
+        }
+    }
+]
