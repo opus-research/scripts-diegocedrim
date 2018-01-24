@@ -11,13 +11,14 @@ def export_to_csv(cursor, filename):
                 writer = csv.DictWriter(csvfile, fieldnames=list(record.keys()))
                 writer.writeheader()
             record = dict(record)
+            # print record
             writer.writerow(record)
 
 
 query = """
 match (r:Refactoring)-[:CHANGED]->(el:Element)-->(c:Commit)-->(p:Project)
 return
-    p.name as project_name,
+    toLower(p.name) as project_name,
     el.name as element,
     c.order as order,
     c.author_email as author_email,
@@ -27,10 +28,10 @@ return
     c.hash as commit_hash,
     el.hash_id as resource_id
 order by
-    p.name, el.name, c.order
+    toLower(p.name), toLower(p.name), c.order
 """
 
-filename = "all-rerefs.csv"
+filename = "../batch_refactoring/rerefs/refactored_elements.csv"
 graph = Graph(password="boil2.eat")
 tx = graph.begin()
 cursor = tx.run(query)

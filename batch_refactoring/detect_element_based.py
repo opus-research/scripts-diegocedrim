@@ -71,12 +71,7 @@ def find_batches(key):
 
 rerefs = load_rerefs("rerefs/refactored_elements.csv")
 commits_by_devs = load_commits_by_devs()
-# print commits_by_devs[("alibaba/dubbo", "ding.lid@1a56cb94-b969-4eaa-88fa-be21384802f2")]
-# exit()
-# for i in rerefs:
-#     if len(rerefs[i]) > 200:
-#         print i, len(rerefs[i])
-#         exit()
+
 i = 1
 multiple = 0
 all_batches = []
@@ -93,7 +88,12 @@ for key in rerefs:
         if len(orders) > 1:
             multiple += 1
         print ""
-print len(all_batches)
 
-print json.dumps(all_batches, indent=4)
-print "Batches: %s (%s multiples)" % (len(all_batches), multiple)
+
+with open("results/element_batches_to_import.json", "w") as output:
+    output.write(json.dumps(all_batches, indent=4))
+
+# print len(all_batches)
+#
+# print json.dumps(all_batches, indent=4)
+# print "Batches: %s (%s multiples)" % (len(all_batches), multiple)

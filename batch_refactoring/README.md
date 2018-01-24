@@ -14,7 +14,7 @@ git log --pretty=commit=%H:%ae --name-status
 
 Os batches são computados usando as re-refatorações encontradas no banco. Para computar todas elas
 em todos os projetos, basta rodar a query abaixo no Neo4J. As re-refs são uma das entradas pro
-algoritmo de deteção de batches, que está em `detect.py`
+algoritmo de deteção de batches, que está em `detect_element_based.py`
 
 
 ```cypher
@@ -31,6 +31,15 @@ return
     el.hash_id as resource_id
 order by
     toLower(p.name), toLower(p.name), c.order
+```
+
+A versão dos scripts que usam json (scope e version based) usam um arquivo com
+o conteudo gerado pela seguinte query
+
+```cypher
+match (r:Refactoring)-[:CHANGED]->(el:Element)-->(c:Commit)-->(p:Project)
+return r as refactoring, collect(el.name) as elements, c as commit, p as project
+order by p.name, c.order
 ```
 
 

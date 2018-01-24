@@ -2,6 +2,7 @@ import json, csv
 from bisect import bisect_left
 from json import JSONEncoder
 
+
 def load_commits_by_devs():
     commits_by_dev = {}
     with open("rerefs/commits_and_devs.csv") as csvfile:
@@ -168,15 +169,6 @@ def convert_to_import_format(batches_by_project):
 commits_by_devs = load_commits_by_devs()
 refactorings = load_refactorings("input/refactorings_and_all_elements.json")
 batches_by_project = detect_batches(refactorings)
-with open("scope_batches.json", "w") as output:
-    output.write(json.dumps(batches_by_project, cls=BatchEncoder, indent=4))
 
-with open("scope_batches_to_import.json", "w") as output:
+with open("results/scope_batches_to_import.json", "w") as output:
     output.write(json.dumps(convert_to_import_format(batches_by_project), indent=4))
-# for project in batches_by_project:
-#     print "Project:", project
-#     print_batches(batches_by_project[project])
-
-
-# batch = Batch("eu")
-# print json.dumps(batch, cls=BatchEncoder)
